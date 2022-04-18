@@ -4,3 +4,5 @@ id: 202204152542
 ---
 
 Book written by the economists Robert Fogel and Stanley L. Engerman.
+
+↗ [[202204152262]] Cliometrics

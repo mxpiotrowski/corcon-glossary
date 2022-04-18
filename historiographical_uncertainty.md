@@ -3,4 +3,6 @@ title: historiographical uncertainty
 id: 202204152377
 ---
 
-The state of being unsure about a historiographical element, fact etc.
+The state of being [[isa:202204152547]] unsure about a [[202204152378]] historiographical element, fact etc.
+
+↗ [[20220418190805]] multi-interpretation
