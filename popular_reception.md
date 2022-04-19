@@ -1,6 +1,6 @@
 ---
 title: popular reception
-id: 202204152474
+id: 20220415247400
 ---
 
 Common knowledge, stereotypes and beliefs.

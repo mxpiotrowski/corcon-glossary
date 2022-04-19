@@ -1,6 +1,6 @@
 ---
 title: mapping
-id: 202204152422
+id: 20220415242200
 ---
 
 Method of extracting or identifying the location of an element inside a predefined framework. 

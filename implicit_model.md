@@ -1,6 +1,6 @@
 ---
 title: implicit model
-id: 202204152391
+id: 20220415239100
 ---
 
-Model [[202204152441]] with implicit (implied and not directly specified) or abstract attributes.
+Model [[20220415244100]] with implicit (implied and not directly specified) or abstract attributes.

@@ -1,6 +1,6 @@
 ---
 title: INCEpTION
-id: 202204152388
+id: 20220415238800
 ---
 
-A [semantic annotation platform](https://inception-project.github.io/​) offering intelligent assistance and knowledge management.  [[202204152236]]
+A [semantic annotation platform](https://inception-project.github.io/​) offering intelligent assistance and knowledge management.  [[20220415223600]]

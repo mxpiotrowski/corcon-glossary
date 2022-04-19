@@ -1,6 +1,6 @@
 ---
 title: nodegoat
-id: 202204152451
+id: 20220415245100
 ---
 
 [Web-based research environment](https://nodegoat.net/about) for the humanities.

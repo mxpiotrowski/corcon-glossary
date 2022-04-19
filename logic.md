@@ -1,6 +1,6 @@
 ---
 title: logic
-id: 202204152416
+id: 20220415241600
 ---
 
 Reasoning conducted or assessed according to strict principles of validity.

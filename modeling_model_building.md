@@ -1,6 +1,6 @@
 ---
 title: modeling/model building
-id: 202204152442
+id: 20220415244200
 ---
 
-The process or action of producing models [[202204152441]].
+The process or action of producing models [[20220415244100]].

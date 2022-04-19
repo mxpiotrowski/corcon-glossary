@@ -1,6 +1,6 @@
 ---
 title: limitations
-id: 202204152410
+id: 20220415241000
 ---
 
 A limiting rule or circumstance (a restriction).

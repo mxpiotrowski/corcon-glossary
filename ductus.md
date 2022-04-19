@@ -1,6 +1,8 @@
 ---
 title: ductus
-id: 202204152330
+id: 20220415233000
 ---
 
-A duct or walled passageway suitable for the conveyance of air or body liquids.
+❌ A duct or walled passageway suitable for the conveyance of air or body liquids.
+
+↗ [[20220415242700]] medieval manuscript

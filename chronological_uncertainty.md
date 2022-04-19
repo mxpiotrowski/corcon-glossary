@@ -1,6 +1,6 @@
 ---
 title: chronological uncertainty
-id: 202204152260
+id: 20220415226000
 ---
 
-State of being [[isa:202204152547]] uncertain about the timeframe of an event.
+State of being [[isa:20220415254700]] uncertain about the timeframe of an event.

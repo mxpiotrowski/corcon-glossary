@@ -1,6 +1,6 @@
 ---
 title: epistemological foundations
-id: 202204152340
+id: 20220415234000
 ---
 
-Widely acceptable and undeniable theories and beliefs concerning [[202204152343]] epistemology.
+Widely acceptable and undeniable theories and beliefs concerning [[20220415234300]] epistemology.

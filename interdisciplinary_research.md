@@ -1,6 +1,6 @@
 ---
 title: interdisciplinary research
-id: 202204152398
+id: 20220415239800
 ---
 
-Research which yields results which are necessary or useful for more than two interacting [[202204152325]] disciplines. 
+Research which yields results which are necessary or useful for more than two interacting [[20220415232500]] disciplines. 

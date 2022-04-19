@@ -1,6 +1,6 @@
 ---
 title: epistemic change
-id: 202204152337
+id: 20220415233700
 ---
 
-Change of the beliefs regarding various [[202204152343]] epistemological considerations (beliefs about knowledge and knowing).
+Change of the beliefs regarding various [[20220415234300]] epistemological considerations (beliefs about knowledge and knowing).

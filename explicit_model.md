@@ -1,6 +1,6 @@
 ---
 title: explicit model
-id: 202204152348
+id: 20220415234800
 ---
 
-A model [[202204152441]] with features which are stated clearly and in detail, leaving no room for confusion or doubt.
+A model [[20220415244100]] with features which are stated clearly and in detail, leaving no room for confusion or doubt.

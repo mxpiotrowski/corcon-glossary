@@ -1,8 +1,8 @@
 ---
 title: historical concept
-id: 202204152367
+id: 20220415236700
 ---
 
-An abstract idea used in historical context to describe a historical event or [[202204152279]] phenomenon.
+An abstract idea used in historical context to describe a historical event or [[20220415227900]] phenomenon.
 
-↗ [[202204152379]] History
+↗ [[20220415237900]] History

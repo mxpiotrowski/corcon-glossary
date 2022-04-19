@@ -1,6 +1,6 @@
 ---
 title: history of ideas
-id: 202204152381
+id: 20220415238100
 ---
 
-The [[isa:202204152325]] study of the [[202204152379]] history of human thought and of intellectuals, meaning people who conceptualize, discuss, write about, and concern themselves with ideas.
+The [[isa:20220415232500]] study of the [[20220415237900]] history of human thought and of intellectuals, meaning people who conceptualize, discuss, write about, and concern themselves with ideas.

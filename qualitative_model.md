@@ -1,6 +1,6 @@
 ---
 title: qualitative model
-id: 202204152485
+id: 20220415248500
 ---
 
-Model [[202204152441]] with qualitative (measured by the quality of something rather than its quantity) attributes.
+Model [[20220415244100]] with qualitative (measured by the quality of something rather than its quantity) attributes.

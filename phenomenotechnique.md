@@ -1,8 +1,8 @@
 ---
 title: phenomenotechnique
-id: 202204152469
+id: 20220415246900
 ---
 
-Significant [[20220418190114]] philosophical concept attributed to [[202204152249]] Gaston Bachelard.
+Significant [[20220418190114]] philosophical concept attributed to [[20220415224900]] Gaston Bachelard.
 
-[[202204152471]] philosophy of science
+[[20220415247100]] philosophy of science

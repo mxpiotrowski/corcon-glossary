@@ -1,8 +1,8 @@
 ---
 title: abundant attribute
-id: 202204152229
+id: 20220415222900
 ---
 
 ❌ Feature which exists in large quantities.
 
-[[202204152441]]
+[[20220415244100]]

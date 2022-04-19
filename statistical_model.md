@@ -1,6 +1,6 @@
 ---
 title: statistical model
-id: 202204152523
+id: 20220415252300
 ---
 
-Model [[202204152441]] with statistically measurable features.
+Model [[20220415244100]] with statistically measurable features.

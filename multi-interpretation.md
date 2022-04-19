@@ -4,4 +4,4 @@ id: 20220418190805
 type: undefined
 ---
 
-Term used by [[202204152360]] Jean-Claude Gardin [@Gardin1991].
+Term used by [[20220415236000]] Jean-Claude Gardin [@Gardin1991].

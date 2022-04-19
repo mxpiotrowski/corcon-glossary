@@ -1,8 +1,8 @@
 ---
 title: computational thinking
-id: 202204152276
+id: 20220415227600
 ---
 
 The ability or technique to stimulate logical notions in order to solve problems by breaking them down into concrete steps. 
 
-↗ [[202204152277]] Computer Science
+↗ [[20220415227700]] Computer Science

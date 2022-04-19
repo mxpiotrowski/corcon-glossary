@@ -1,6 +1,6 @@
 ---
 title: methodological gains
-id: 202204152436
+id: 20220415243600
 ---
 
 Significant, innovative or authentic results of a method (or set of methods) used within a field's research framework.

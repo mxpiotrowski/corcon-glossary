@@ -1,6 +1,6 @@
 ---
 title: historical modeling
-id: 202204152370
+id: 20220415237000
 ---
 
-The process or action of creating and using models [[202204152441]] in [[202204152379]] history.
+The process or action of creating and using models [[20220415244100]] in [[20220415237900]] history.

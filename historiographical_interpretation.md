@@ -1,8 +1,8 @@
 ---
 title: historiographical interpretation
-id: 202204152375
+id: 20220415237500
 ---
 
-The action of explaining the meaning of a [[202204152378]] historiographical (writing of history) element or fact.
+The action of explaining the meaning of a [[20220415237800]] historiographical (writing of history) element or fact.
 
-↗ [[202204152402]] interpretation
+↗ [[20220415240200]] interpretation

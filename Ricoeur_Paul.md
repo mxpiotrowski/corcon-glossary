@@ -1,6 +1,6 @@
 ---
 title: Ricœur, Paul
-id: 202204152499
+id: 20220415249900
 type: person
 ---
 

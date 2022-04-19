@@ -1,6 +1,6 @@
 ---
 title: manifestation
-id: 202204152420
+id: 20220415242000
 ---
 
 The action or fact of showing something.

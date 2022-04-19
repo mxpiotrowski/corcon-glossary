@@ -1,6 +1,6 @@
 ---
 title: theoretical reflection
-id: 202204152539
+id: 20220415253900
 ---
 
-Considerations, explanations and critique on the [[202204152540]] theory of something.
+Considerations, explanations and critique on the [[20220415254000]] theory of something.

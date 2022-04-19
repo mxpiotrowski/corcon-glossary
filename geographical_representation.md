@@ -1,6 +1,6 @@
 ---
 title: geographical representation
-id: 202204152356
+id: 20220415235600
 ---
 
 Image or graph that depicts a geographical location (or locations).

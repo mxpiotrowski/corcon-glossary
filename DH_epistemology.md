@@ -1,6 +1,6 @@
 ---
 title: DH epistemology
-id: 202204152312
+id: 20220415231200
 ---
 
-The study of the epistemological (theory formation and knowledge) implications in Digital Humanities [[202204152309]] as a scientific field and academic [[isa:202204152325]] discipline.
+The study of the epistemological (theory formation and knowledge) implications in Digital Humanities [[20220415230900]] as a scientific field and academic [[isa:20220415232500]] discipline.

@@ -1,6 +1,6 @@
 ---
 title: transparency
-id: 202204152544
+id: 20220415254400
 ---
 
 The state or condition of being easily perceived or detected.

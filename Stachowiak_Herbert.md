@@ -1,6 +1,6 @@
 ---
 title: Stachowiak, Herbert
-id: 202204152520
+id: 20220415252000
 type: person
 ---
 
@@ -8,5 +8,5 @@ German [[20220418190114]] philosopher who worked as a full professor at the Univ
 
 [@Stachowiak1973]
 
-- [[202204152441]] model
-- [[202204152442]] modeling
+- [[20220415244100]] model
+- [[20220415244200]] modeling

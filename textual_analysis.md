@@ -1,6 +1,6 @@
 ---
 title: textual analysis
-id: 202204152533
+id: 20220415253300
 ---
 
 Methodology or technique used for the in-depth understanding language and its components.

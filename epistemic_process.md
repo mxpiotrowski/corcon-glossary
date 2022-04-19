@@ -1,9 +1,9 @@
 ---
 title: epistemic process
-id: 202204152338
+id: 20220415233800
 ---
 
 The process of assuming something as pure knowledge.
 
-↗ [[202204152343]] epistemology
+↗ [[20220415234300]] epistemology
 

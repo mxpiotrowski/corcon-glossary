@@ -1,6 +1,6 @@
 ---
 title: original model
-id: 202204152460
+id: 20220415246000
 ---
 
-Model [[202204152441]] which has original (novel and not a product of copy) attributes.
+Model [[20220415244100]] which has original (novel and not a product of copy) attributes.

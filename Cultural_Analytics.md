@@ -1,6 +1,6 @@
 ---
 title: Cultural Analytics
-id: 202204152290
+id: 20220415229000
 ---
 
-[[isa:202204152325]] Discipline which is concerned with the use of computational, visualization and [[202204152250]] big data methods for the exploration of contemporary and [[202204152379]] historical cultures.  (*Wikipedia*)
+[[isa:20220415232500]] Discipline which is concerned with the use of computational, visualization and [[20220415225000]] big data methods for the exploration of contemporary and [[20220415237900]] historical cultures.  (*Wikipedia*)

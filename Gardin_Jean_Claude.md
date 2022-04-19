@@ -1,6 +1,6 @@
 ---
 title: Gardin, Jean-Claude
-id: 202204152360
+id: 20220415236000
 type: person
 ---
 
@@ -8,4 +8,4 @@ French archaeologist who is recognized as being one of the founders of archaeolo
 
 [@Gardin1979]
 
-↗ [[202204152417]] logicist approach
+↗ [[20220415241700]] logicist approach

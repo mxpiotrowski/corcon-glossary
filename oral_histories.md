@@ -1,8 +1,8 @@
 ---
 title: oral histories
-id: 202204152456
+id: 20220415245600
 ---
 
 Collection and study of historical information about individuals, families, important events or everyday life using audiotapes, videotapes or transcriptions of planned interviews (recordings). (*Wikipedia*)
 
-↗ [[202204152379]] History
+↗ [[20220415237900]] History

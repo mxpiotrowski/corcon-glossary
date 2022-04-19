@@ -1,6 +1,6 @@
 ---
 title: metadata
-id: 202204152430
+id: 20220415243000
 ---
 
-Data which occured from the analysis of an initial data set.
+❌ [[20220415229300]] Data which occured from the analysis of an initial [[20220415229900]] data set.

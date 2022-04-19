@@ -1,6 +1,6 @@
 ---
 title: annotation-based approach
-id: 202204152237
+id: 20220415223700
 ---
 
-Strategy or plan of performing [[202204152236]] annotation to a [[202204152532]] text, [[202204152389]] image, diagram, etc.
+Strategy or plan of performing [[20220415223600]] annotation to a [[20220415253200]] text, [[20220415238900]] image, diagram, etc.

@@ -1,6 +1,6 @@
 ---
 title: non-formal model
-id: 202204152452
+id: 20220415245200
 ---
 
-Model [[202204152441]] which consist of informal or abstract attributes.
+Model [[20220415244100]] which consist of informal or abstract attributes.

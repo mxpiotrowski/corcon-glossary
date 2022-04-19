@@ -1,6 +1,6 @@
 ---
 title: research community
-id: 202204152495
+id: 20220415249500
 ---
 
-Community of researchers which work in [[202204152230]] academia.
+Community of researchers which work in [[20220415223000]] academia.

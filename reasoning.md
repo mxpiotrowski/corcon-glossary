@@ -1,6 +1,6 @@
 ---
 title: reasoning
-id: 202204152493
+id: 20220415249300
 ---
 
 The action of thinking about something in a logical manner.

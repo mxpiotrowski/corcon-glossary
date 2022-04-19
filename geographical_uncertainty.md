@@ -1,6 +1,6 @@
 ---
 title: geographical uncertainty
-id: 202204152357
+id: 20220415235700
 ---
 
-The state of being [[isa:202204152547]] uncertain about the geography or location about a given name or feature. 
+The state of being [[isa:20220415254700]] uncertain about the geography or location about a given name or feature. 

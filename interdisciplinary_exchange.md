@@ -1,6 +1,6 @@
 ---
 title: interdisciplinary exchange
-id: 202204152397
+id: 20220415239700
 ---
 
-The act of mutual giving and receiving of objects, ideas etc. between two or more [[202204152325]] disciplines.
+The act of mutual giving and receiving of objects, ideas etc. between two or more [[20220415232500]] disciplines.

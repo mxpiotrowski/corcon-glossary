@@ -1,6 +1,6 @@
 ---
 title: territorialization
-id: 202204152531
+id: 20220415253100
 ---
 
 The act of creating and organizing territories.

@@ -1,6 +1,6 @@
 ---
 title: formalization
-id: 202204152354
+id: 20220415235400
 ---
 
 The process of making formal (with official and authorized acceptance).

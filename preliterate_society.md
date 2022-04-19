@@ -1,6 +1,6 @@
 ---
 title: preliterate society
-id: 202204152476
+id: 20220415247600
 ---
 
 Society or culture that has not developed the use of writing or reading.

@@ -1,6 +1,6 @@
 ---
 title: epistemological gap
-id: 202204152341
+id: 20220415234100
 ---
 
-Absence of reliable theories or beliefs regarding [[202204152343]] epistemology.
+Absence of reliable theories or beliefs regarding [[20220415234300]] epistemology.

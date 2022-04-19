@@ -1,8 +1,8 @@
 ---
 title: Time on the Cross
-id: 202204152542
+id: 20220415254200
 ---
 
 Book written by the economists Robert Fogel and Stanley L. Engerman.
 
-↗ [[202204152262]] Cliometrics
+↗ [[20220415226200]] Cliometrics

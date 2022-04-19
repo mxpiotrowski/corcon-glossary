@@ -1,6 +1,6 @@
 ---
 title: epistemological problem
-id: 202204152342
+id: 20220415234200
 ---
 
-Issue or weakness in the formation of [[202204152343]] epistemological theory. 
+Issue or weakness in the formation of [[20220415234300]] epistemological theory. 

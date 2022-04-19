@@ -1,8 +1,8 @@
 ---
 title: annotation scheme
-id: 202204152240
+id: 20220415224000
 ---
 
 A pre-defined diagram or structured plan which ensures that the notes, comments and tags are added consistenly across the text, image, diagram etc..
 
-↗ [[202204152236]] annotation
+↗ [[20220415223600]] annotation

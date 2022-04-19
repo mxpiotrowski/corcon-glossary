@@ -1,6 +1,6 @@
 ---
 title: quantification
-id: 202204152487
+id: 20220415248700
 ---
 
 The process which transforms human sense observations and experiences into quantities.

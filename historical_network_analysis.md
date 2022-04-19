@@ -1,8 +1,8 @@
 ---
 title: historical network analysis
-id: 202204152372
+id: 20220415237200
 ---
 
 Method of analysing and interpreting historical events, facts etc. through connected or dissconnected networks.
 
-↗ [[202204152379]] History
+↗ [[20220415237900]] History

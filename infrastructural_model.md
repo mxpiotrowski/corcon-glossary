@@ -1,6 +1,6 @@
 ---
 title: infrastructural model
-id: 202204152393
+id: 20220415239300
 ---
 
-Model [[202204152441]] with explicit structural elements.
+Model [[20220415244100]] with explicit structural elements.

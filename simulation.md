@@ -1,6 +1,6 @@
 ---
 title: simulation
-id: 202204152512
+id: 20220415251200
 ---
 
 Imitation of a situation or process.

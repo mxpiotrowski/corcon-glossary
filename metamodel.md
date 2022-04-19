@@ -1,6 +1,6 @@
 ---
 title: metamodel
-id: 202204152433
+id: 20220415243300
 ---
 
-Model [[202204152441]] which was originated from (or created based on) another model.
+Model [[20220415244100]] which was originated from (or created based on) another model.
