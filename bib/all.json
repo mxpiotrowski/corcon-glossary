@@ -77612,5 +77612,97 @@
     "title-short": "Philosophy of modeling",
     "type": "article-journal",
     "volume": "6"
+  },
+  {
+    "URL": "https://n2t.net/ark:/13960/t4vj3zr74",
+    "author": [
+      {
+        "family": "Nelson",
+        "given": "Theodor H."
+      }
+    ],
+    "id": "Nelson1974",
+    "issued": {
+      "date-parts": [
+        [
+          1974
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "Self-published",
+    "title": "Computer lib/dream machines",
+    "type": "book"
+  },
+  {
+    "DOI": "10.4324/9781315107493",
+    "author": [
+      {
+        "family": "Rumelhart",
+        "given": "David E."
+      }
+    ],
+    "container-title": "Theoretical issues in reading comprehension",
+    "editor": [
+      {
+        "family": "Spiro",
+        "given": "R."
+      },
+      {
+        "family": "Bruce",
+        "given": "B."
+      },
+      {
+        "family": "Brewer",
+        "given": "W."
+      }
+    ],
+    "id": "Rumelhart1980",
+    "issued": {
+      "date-parts": [
+        [
+          1980
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "33-58",
+    "publisher": "Erlbaum",
+    "title": "Schemata: The building blocks of cognition",
+    "title-short": "Schemata",
+    "type": "chapter"
+  },
+  {
+    "URL": "https://web.media.mit.edu/~minsky/papers/Frames/frames.html",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          21
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Minsky",
+        "given": "Marvin"
+      }
+    ],
+    "genre": "Memo",
+    "id": "Minsky1974",
+    "issued": {
+      "date-parts": [
+        [
+          1974,
+          6
+        ]
+      ]
+    },
+    "language": "en-US",
+    "number": "306",
+    "publisher": "MIT-AI Laboratory",
+    "title": "A framework for representing knowledge",
+    "type": "report"
   }
 ]
