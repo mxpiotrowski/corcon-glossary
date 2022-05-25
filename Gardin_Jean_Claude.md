@@ -9,3 +9,4 @@ French archaeologist who is recognized as being one of the founders of archaeolo
 [@Gardin1979]
 
 ↗ [[20220415241700]] logicist approach
+↗ [[20220415250300]] scientific discourse

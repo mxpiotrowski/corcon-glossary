@@ -3,6 +3,6 @@ title: knowledge
 id: 20220415240700
 ---
 
-The awareness or familiarity gained by observation and experience over a fact or situation.
+The awareness or familiarity gained by [[20220415250500]] observation and experience over a [[20220415234900]] fact or situation.
 
-↗ [[20220415254500]] knowledge
+↗ [[20220415254500]] truth
