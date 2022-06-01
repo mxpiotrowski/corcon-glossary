@@ -1,7 +1,7 @@
 ---
 title: Philosophy
 id: 20220418190114
-type: undefined
+type: discipline
 ---
 
 Donec at pede.
