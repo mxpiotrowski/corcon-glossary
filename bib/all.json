@@ -41106,8 +41106,8 @@
         ]
       ]
     },
-    "language": "en-US",
-    "title": "Accepting and modeling uncertainty",
+    "language": "de-DE",
+    "title": "Accepting and Modeling Uncertainty",
     "type": "article-journal"
   },
   {
@@ -46532,7 +46532,7 @@
         "given": "C. S."
       }
     ],
-    "container-title": "Commun. ACM",
+    "container-title": "Communications of the ACM",
     "id": "Salton1975",
     "issue": "11",
     "issued": {
@@ -68659,6 +68659,44 @@
     "type": "book"
   },
   {
+    "annote": "https://www.historians.org/about-aha-and-membership/aha-history-and-archives/presidential-addresses/carl-l-becker",
+    "author": [
+      {
+        "family": "Becker",
+        "given": "Carl L."
+      }
+    ],
+    "chapter-number": "1",
+    "container-title": "The historian as detective: Essays on evidence",
+    "editor": [
+      {
+        "family": "Winks",
+        "given": "Robin W."
+      }
+    ],
+    "id": "Becker1932-1969",
+    "issued": {
+      "date-parts": [
+        [
+          1969
+        ]
+      ]
+    },
+    "language": "en-US",
+    "original-date": {
+      "date-parts": [
+        [
+          1932
+        ]
+      ]
+    },
+    "page": "3-23",
+    "publisher": "Harper & Row",
+    "title": "Everyman his own historian: Essays on evidence",
+    "title-short": "Everyman his own historian",
+    "type": "chapter"
+  },
+  {
     "DOI": "10.2200/S00428ED1V01Y201207WEB002",
     "author": [
       {
@@ -69536,28 +69574,6 @@
     "publisher": "Pantheon",
     "title": "Rebooting AI: Building artificial intelligence we can trust",
     "title-short": "Rebooting AI",
-    "type": "book"
-  },
-  {
-    "annote": "Quoted in Marcus2019: \"All human knowldege is uncertain, inexact, and partial.\" p. 307",
-    "author": [
-      {
-        "family": "Russell",
-        "given": "Bertrand"
-      }
-    ],
-    "id": "Russell1948",
-    "issued": {
-      "date-parts": [
-        [
-          1948
-        ]
-      ]
-    },
-    "language": "en-US",
-    "publisher": "Simon and Schuster",
-    "title": "Human knowledge: Its scope and limits",
-    "title-short": "Human knowledge",
     "type": "book"
   },
   {
@@ -77704,5 +77720,1489 @@
     "publisher": "MIT-AI Laboratory",
     "title": "A framework for representing knowledge",
     "type": "report"
+  },
+  {
+    "URL": "https://n2t.net/ark:/13960/t6c261n93",
+    "author": [
+      {
+        "family": "Korzybski",
+        "given": "Alfred"
+      }
+    ],
+    "id": "Korzybski1933",
+    "issued": {
+      "date-parts": [
+        [
+          1933
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "International Non-Aristotelian Library Publishing Company",
+    "title": "Science and sanity: An introduction to non-aristotelian systems and general semantics",
+    "title-short": "Science and sanity",
+    "type": "book"
+  },
+  {
+    "DOI": "10.1162/posc_a_00268",
+    "ISSN": "1530-9274",
+    "author": [
+      {
+        "family": "Hof",
+        "given": "Barbara E."
+      }
+    ],
+    "container-title": "Perspectives on Science",
+    "id": "Hof2018",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "76-96",
+    "title": "The cybernetic “general model theory”: Unifying science or epistemic change?",
+    "title-short": "The cybernetic “general model theory”",
+    "type": "article-journal",
+    "volume": "26"
+  },
+  {
+    "DOI": "10.4000/hrc.5799",
+    "ISSN": "2265-786X",
+    "author": [
+      {
+        "family": "Bories",
+        "given": "Anne-Sophie"
+      }
+    ],
+    "container-title": "Histoire de la recherche contemporaine",
+    "id": "Bories2021",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "language": "fr-FR",
+    "title": "Lectures appareillées: les études littéraires computationnelles entre rupture et continuité",
+    "title-short": "Lectures appareillées",
+    "type": "article-journal",
+    "volume": "X"
+  },
+  {
+    "DOI": "10.1111/1468-229X.12969",
+    "ISSN": "1468-229X",
+    "abstract": "Computing and the use of digital sources and resources is an everyday and essential practice in current academic scholarship. The present article gives a concise overview of approaches and methods within digital historical scholarship, focusing on the question “How have the digital humanities evolved and what has that evolution brought to historical scholarship?” We begin by discussing techniques in which data are generated and machine searchable, such as OCR/HTR, born-digital archives, computer vision, scholarly editions and linked data. In the second section, we provide examples of how data is made more accessible through quantitative text and network analysis. The third section considers the need for hermeneutics and data-awareness in digital historical scholarship. The technologies described in this article have had varying degrees of effect on historical scholarship, usually in indirect ways. With this article we aim to take stock of the digital approaches and methods used in historical scholarship in order to provide starting points for scholars seeking to understand the digital turn in the field and how and when to implement such approaches in their work.",
+    "author": [
+      {
+        "family": "Romein",
+        "given": "C. Annemieke"
+      },
+      {
+        "family": "Kemman",
+        "given": "Max"
+      },
+      {
+        "family": "Birkholz",
+        "given": "Julie M."
+      },
+      {
+        "family": "Baker",
+        "given": "James"
+      },
+      {
+        "family": "Gruijter",
+        "given": "Michel De"
+      },
+      {
+        "family": "Meroño-Peñuela",
+        "given": "Albert"
+      },
+      {
+        "family": "Ries",
+        "given": "Thorsten"
+      },
+      {
+        "family": "Ros",
+        "given": "Ruben"
+      },
+      {
+        "family": "Scagliola",
+        "given": "Stefania"
+      }
+    ],
+    "container-title": "History",
+    "id": "Romein2020",
+    "issue": "365",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "291-312",
+    "title": "State of the field: Digital history",
+    "title-short": "State of the field",
+    "type": "article-journal",
+    "volume": "105"
+  },
+  {
+    "DOI": "10.1080/00182370.2020.1725720",
+    "ISSN": "0018-2370",
+    "abstract": "Digital History is a relatively new sub-discipline within the academy. Understanding the nature of digital history, especially whence its core principles have evolved and how key practitioners have applied digital tools in generating historical knowledge, is the focus of this work. If Digital History is to grow into a more meaningful part of the historical discourse, we must make certain changes within academic culture and adapt to longer term technical realities.",
+    "author": [
+      {
+        "family": "Decker",
+        "given": "Michael J."
+      }
+    ],
+    "container-title": "The Historian",
+    "id": "Decker2020",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "keyword": "Digital Humanities, historiography, theory",
+    "page": "7-21",
+    "title": "The finger of God is here! Past, present, and future of digital history",
+    "type": "article-journal",
+    "volume": "82"
+  },
+  {
+    "DOI": "10.1038/474420b",
+    "ISSN": "1476-4687",
+    "author": [
+      {
+        "family": "Anonymous"
+      }
+    ],
+    "container-title": "Nature",
+    "id": "Nature2011",
+    "issue": "474",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          6
+        ]
+      ]
+    },
+    "page": "420",
+    "title": "Poetry in motion",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Andrae",
+        "given": "Carl Göran"
+      },
+      {
+        "family": "Lundkvist",
+        "given": "Sven"
+      }
+    ],
+    "container-title": "Proceedings of the XIII international congress of historical sciences",
+    "event": "XIII international congress of historical sciences",
+    "event-date": {
+      "date-parts": [
+        [
+          1970,
+          8,
+          16
+        ],
+        [
+          1970,
+          8,
+          23
+        ]
+      ]
+    },
+    "event-place": "Moscow",
+    "id": "Andrae1970",
+    "issued": {
+      "date-parts": [
+        [
+          1970
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "Nauka",
+    "publisher-place": "Moscow",
+    "title": "The use of historical mass-data: Experiences from a project on Swedish popular movements",
+    "title-short": "The use of historical mass-data",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.2307/2856091",
+    "ISSN": "0038-7134",
+    "author": [
+      {
+        "family": "Bullough",
+        "given": "Vern L."
+      },
+      {
+        "family": "Lusignan",
+        "given": "Serge"
+      },
+      {
+        "family": "Ohlgren",
+        "given": "Thomas H."
+      }
+    ],
+    "container-title": "Speculum",
+    "id": "Bullough1974",
+    "issued": {
+      "date-parts": [
+        [
+          1974
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "392-402",
+    "title": "Report: Computers and the medievalist",
+    "title-short": "Report",
+    "type": "article-journal",
+    "volume": "49"
+  },
+  {
+    "DOI": "10.2307/2937409",
+    "ISSN": "0021-8723",
+    "author": [
+      {
+        "family": "Clubb",
+        "given": "Jerome M."
+      },
+      {
+        "family": "Allen",
+        "given": "Howard"
+      }
+    ],
+    "container-title": "Journal of American History",
+    "id": "Clubb1967",
+    "issued": {
+      "date-parts": [
+        [
+          1967
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "599-607",
+    "title": "Computers and historical studies",
+    "type": "article-journal",
+    "volume": "54"
+  },
+  {
+    "ISBN": "978-0-415-60759-9",
+    "abstract": "Many statements made by historians are quantitative statements, involving the use of measurable historical evidence. The historian who uses quantitative methods to analyse and interpret such information needs to be well acquainted with the particular methods and techniques of analysis and to be able to make the best use of the data that are available. There is an increasing need for training in such methods and in the interpretation of the large volume of literature now using quantitative techniques. Dr Floud’s text, which is relevant to all branches of historical inquiry, provides a straightforward and intelligible introduction for all students and research workers. The simpler and more useful techniques of descriptive and analytical statistics are described, up to the level of simple linear regression. Historical examples are used throughout, and great attention is paid to the need to ensure that the techniques are consistent with the quality of the data and with the historical problems they are intended to solve. Attention is paid to problems of the analysis of time series, which are of particular use to historians. No previous knowledge of statistics is assumed, and the simple mathematical techniques that are used are fully and clearly explained, without the use of more mathematical knowledge than is provided by an O-level course. A bibliography is provided to guide historians towards the most useful further reading. This student friendly text was first published in 1973.",
+    "author": [
+      {
+        "family": "Floud",
+        "given": "Roderick"
+      }
+    ],
+    "id": "Floud2006",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "Routledge",
+    "title": "An introduction to quantitative methods for historians",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fogel",
+        "given": "Robert W."
+      }
+    ],
+    "id": "Fogel1964",
+    "issued": {
+      "date-parts": [
+        [
+          1964
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "Johns Hopkins University Press",
+    "publisher-place": "Baltimore",
+    "title": "Railroads and American economic growth: Essays in econometric history",
+    "title-short": "Railroads and American economic growth",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fogel",
+        "given": "Robert W."
+      },
+      {
+        "family": "Engerman",
+        "given": "Stanley L."
+      }
+    ],
+    "id": "Fogel1974",
+    "issued": {
+      "date-parts": [
+        [
+          1974
+        ]
+      ]
+    },
+    "language": "en-US",
+    "number-of-volumes": "2",
+    "publisher": "Little Brown",
+    "publisher-place": "Boston",
+    "title": "Time on the cross",
+    "type": "book"
+  },
+  {
+    "ISBN": "978-0-252-07151-5",
+    "abstract": "This detailed analysis of slavery in the antebellum South was written in 1975 in response to the prior year’s publication of Robert Fogel and Stanley Engerman’s controversial Time on the Cross, which argued that slavery was an efficient and dynamic engine for the southern economy and that its success was due largely to the willing cooperation of the slaves themselves. Noted labor historian Herbert G. Gutman was unconvinced, even outraged, by Fogel and Engerman’s arguments. In this book he offers a systematic dissection of Time on the Cross, drawing on a wealth of data to contest that book’s most fundamental assertions. A benchmark work of historical inquiry, Gutman’s critique sheds light on a range of crucial aspects of slavery and its economic effectiveness. Gutman emphasizes the slaves’ responses to their treatment at the hands of slaveowners. He shows that slaves labored, not because they shared values and goals with their masters, but because of the omnipresent threat of ’negative incentives, ’ primarily physical violence. In his introduction to this new edition, Bruce Levine provides a historical analysis of the debate over Time on the Cross. Levine reminds us of the continuing influence of the latter book, demonstrated by Robert W. Fogel’s 1993 Nobel Prize in Economic Sciences, and hence the importance and timeliness of Gutman’s critique.",
+    "author": [
+      {
+        "family": "Gutman",
+        "given": "Herbert George"
+      }
+    ],
+    "id": "Gutman2003",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "University of Illinois Press",
+    "publisher-place": "Champagne, IL",
+    "title": "Slavery and the numbers game: A critique of <i>time on the Cross</i>",
+    "title-short": "Slavery and the numbers game",
+    "type": "book"
+  },
+  {
+    "abstract": "Computational digital historians have tended to elucidate their methods rather than advance interpretative arguments. While this attention to method is salutary, given the absence of methodological discussion in history generally, it is not clear how computational historians can advance historical arguments while also explaining methods. Drawing on a classic essay by David Hackett Fischer, \"The Braided Narrative: Substance and Form in Social History,\" this essay proposes a model for argumentative writing in computational digital history. Rather than using models such a methods section drawn from other disciplines, a braided narrative weaves together methodology and interpretation. The two strands strengthen one another when digital historians can elucidate how their methods and interpretations are mutually constitutive.",
+    "author": [
+      {
+        "family": "Mullen",
+        "given": "Lincoln"
+      }
+    ],
+    "chapter-number": "31",
+    "container-title": "Debates in the digital humanities 2019",
+    "editor": [
+      {
+        "family": "Gold",
+        "given": "Matthew K."
+      },
+      {
+        "family": "Klein",
+        "given": "Lauren F."
+      }
+    ],
+    "id": "Mullen2018",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "382-388",
+    "publisher": "University of Minnesota Press",
+    "publisher-place": "Minneapolis, MN",
+    "title": "A braided narrative for digital history",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Thomas",
+        "given": "William G."
+      }
+    ],
+    "container-title": "A companion to digital humanities",
+    "editor": [
+      {
+        "family": "Schreibman",
+        "given": "Susan"
+      },
+      {
+        "family": "Siemens",
+        "given": "Ray"
+      },
+      {
+        "family": "Unsworth",
+        "given": "John"
+      }
+    ],
+    "id": "Thomas2004",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "56-68",
+    "publisher": "Blackwell",
+    "publisher-place": "Oxford",
+    "title": "Computing and the historical imagination",
+    "type": "chapter"
+  },
+  {
+    "ISBN": "978-83-01-04987-4",
+    "author": [
+      {
+        "family": "Topolski",
+        "given": "Jerzy"
+      }
+    ],
+    "edition": "3",
+    "id": "Topolski1984",
+    "issued": {
+      "date-parts": [
+        [
+          1984
+        ]
+      ]
+    },
+    "language": "pl-PL",
+    "publisher": "Państwowe Wydawnictwo Naukowe",
+    "publisher-place": "Warsaw",
+    "title": "Metodologia historii",
+    "type": "book"
+  },
+  {
+    "ISBN": "978-1-4008-3885-1",
+    "abstract": "The Poverty of Clio challenges the hold that cliometrics–an approach to economic history that employs the analytical tools of economists–has exerted on the study of our economic past. In this provocative book, Francesco Boldizzoni calls for the reconstruction of economic history, one in which history and the social sciences are brought to bear on economics, and not the other way around. Boldizzoni questions the appeal of economics over history–which he identifies as a distinctly American attitude–exposing its errors and hidden ideologies, and revealing how it fails to explain economic behavior itself. He shows how the misguided reliance on economic reasoning to interpret history has come at the expense of insights from the humanities and has led to a rejection of valuable past historical research. Developing a better alternative to new institutional economics and the rational choice approach, Boldizzoni builds on the extraordinary accomplishments of twentieth-century European historians and social thinkers to offer fresh ideas for the renewal of the field. Economic history needs to rediscover the true relationship between economy and culture, and promote an authentic alliance with the social sciences, starting with sociology and anthropology. It must resume its dialogue with the humanities, but without shrinking away from theory when constructing its models. The Poverty of Clio demonstrates why history must exert its own creative power on economics.",
+    "author": [
+      {
+        "family": "Boldizzoni",
+        "given": "Francesco"
+      }
+    ],
+    "id": "Boldizzoni2011",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "Princeton University Press",
+    "publisher-place": "Princeton, NJ, USA",
+    "title": "The poverty of Clio: Resurrecting economic history",
+    "title-short": "The poverty of Clio",
+    "type": "book"
+  },
+  {
+    "annote": "https://books.google.ch/books?id=r1jBN5iehKsC&lpg=PP1&hl=de&pg=PA792#v=onepage&q=atheist&f=false",
+    "author": [
+      {
+        "family": "Russell",
+        "given": "Bertrand"
+      }
+    ],
+    "container-title": "The collected papers of Bertrand Russell: Last philosophical testament, 1943–68",
+    "editor": [
+      {
+        "family": "Slater",
+        "given": "John G."
+      }
+    ],
+    "id": "Russell1949-1997",
+    "issued": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "language": "en-US",
+    "original-date": {
+      "date-parts": [
+        [
+          1949
+        ]
+      ]
+    },
+    "page": "89-92",
+    "publisher": "Routledge",
+    "title": "Am I an atheist or an agnostic? A plea for tolerance in the face of new dogmas",
+    "title-short": "Am I an atheist or an agnostic?",
+    "type": "chapter",
+    "volume": "11"
+  },
+  {
+    "URL": "https://n2t.net/ark:/13960/t0dw01s44",
+    "author": [
+      {
+        "family": "Russel",
+        "given": "Bertrand"
+      }
+    ],
+    "id": "Russell1948",
+    "issued": {
+      "date-parts": [
+        [
+          1948
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "George Allen & Unwin",
+    "title": "Human knowledge: Its scope and limits",
+    "title-short": "Human knowledge",
+    "type": "book"
+  },
+  {
+    "annote": "https://books.google.fr/books?id=rDUJAAAAIAAJ&printsec=frontcover&hl=fr&&pg=PA2",
+    "author": [
+      {
+        "family": "Laplace",
+        "given": "Pierre-Simon"
+      }
+    ],
+    "id": "Laplace1814",
+    "issued": {
+      "date-parts": [
+        [
+          1814
+        ]
+      ]
+    },
+    "language": "fr-FR",
+    "publisher": "Courcier",
+    "title": "Essai philosophique sur les probabilités",
+    "type": "book"
+  },
+  {
+    "DOI": "10.1080/00437956.1954.11659520",
+    "ISSN": "2373-5112",
+    "author": [
+      {
+        "family": "Harris",
+        "given": "Zellig S."
+      }
+    ],
+    "container-title": "Word",
+    "id": "Harris1954",
+    "issue": "2–3",
+    "issued": {
+      "date-parts": [
+        [
+          1954
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "146-162",
+    "title": "Distributional structure",
+    "type": "article-journal",
+    "volume": "10"
+  },
+  {
+    "annote": "Reprinted in Palmer, F.R., ed. (1968). Selected Papers of J.R. Firth 1952-1959. London: Longman.",
+    "author": [
+      {
+        "family": "Firth",
+        "given": "John R."
+      }
+    ],
+    "collection-title": "Special volume of the philological society",
+    "container-title": "Studies in linguistic analysis",
+    "id": "Firth1957",
+    "issued": {
+      "date-parts": [
+        [
+          1957
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "1-32",
+    "publisher": "Blackwell",
+    "title": "A synopsis of linguistic theory 1930–1955",
+    "type": "chapter"
+  },
+  {
+    "ISBN": "950-04-0217-3",
+    "author": [
+      {
+        "family": "Borges",
+        "given": "Jorge Luis"
+      }
+    ],
+    "container-title": "Obras completas 1923–1972",
+    "editor": [
+      {
+        "family": "Frías",
+        "given": "Carlos V."
+      }
+    ],
+    "id": "Borges1974-avatares",
+    "issued": {
+      "date-parts": [
+        [
+          1974
+        ]
+      ]
+    },
+    "language": "es-ES",
+    "original-date": {
+      "date-parts": [
+        [
+          1939
+        ]
+      ]
+    },
+    "page": "254-258",
+    "publisher": "Emecé",
+    "title": "Avatares de la tortuga",
+    "type": "chapter"
+  },
+  {
+    "ISBN": "950-04-0217-3",
+    "author": [
+      {
+        "family": "Borges",
+        "given": "Jorge Luis"
+      }
+    ],
+    "container-title": "Obras completas 1923–1972",
+    "editor": [
+      {
+        "family": "Frías",
+        "given": "Carlos V."
+      }
+    ],
+    "id": "Borges1974-zahir",
+    "issued": {
+      "date-parts": [
+        [
+          1974
+        ]
+      ]
+    },
+    "language": "es-ES",
+    "original-date": {
+      "date-parts": [
+        [
+          1949
+        ]
+      ]
+    },
+    "page": "589-595",
+    "publisher": "Emecé",
+    "title": "El Zahir",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Gebser",
+        "given": "Jean"
+      }
+    ],
+    "chapter-number": "9",
+    "container-title": "In der Bewährung: Zehn Hinweise auf das neue Bewußtsein",
+    "id": "Gebser1962-ch9",
+    "issued": {
+      "date-parts": [
+        [
+          1962
+        ]
+      ]
+    },
+    "language": "de-DE",
+    "original-date": {
+      "date-parts": [
+        [
+          1958
+        ]
+      ]
+    },
+    "page": "119-134",
+    "publisher": "Francke",
+    "title": "Die Welt ohne Gegenüber",
+    "type": "chapter"
+  },
+  {
+    "DOI": "10.3406/roman.1978.5216",
+    "ISSN": "0048-8593",
+    "author": [
+      {
+        "family": "Carbonell",
+        "given": "Charles-Olivier"
+      }
+    ],
+    "container-title": "Romantisme",
+    "id": "Carbonell1978",
+    "issue": "21",
+    "issued": {
+      "date-parts": [
+        [
+          1978
+        ]
+      ]
+    },
+    "language": "fr-FR",
+    "page": "173-185",
+    "title": "L’histoire dite “positiviste” en France",
+    "type": "article-journal",
+    "volume": "8"
+  },
+  {
+    "DOI": "10.1145/1709424.1709462",
+    "ISSN": "0097-8418",
+    "author": [
+      {
+        "family": "Isbell",
+        "given": "Charles L."
+      },
+      {
+        "family": "Stein",
+        "given": "Lynn Andrea"
+      },
+      {
+        "family": "Cutler",
+        "given": "Robb"
+      },
+      {
+        "family": "Forbes",
+        "given": "Jeffrey"
+      },
+      {
+        "family": "Fraser",
+        "given": "Linda"
+      },
+      {
+        "family": "Impagliazzo",
+        "given": "John"
+      },
+      {
+        "family": "Proulx",
+        "given": "Viera"
+      },
+      {
+        "family": "Russ",
+        "given": "Steve"
+      },
+      {
+        "family": "Thomas",
+        "given": "Richard"
+      },
+      {
+        "family": "Xu",
+        "given": "Yan"
+      }
+    ],
+    "container-title": "ACM SIGCSE Bulletin",
+    "id": "2010",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "195-207",
+    "title": "(Re)defining computing curricula by (re)defining computing",
+    "type": "article-journal",
+    "volume": "41"
+  },
+  {
+    "DOI": "10.1093/jhc/fhz039",
+    "ISSN": "1477-8564",
+    "author": [
+      {
+        "family": "Etter",
+        "given": "Walter"
+      },
+      {
+        "family": "Schmidt",
+        "given": "Olivier"
+      }
+    ],
+    "container-title": "Journal of the History of Collections",
+    "id": "Etter2020",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "411-430",
+    "title": "Gessner’s fossil crab",
+    "type": "article-journal",
+    "volume": "32"
+  },
+  {
+    "DOI": "10.26298/MELUSINA.8F8W-Y749-EITD",
+    "author": [
+      {
+        "family": "Lang",
+        "given": "Sarah"
+      }
+    ],
+    "container-title": "Fabrikation von erkenntnis: Experimente in den digital humanities",
+    "editor": [
+      {
+        "family": "Burghardt",
+        "given": "Manuel"
+      },
+      {
+        "family": "Dieckmann",
+        "given": "Lisa"
+      },
+      {
+        "family": "Steyer",
+        "given": "Timo"
+      },
+      {
+        "family": "Trilcke",
+        "given": "Peer"
+      },
+      {
+        "family": "Walkowski",
+        "given": "Niels-Oliver"
+      },
+      {
+        "family": "Weis",
+        "given": "Joëlle"
+      },
+      {
+        "family": "Wuttke",
+        "given": "Ulrike"
+      }
+    ],
+    "id": "Lang2022",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "Melusina Press",
+    "title": "Experiments in the digital laboratory: What the computational humanities can learn about their definition and terminology from the history of science",
+    "title-short": "Experiments in the digital laboratory",
+    "type": "chapter"
+  },
+  {
+    "DOI": "10.26298/MELUSINA.8F8W-Y749",
+    "editor": [
+      {
+        "family": "Burghardt",
+        "given": "Manuel"
+      },
+      {
+        "family": "Dieckmann",
+        "given": "Lisa"
+      },
+      {
+        "family": "Steyer",
+        "given": "Timo"
+      },
+      {
+        "family": "Trilcke",
+        "given": "Peer"
+      },
+      {
+        "family": "Walkowski",
+        "given": "Niels-Oliver"
+      },
+      {
+        "family": "Weis",
+        "given": "Joëlle"
+      },
+      {
+        "family": "Wuttke",
+        "given": "Ulrike"
+      }
+    ],
+    "id": "Burghardt2021",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "language": "de-DE",
+    "publisher": "Melusina Press",
+    "title": "Fabrikation von Erkenntnis",
+    "type": "book"
+  },
+  {
+    "DOI": "10.4000/books.editionsehess.20041",
+    "ISBN": "978-2-71323111-7",
+    "editor": [
+      {
+        "family": "Boutier",
+        "given": "Jean"
+      },
+      {
+        "family": "Passeron",
+        "given": "Jean-Claude"
+      },
+      {
+        "family": "Revel",
+        "given": "Jacques"
+      }
+    ],
+    "id": "Boutier2006",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "language": "fr-FR",
+    "publisher": "Éditions de l’École des hautes études en sciences sociales",
+    "title": "Qu’est-ce qu’une discipline?",
+    "type": "book"
+  },
+  {
+    "URL": "http://hdl.handle.net/10323/4480",
+    "author": [
+      {
+        "family": "Klein",
+        "given": "Julie Thompson"
+      }
+    ],
+    "container-title": "Issues in Interdisciplinary Studies",
+    "id": "Klein2013",
+    "issue": "31",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "66-74",
+    "title": "The state of the field: Institutionalization of interdisciplinarity",
+    "title-short": "The state of the field",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.1093/oxfordhb/9780198733522.001.0001",
+    "ISBN": "978-0-19873352-2",
+    "edition": "2",
+    "editor": [
+      {
+        "family": "Frodeman",
+        "given": "Robert"
+      },
+      {
+        "family": "Klein",
+        "given": "Julie Thompson"
+      },
+      {
+        "family": "Pacheco",
+        "given": "Roberto C. S."
+      }
+    ],
+    "id": "Frodeman2017",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "Oxford University Press",
+    "title": "The Oxford handbook of interdisciplinarity",
+    "type": "book"
+  },
+  {
+    "DOI": "10.1093/oxfordhb/9780198733522.013.14",
+    "ISBN": "978-0-19873352-2",
+    "author": [
+      {
+        "family": "Davidson",
+        "given": "Cathy N."
+      },
+      {
+        "family": "Savonick",
+        "given": "Danica"
+      }
+    ],
+    "chapter-number": "12",
+    "container-title": "The Oxford handbook of interdisciplinarity",
+    "edition": "2",
+    "editor": [
+      {
+        "family": "Frodeman",
+        "given": "Robert"
+      }
+    ],
+    "id": "Davidson2017",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "159-172",
+    "publisher": "Oxford University Press",
+    "title": "Digital humanities: The emergence of science and technology studies",
+    "title-short": "Digital humanities",
+    "type": "chapter"
+  },
+  {
+    "DOI": "10.1093/oxfordhb/9780198733522.013.15",
+    "ISBN": "978-0-19873352-2",
+    "author": [
+      {
+        "family": "Jasanoff",
+        "given": "Sheila"
+      }
+    ],
+    "chapter-number": "13",
+    "container-title": "The Oxford handbook of interdisciplinarity",
+    "edition": "2",
+    "editor": [
+      {
+        "family": "Frodeman",
+        "given": "Robert"
+      }
+    ],
+    "id": "Jasanoff2017",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "173-187",
+    "publisher": "Oxford University Press",
+    "title": "A field of its own: The emergence of science and technology studies",
+    "title-short": "A field of its own",
+    "type": "chapter"
+  },
+  {
+    "DOI": "10.1002/asi.24565",
+    "abstract": "This article considers the interdisciplinary opportunities and challenges of working with digital cultural heritage, such as digitized historical newspapers, and proposes an integrated digital hermeneutics workflow to combine purely disciplinary research approaches from computer science, humanities, and library work. Common interests and motivations of the above-mentioned disciplines have resulted in interdisciplinary projects and collaborations such as the NewsEye project, which is working on novel solutions on how digital heritage data is (re)searched, accessed, used, and analyzed. We argue that collaborations of different disciplines can benefit from a good understanding of the workflows and traditions of each of the disciplines involved but must find integrated approaches to successfully exploit the full potential of digitized sources. The paper is furthermore providing an insight into digital tools, methods, and hermeneutics in action, showing that integrated interdisciplinary research needs to build something in between the disciplines while respecting and understanding each other’s expertise and expectations.",
+    "author": [
+      {
+        "family": "Oberbichler",
+        "given": "Sarah"
+      },
+      {
+        "family": "Boroş",
+        "given": "Emanuela"
+      },
+      {
+        "family": "Doucet",
+        "given": "Antoine"
+      },
+      {
+        "family": "Marjanen",
+        "given": "Jani"
+      },
+      {
+        "family": "Pfanzelter",
+        "given": "Eva"
+      },
+      {
+        "family": "Rautiainen",
+        "given": "Juha"
+      },
+      {
+        "family": "Toivonen",
+        "given": "Hannu"
+      },
+      {
+        "family": "Tolonen",
+        "given": "Mikko"
+      }
+    ],
+    "container-title": "Journal of the Association for Information Science and Technology",
+    "id": "Oberbichler2021",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          8
+        ]
+      ]
+    },
+    "language": "en-US",
+    "title": "Integrated interdisciplinary workflows for research on historical newspapers: Perspectives from humanities scholars, computer scientists, and librarians",
+    "title-short": "Integrated interdisciplinary workflows for research on historical newspapers",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.1007/978-3-319-22683-5",
+    "ISBN": "978-3-319-22683-5",
+    "ISSN": "2215-1796",
+    "collection-number": "29",
+    "collection-title": "Sociology of the sciences yearbook",
+    "editor": [
+      {
+        "family": "Merz",
+        "given": "Martina"
+      },
+      {
+        "family": "Sormani",
+        "given": "Philippe"
+      }
+    ],
+    "id": "Merz2016",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "Springer",
+    "title": "The local configuration of new research fields: On regional and national diversity",
+    "title-short": "The local configuration of new research fields",
+    "type": "book"
+  },
+  {
+    "DOI": "10.1093/llc/fqac016",
+    "ISSN": "2055-768X",
+    "author": [
+      {
+        "family": "Spinaci",
+        "given": "Gianmarco"
+      },
+      {
+        "family": "Colavizza",
+        "given": "Giovanni"
+      },
+      {
+        "family": "Peroni",
+        "given": "Silvio"
+      }
+    ],
+    "container-title": "Digital Scholarship in the Humanities",
+    "id": "Spinaci2022",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "language": "en-US",
+    "title": "A map of digital humanities research across bibliographic data sources",
+    "type": "article-journal"
+  },
+  {
+    "URL": "http://eprints.ncrm.ac.uk/783/",
+    "abstract": "This paper examines disciplines and disciplinarity through the lenses of certain academic disciplines including philosophy, anthropology, sociology, history, management and education.",
+    "author": [
+      {
+        "family": "Krishnan",
+        "given": "Armin"
+      }
+    ],
+    "genre": "NCRM Working Paper",
+    "id": "Krishnan2009",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          1
+        ]
+      ]
+    },
+    "language": "en-US",
+    "number": "03/09",
+    "publisher": "ESRC National Centre for Research Methods",
+    "publisher-place": "Southampton",
+    "title": "What are academic disciplines? Some observations on the disciplinarity vs. Interdisciplinarity debate",
+    "title-short": "What are academic disciplines?",
+    "type": "report"
+  },
+  {
+    "DOI": "10.1016/s0169-7552(98)00110-x",
+    "ISSN": "0169-7552",
+    "author": [
+      {
+        "family": "Brin",
+        "given": "Sergey"
+      },
+      {
+        "family": "Page",
+        "given": "Lawrence"
+      }
+    ],
+    "container-title": "Computer Networks and ISDN Systems",
+    "id": "Brin1998",
+    "issue": "1–7",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "107-117",
+    "title": "The anatomy of a large-scale hypertextual web search engine",
+    "type": "article-journal",
+    "volume": "30"
+  },
+  {
+    "author": [
+      {
+        "family": "Harman",
+        "given": "Donna"
+      }
+    ],
+    "container-title": "Information retrieval",
+    "editor": [
+      {
+        "family": "Frakes",
+        "given": "William B."
+      },
+      {
+        "family": "Baeza-Yates",
+        "given": "Rircardo"
+      }
+    ],
+    "id": "har92",
+    "issued": {
+      "date-parts": [
+        [
+          1992
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "363-392",
+    "publisher": "Prentice Hall",
+    "title": "Ranking algorithms",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Salton",
+        "given": "Gerard"
+      },
+      {
+        "family": "McGill",
+        "given": "Michael"
+      }
+    ],
+    "id": "sm83",
+    "issued": {
+      "date-parts": [
+        [
+          1983
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "McGraw-Hill",
+    "title": "Introduction to modern information retrieval",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Smeaton",
+        "given": "Alan F."
+      }
+    ],
+    "container-title": "Information retrieval and hypertext",
+    "id": "sme96",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "3-25",
+    "publisher": "Kluwer",
+    "title": "An overview of information retrieval",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Spärck Jones",
+        "given": "Karen"
+      }
+    ],
+    "container-title": "Journal of Documentation",
+    "id": "spa72",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1972
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "11-20",
+    "title": "A statistical interpretaton of term specificity and its applicaton in retrieval",
+    "type": "article-journal",
+    "volume": "28"
+  },
+  {
+    "editor": [
+      {
+        "family": "Sherif",
+        "given": "Muzafer"
+      },
+      {
+        "family": "Sherif",
+        "given": "Carolyn W."
+      }
+    ],
+    "id": "Sherif1969",
+    "issued": {
+      "date-parts": [
+        [
+          1969
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "Transaction",
+    "title": "Interdisciplinary relationships in the social sciences",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Campbell",
+        "given": "Donald T."
+      }
+    ],
+    "chapter-number": "19",
+    "container-title": "Interdisciplinary relationships in the social sciences",
+    "editor": [
+      {
+        "family": "Sherif",
+        "given": "Muzafer"
+      },
+      {
+        "family": "Sherif",
+        "given": "Carolyn W."
+      }
+    ],
+    "id": "Campbell1969",
+    "issued": {
+      "date-parts": [
+        [
+          1969
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "328-348",
+    "publisher": "Transaction",
+    "title": "Ethnocentrism of disciplines and the fish-scale model of omniscience",
+    "type": "chapter"
+  },
+  {
+    "DOI": "10.1162/qss_a_00062",
+    "ISSN": "2641-3337",
+    "author": [
+      {
+        "family": "Marres",
+        "given": "Noortje"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Rijcke",
+        "given": "Sarah"
+      }
+    ],
+    "container-title": "Quantitative Science Studies",
+    "id": "Marres2020",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "1041-1055",
+    "title": "From indicators to indicating interdisciplinarity: A participatory mapping methodology for research communities in-the-making",
+    "title-short": "From indicators to indicating interdisciplinarity",
+    "type": "article-journal",
+    "volume": "1"
+  },
+  {
+    "DOI": "10.1177/05390184221077787",
+    "ISSN": "1461-7412",
+    "author": [
+      {
+        "family": "Benz",
+        "given": "Pierre"
+      },
+      {
+        "family": "Rossier",
+        "given": "Thierry"
+      }
+    ],
+    "container-title": "Social Science Information",
+    "id": "2022",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "179-214",
+    "title": "Is interdisciplinarity distinctive? Scientific collaborations through research projects in natural sciences",
+    "type": "article-journal",
+    "volume": "61"
   }
 ]
