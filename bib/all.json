@@ -79583,5 +79583,31 @@
     "title": "Digital history and hermeneutics: Between theory and practice",
     "title-short": "Digital history and hermeneutics",
     "type": "book"
+  },
+  {
+    "DOI": "10.18146/2213-0969.2012.jethc004",
+    "ISSN": "2213-0969",
+    "author": [
+      {
+        "family": "Fickers",
+        "given": "Andreas"
+      }
+    ],
+    "container-title": "VIEW Journal of European Television History and Culture",
+    "id": "Fickers2012",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "19",
+    "title": "Towards a new digital historicism? Doing history in the age of abundance",
+    "title-short": "Towards a new digital historicism?",
+    "type": "article-journal",
+    "volume": "1"
   }
 ]
