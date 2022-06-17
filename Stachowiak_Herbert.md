@@ -9,4 +9,3 @@ German [[20220418190114]] philosopher who worked as a full professor at the Univ
 [@Stachowiak1973]
 
 - [[20220415244100]] model
-- [[20220415244200]] modeling
