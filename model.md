@@ -3,10 +3,6 @@ title: model
 id: 20220415244100
 ---
 
-A representation, design or imitation of a person, object, phenomenon, idea, concept etc. typically on a smaller scale than the original model. This [[20220616094637]] representation could be either realistic or [[20220616094623]] imaginary (or both).
-
-------------------------------------------------------------------------
-
 One of the first modern attempt at a definition of *model* is by Leo Apostel:
 
 > […] *any subject using a system A that is neither directly nor indirectly interacting with a system B to obtain information about the system B*, is using A as a model for B.  
