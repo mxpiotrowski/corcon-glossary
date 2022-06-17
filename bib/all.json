@@ -79523,5 +79523,65 @@
     "title-short": "If software is narrative",
     "type": "article-journal",
     "volume": "21"
+  },
+  {
+    "DOI": "10.1515/9783110723991-010",
+    "author": [
+      {
+        "family": "Koeleman",
+        "given": "Floor"
+      }
+    ],
+    "container-title": "Digital history and hermeneutics: Between theory and practice",
+    "editor": [
+      {
+        "family": "Fickers",
+        "given": "Andreas"
+      },
+      {
+        "family": "Tatarinov",
+        "given": "Juliane"
+      }
+    ],
+    "id": "Koeleman2022a",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "201-218",
+    "publisher": "De Gruyter Oldenbourg",
+    "title": "Re-viewing the <i>constcamer</i>: A digital approach to seventeenth-century pictures of collections",
+    "title-short": "Re-viewing the <i>constcamer</i>",
+    "type": "chapter"
+  },
+  {
+    "DOI": "https://doi.org/10.1515/9783110723991",
+    "editor": [
+      {
+        "family": "Fickers",
+        "given": "Andreas"
+      },
+      {
+        "family": "Tatarinov",
+        "given": "Juliane"
+      }
+    ],
+    "id": "Fickers2022",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "De Gruyter Oldenbourg",
+    "title": "Digital history and hermeneutics: Between theory and practice",
+    "title-short": "Digital history and hermeneutics",
+    "type": "book"
   }
 ]
