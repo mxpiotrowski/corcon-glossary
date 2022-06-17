@@ -1,9 +1,10 @@
 ---
+Time-stamp: "2022-06-18T00:04:03+0200 mpiotrow"
 title: model
 id: 20220415244100
 ---
 
-One of the first modern attempt at a definition of *model* is by Leo Apostel:
+One of the first modern attempt at a definition of *model* is by [[20220617235759]] Leo Apostel:
 
 > […] *any subject using a system A that is neither directly nor indirectly interacting with a system B to obtain information about the system B*, is using A as a model for B.  
 -- @Apostel1961 [36]
