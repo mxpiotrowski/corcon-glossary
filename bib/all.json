@@ -941,6 +941,39 @@
     "type": "chapter"
   },
   {
+    "DOI": "10.1145/3382097",
+    "ISBN": "978-1-4503-7617-4",
+    "author": [
+      {
+        "family": "Allemang",
+        "given": "Dean"
+      },
+      {
+        "family": "Hendler",
+        "given": "James"
+      },
+      {
+        "family": "Gandon",
+        "given": "Fabien"
+      }
+    ],
+    "edition": "3",
+    "id": "Allemang2020",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "keyword": "semantic_web",
+    "language": "en-US",
+    "publisher": "ACM",
+    "title": "Semantic Web for the working ontologist: Effective modeling for Linked Data, RDFS, and OWL",
+    "title-short": "Semantic Web for the working ontologist",
+    "type": "book"
+  },
+  {
     "ISBN": "9780123859662",
     "URL": "https://learning.acm.org/books/book_detail.cfm?id=2016697;type=24",
     "abstract": "Semantic Web models and technologies provide information in machine-readable languages that enable computers to access the Web more intelligently and perform tasks automatically without the direction of users. These technologies are relatively recent and advancing rapidly, creating a set of unique challenges for those developing applications. Semantic Web for the Working Ontologist is the essential, comprehensive resource on semantic modeling, for practitioners in health care, artificial intelligence, finance, engineering, military intelligence, enterprise architecture, and more. Focused on developing useful and reusable models, this market-leading book explains how to build semantic content (ontologies) and how to build applications that access that content.",
@@ -51967,6 +52000,33 @@
     "type": "report"
   },
   {
+    "DOI": "10.1177/1474022211427367",
+    "ISSN": "1474-0222",
+    "annote": "Extracted Annotations (3/4/2019, 9:07:18 PM) \"In the article, four case studies are used to exemplify the digital humanities as a humanities project, and it is suggested that the field can be seen as a trading zone and meeting place rather than a strained ’big tent’\" (Svensson 2011:42) \"what, if anything, makes the digital humanities a legitimate place for thinking about and rethinking the humanities?\" (Svensson 2011:43) \"Firstly\" (Svensson 2011:44) \"It is noteworthy that technology here is given considerable agency. There is no clear indication of an integrated and iterative process between technology and scholars\" (Svensson 2011:44) \"second\" (Svensson 2011:45) \"digital humanities are linked to emerging modes of knowledge production, as well as collaborative and interdisciplinary practice\" (Svensson 2011:45) \"third\" (Svensson 2011:46) \"ongoing negotiation within the digital humanities community, broadly conceived, between different epistemic traditions and outsets.\" (Svensson 2011:46) \"junior scholars coming to the digital humanities through disciplinary anchored research and a predominant interest in the digital as an object of inquiry (such as Trettien), can sometimes be interpreted as coming to the field through an interest in technology as a tool: thus being ’read’ according to a particular epistemic tradition\" (Svensson 2011:46) \"fourth\" (Svensson 2011:46) \"In specifying ’making’ as an epistemic commitment and prerequisite for the digital humanities and excluding areas such as media studies, Ramsay is suggesting a particular privileged sense of making\" (Svensson 2011:47) \"The digital humanities are seen as a platform for advancing and leading the humanities as well as a place for bringing together text analysis and cultural analysis\" (Svensson 2011:48) \"One important factor is that, at least potentially, the digital humanities seem to operate across the humanities\" (Svensson 2011:49) \"There is a strong link between visionary discourse and technology, historically and contemporarily (Streeter, 2011; Turner, 2006), and the digital humanities clearly have a strong investment in technology, technological infrastructure, and the digital more generally\" (Svensson 2011:49) \"even if there is incommensurability between experimentalists and theorists (Galison, 2010: 27)\" (Svensson 2011:52) \"On a critical note, we should be aware that the concept of trading zones comes from work on science (not the humanities), that it is obviously based on trading as a structuring metaphor (which may be questioned in relation to the academy), and that it consequently has a functional focus.\" (Svensson 2011:52) \"A related notion is that of contact zones (Pratt, 1991)\" (Svensson 2011:52) \"accentuates the often asymmetrical relations of power in ’social spaces where cultures meet, clash, and grapple with each other’ (Pratt, 1991: 34)\" (Svensson 2011:52) \"’temporary autonomous zones’ as used to describe the strategy of creating temporary spaces that elude formal structures of control, and that are created on the boundary lines of established regions (Bey, 1991).\" (Svensson 2011:53) \"there is some degree of coercion in such situations, which would presumably also be the case when a funding agency launches a new program for an area such as the digital humanities. If a group decides to work together, the trading zone would become more collaborative and voluntary\" (Svensson 2011:53) \"It is here suggested that the digital humanities can be seen as a fractioned (not homogeneous), collaborative (not coerced) trading zone with a continuous development of interlanguage, and that the digital humanities as a ’meeting place’ afford individual expression, non-instrumental connections, unexpected coalitions, and synergetic power\" (Svensson 2011:53) \"Importantly, a trading zone implies respecting (but not necessarily adopting) other epistemic traditions and a shared interest in boundary objects. Furthermore, there may be considerable potential gains across the territory that do not currently seem to be fully exploited; for instance increased use of digital research tools and rigorous data management in media studies or a stronger theoretical anchoring of some more tool-based work\" (Svensson 2011:55) \"Secondly, the coming together of disciplines and competencies could be said to be necessary for tackling the scholarly, technical and structural questions associated with the digital humanities\" (Svensson 2011:55) \"rather than disregarding ’the digital’, interpreting it as purely technical or seeing it as an uncomfortable denomination (Mattern, 2011), it can arguably be used as a means of making the humanities a catalyst for interchange, development and envisioning the future of the academy.\" (Svensson 2011:56) \"the ’digital’ as a ’boundary object’.\" (Svensson 2011:57)",
+    "author": [
+      {
+        "family": "Svensson",
+        "given": "Patrik"
+      }
+    ],
+    "container-title": "Arts and Humanities in Higher Education",
+    "id": "Svensson2011",
+    "issue": "1–2",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "keyword": "trading zone",
+    "language": "en-US",
+    "page": "42-60",
+    "title": "The digital humanities as a humanities project",
+    "type": "article-journal",
+    "volume": "11"
+  },
+  {
     "author": [
       {
         "family": "Svensson",
@@ -78902,6 +78962,44 @@
     "type": "book"
   },
   {
+    "DOI": "10.1007/978-3-319-22683-5_3",
+    "ISBN": "978-3-319-22683-5",
+    "ISSN": "2215-1796",
+    "author": [
+      {
+        "family": "Bensaude-Vincent",
+        "given": "Bernadette"
+      }
+    ],
+    "collection-number": "29",
+    "collection-title": "Sociology of the sciences yearbook",
+    "container-title": "The local configuration of new research fields: On regional and national diversity",
+    "editor": [
+      {
+        "family": "Merz",
+        "given": "Martina"
+      },
+      {
+        "family": "Sormani",
+        "given": "Philippe"
+      }
+    ],
+    "id": "Bensaude-Vincent2016",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "45-60",
+    "publisher": "Springer",
+    "title": "Building multidisciplinary research fields: The cases of materials science, nanotechnology and synthetic biology: On regional and national diversity",
+    "title-short": "Building multidisciplinary research fields",
+    "type": "chapter"
+  },
+  {
     "DOI": "10.1093/llc/fqac016",
     "ISSN": "2055-768X",
     "author": [
@@ -79089,30 +79187,6 @@
     "volume": "28"
   },
   {
-    "editor": [
-      {
-        "family": "Sherif",
-        "given": "Muzafer"
-      },
-      {
-        "family": "Sherif",
-        "given": "Carolyn W."
-      }
-    ],
-    "id": "Sherif1969",
-    "issued": {
-      "date-parts": [
-        [
-          1969
-        ]
-      ]
-    },
-    "language": "en-US",
-    "publisher": "Transaction",
-    "title": "Interdisciplinary relationships in the social sciences",
-    "type": "book"
-  },
-  {
     "author": [
       {
         "family": "Campbell",
@@ -79144,6 +79218,30 @@
     "publisher": "Transaction",
     "title": "Ethnocentrism of disciplines and the fish-scale model of omniscience",
     "type": "chapter"
+  },
+  {
+    "editor": [
+      {
+        "family": "Sherif",
+        "given": "Muzafer"
+      },
+      {
+        "family": "Sherif",
+        "given": "Carolyn W."
+      }
+    ],
+    "id": "Sherif1969",
+    "issued": {
+      "date-parts": [
+        [
+          1969
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "Transaction",
+    "title": "Interdisciplinary relationships in the social sciences",
+    "type": "book"
   },
   {
     "DOI": "10.1162/qss_a_00062",
@@ -79204,5 +79302,226 @@
     "title": "Is interdisciplinarity distinctive? Scientific collaborations through research projects in natural sciences",
     "type": "article-journal",
     "volume": "61"
+  },
+  {
+    "author": [
+      {
+        "family": "Small",
+        "given": "Mario L."
+      }
+    ],
+    "container-title": "Theory and Society",
+    "id": "Small1999",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "659-707",
+    "title": "Departmental conditions and the emergence of new disciplines: Two cases in the legitimation of African-American studies",
+    "title-short": "Departmental conditions and the emergence of new disciplines",
+    "type": "article-journal",
+    "volume": "28"
+  },
+  {
+    "DOI": "10.1007/978-3-030-18659-3",
+    "ISBN": "978-3-030-18659-3",
+    "author": [
+      {
+        "family": "Lyall",
+        "given": "Catherine"
+      }
+    ],
+    "id": "Lyall2019",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "Springer",
+    "title": "Being an interdisciplinary academic",
+    "type": "book"
+  },
+  {
+    "DOI": "10.13109/gege.2021.47.1.5",
+    "ISSN": "2196-9000",
+    "author": [
+      {
+        "family": "Lässig",
+        "given": "Simone"
+      }
+    ],
+    "container-title": "Geschichte und Gesellschaft",
+    "id": "Laessig2021",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "5-34",
+    "title": "Digital history",
+    "type": "article-journal",
+    "volume": "47"
+  },
+  {
+    "DOI": "10.1145/3477339",
+    "ISBN": "978-1-4503-8724-8",
+    "author": [
+      {
+        "family": "Tracy",
+        "given": "Kim W."
+      }
+    ],
+    "id": "Tracy2021",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "ACM",
+    "title": "Software: A technical history",
+    "title-short": "Software",
+    "type": "book"
+  },
+  {
+    "DOI": "10.1145/2663015",
+    "ISBN": "978-1-6270-5551-2",
+    "author": [
+      {
+        "family": "Cullinane",
+        "given": "John"
+      }
+    ],
+    "id": "Cullinane2014",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "ACM",
+    "title": "Smarter than their machines: Oral histories of pioneers in interactive computing",
+    "title-short": "Smarter than their machines",
+    "type": "book"
+  },
+  {
+    "DOI": "10.1145/3501714",
+    "ISBN": "978-1-4503-9586-1",
+    "editor": [
+      {
+        "family": "Geffner",
+        "given": "Hector"
+      },
+      {
+        "family": "Dechter",
+        "given": "Rina"
+      },
+      {
+        "family": "Halpern",
+        "given": "Joseph Y."
+      }
+    ],
+    "id": "Geffner2022",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "ACM",
+    "title": "Probabilistic and causal inference: The works of Judea Pearl",
+    "title-short": "Probabilistic and causal inference",
+    "type": "book"
+  },
+  {
+    "ISBN": "978-1-529-38616-5",
+    "author": [
+      {
+        "family": "Lepore",
+        "given": "Jill"
+      }
+    ],
+    "id": "Lepore2020",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "John Murray",
+    "title": "If then: How one data company invented the future",
+    "title-short": "If then",
+    "type": "book"
+  },
+  {
+    "ISBN": "978-0-262-54290-6",
+    "author": [
+      {
+        "family": "Haigh",
+        "given": "Thomas"
+      },
+      {
+        "family": "Ceruzzi",
+        "given": "Paul"
+      }
+    ],
+    "id": "Haigh2021",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "MIT Press",
+    "title": "A new history of modern computing",
+    "type": "book"
+  },
+  {
+    "DOI": "10.1177/1461444818804980",
+    "ISSN": "1461-7315",
+    "author": [
+      {
+        "family": "Natale",
+        "given": "Simone"
+      }
+    ],
+    "container-title": "New Media & Society",
+    "id": "Natale2018",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "712-728",
+    "title": "If software is narrative: Joseph Weizenbaum, artificial intelligence and the biographies of ELIZA",
+    "title-short": "If software is narrative",
+    "type": "article-journal",
+    "volume": "21"
   }
 ]
