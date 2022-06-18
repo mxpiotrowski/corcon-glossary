@@ -12704,7 +12704,8 @@
     "volume": "8"
   },
   {
-    "DOI": "10.1515/9783110211429.1.68",
+    "DOI": "10.1515/9783110211429",
+    "ISBN": "978-3-110-18043-5",
     "author": [
       {
         "family": "Dipper",
@@ -12712,7 +12713,9 @@
       }
     ],
     "chapter-number": "5",
-    "collection-title": "Handbooks of linguistics and communication science",
+    "collection-number": "29",
+    "collection-title": "Handbücher zur sprach- und kommunikationswissenschaft",
+    "container-title": "Corpus linguistics: An international handbook",
     "editor": [
       {
         "family": "Lüdeling",
@@ -12727,18 +12730,49 @@
     "issued": {
       "date-parts": [
         [
-          2
+          2008
         ]
       ]
     },
     "keyword": "computational_linguistics, corpus_linguistics",
     "language": "en-US",
-    "page": "68-96+",
+    "page": "68-96",
     "publisher": "Mouton de Gruyter",
     "publisher-place": "Berlin/New York",
-    "title": "Theory-driven and corpus-driven computational linguistics, and the use of corpora",
-    "type": "article-journal",
-    "volume": "Part 1"
+    "title": "Theory-driven and corpus-driven computational linguistics, and the use of corpora: An international handbook",
+    "title-short": "Theory-driven and corpus-driven computational linguistics, and the use of corpora",
+    "type": "chapter",
+    "volume": "1"
+  },
+  {
+    "DOI": "10.1515/9783110211429",
+    "ISBN": "978-3-110-18043-5",
+    "collection-number": "29",
+    "collection-title": "Handbücher zur sprach- und kommunikationswissenschaft",
+    "editor": [
+      {
+        "family": "Lüdeling",
+        "given": "Anke"
+      },
+      {
+        "family": "Kytö",
+        "given": "Merja"
+      }
+    ],
+    "id": "Luedeling2008",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "Mouton de Gruyter",
+    "publisher-place": "Berlin/New York",
+    "title": "Corpus linguistics: An international handbook",
+    "title-short": "Corpus linguistics",
+    "type": "book"
   },
   {
     "URL": "http://universaar.uni-saarland.de/monographien/volltexte/2010/12/",
@@ -31192,7 +31226,7 @@
       }
     ],
     "collection-title": "Nobel symposium",
-    "container-title": "Going digital. Evolutionary and revolutionary aspects of digitization",
+    "container-title": "Going digital: Evolutionary and revolutionary aspects of digitization",
     "editor": [
       {
         "family": "Grandin",
