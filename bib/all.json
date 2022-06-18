@@ -12803,6 +12803,7 @@
         "given": "Angelika"
       }
     ],
+    "event-place": "Saarbrücken, Germany",
     "id": "Dipper2010",
     "issued": {
       "date-parts": [
@@ -12815,7 +12816,6 @@
     "language": "en-US",
     "page": "117-121",
     "publisher": "Universaar",
-    "publisher-place": "Saarbrücken, Germany",
     "title": "POS-tagging of historical language data: First experiments",
     "title-short": "POS-tagging of historical language data",
     "type": "paper-conference"
@@ -12842,6 +12842,7 @@
       }
     ],
     "container-title": "Proceedings of the fourth linguistic annotation workshop",
+    "event-place": "Uppsala, Sweden",
     "id": "Dipper2010LAW",
     "issued": {
       "date-parts": [
@@ -12855,13 +12856,12 @@
     "language": "en-US",
     "page": "182-185",
     "publisher": "Association for Computational Linguistics",
-    "publisher-place": "Uppsala, Sweden",
     "title": "OTTO: A transcription and management tool for historical texts",
     "title-short": "OTTO",
     "type": "paper-conference"
   },
   {
-    "ISBN": "9783631553770",
+    "ISBN": "978-3-631-55377-0",
     "abstract": "Modellbildung ist eine herausragende geistige Tätigkeit des Menschen. In den Wissenschaften kommt Modellen eine fundamentale Stellung zu, was sie zum Gegenstand intensiver Forschung macht. Die Autoren leisten Beiträge zur Aufklärung von Arten, Funktionen und Zwecken von Modellen, zum Verständnis ihres Wirklichkeitsbezugs und Wechselspiels mit Theorien, zur Erklärung ihrer handlungsleitenden, orientierenden und erkenntnisfördernden Kraft, zur Analyse des konstruktionalen Prozesses der Modellierung und zur Entwicklung eines differenzierten Modellbegriffs. Untersucht werden Rolle und Status von Modellbildungen in der Geschichte der Wissenschaften, der Einsatz von Modellen in den Technikwissenschaften sowie ausgewählte philosophische Modelle. Theoretische Modelle der Komplexitätsforschung und Kosmologie und ihr Zusammenhang mit unserem Weltbild werden ebenso erörtert wie kulturelle Wurzeln und Entwicklungen von Modellen in Mathematik, Chemie und Lebenswissenschaften.",
     "editor": [
       {
@@ -13040,8 +13040,8 @@
     "volume": "3"
   },
   {
-    "URL": "http://portal.acm.org/citation.cfm?id=800253.807669",
-    "abstract": "The Programmer’s Workbench (PWB) is a specialized computing facility dedicated to satisfying the needs of developers of computer programs. The PWB might well be called a \"human-end\" computer; like “front-end” and “back-end” computers, it improves productivity by efficient specialization. It provides a convenient working environment and a uniform set of programming tools to a diverse group of programming projects. These projects produce software for various \"target\" computers, including IBM System/370 and UNIVAC 1100 systems of much greater size than the PWB machines. The projects range in size from several people up to several hundred. The first PWB machine was installed in October, 1973; usage, acceptance, and interest have grown rapidly since that time. The PWB currently supports about 110 time-sharing terminals, utilizing a network of four DEC PDP-11 computers, all running the UNIX Time-Sharing System. The PWB adds tools to UNIX to support large projects. This paper gives an overview of the PWB and its development; further details appear in the five following companion papers [BIA76A, DOL76B, KNU76A, MAS76A, MAS76B].",
+    "URL": "https://dl.acm.org/doi/10.5555/800253.807669",
+    "abstract": "The Programmer’s Workbench (PWB) is a specialized computing facility dedicated to satisfying the needs of developers of computer programs. The PWB might well be called a “human-end” computer; like “front-end” and “back-end” computers, it improves productivity by efficient specialization. It provides a convenient working environment and a uniform set of programming tools to a diverse group of programming projects. These projects produce software for various \"target\" computers, including IBM System/370 and UNIVAC 1100 systems of much greater size than the PWB machines. The projects range in size from several people up to several hundred. The first PWB machine was installed in October, 1973; usage, acceptance, and interest have grown rapidly since that time. The PWB currently supports about 110 time-sharing terminals, utilizing a network of four DEC PDP-11 computers, all running the UNIX Time-Sharing System. The PWB adds tools to UNIX to support large projects. This paper gives an overview of the PWB and its development; further details appear in the five following companion papers [BIA76A, DOL76B, KNU76A, MAS76A, MAS76B].",
     "author": [
       {
         "family": "Dolotta",
@@ -13052,8 +13052,8 @@
         "given": "John R."
       }
     ],
-    "collection-title": "ICSE ’76",
-    "container-title": "Proceedings of the 2<sup>nd</sup> international conference on software engineering",
+    "container-title": "ICSE ’76: Proceedings of the 2<sup>nd</sup> international conference on software engineering",
+    "event-place": "San Francisco, CA, USA",
     "id": "Dolotta1976",
     "issued": {
       "date-parts": [
@@ -13064,8 +13064,8 @@
     },
     "language": "en-US",
     "page": "164-168",
-    "publisher": "IEEE",
-    "publisher-place": "Los Alamitos, CA, USA",
+    "publisher": "IEEE Computer Society Press",
+    "publisher-place": "Washington, DC",
     "title": "An introduction to the Programmer’s Workbench",
     "type": "paper-conference"
   },
@@ -13114,7 +13114,7 @@
       ]
     },
     "keyword": "digital_edition",
-    "language": "en-US",
+    "language": "fr-FR",
     "page": "142-149",
     "title": "Abréviations latines et signes recommandés pour l’apparat critique des éditions de textes médiévaux",
     "type": "article-journal",
@@ -13190,7 +13190,6 @@
     "volume": "5"
   },
   {
-    "ISBN": "9782707328960",
     "URL": "https://cairn.info/revue-critique-2015-8-9-page-704.htm",
     "abstract": "Le tournant numérique n’affecte pas seulement les modes de diffusion des savoirs, mais leur nature même. Il pose des problèmes aux sciences humaines, particulièrement aux disciplines littéraires, plus habituées à s’intéresser à la singularité des œuvres qu’à l’analyse quantitative et la lecture à distance. Il propose aussi de nouveaux objets d’étude, des réseaux sociaux à la littérature numérique, et de nouvelles interrogations critiques, de l’utopie d’un « transhumanisme » en devenir à la dystopie d’une menaçante « gouvernance algorithmique ». Dans ce numéro dirigé par Alexandre Gefen, Critique donne la parole à ceux qui, travaillant dans ce nouveau champ transdisciplinaire, peuvent nous aider à en mieux comprendre les acquis et les écueils, les limites et les promesses.",
     "author": [
@@ -13238,7 +13237,7 @@
     "keyword": "interactive_fiction",
     "language": "en-US",
     "publisher": "University of California, Santa Barbara",
-    "publisher-place": "Santa Barbara, CA, USA",
+    "publisher-place": "Santa Barbara, CA",
     "title": "Command lines: Aesthetics and technique in interactive fiction and new media",
     "title-short": "Command lines",
     "type": "thesis"
@@ -13341,7 +13340,6 @@
     "type": "book"
   },
   {
-    "ISBN": "9780816677948",
     "URL": "http://dhdebates.gc.cuny.edu/debates/text/34",
     "abstract": "After several decades of digital work, the question remains whether humanists are actually doing anything different or just extending the activities that have always been their core concerns, enabled by advantages of networked digital technology (easier access to primary materials, speed of comparison, searching, etc.). Whatever the answer, the role of humanities scholars is crucial in the production and interpretation of cultural materials. It may turn out that data mining or large corpus processing and distant reading are substantially different from close reading and textual analysis and may bring new insights and techniques into the humanities (Moretti). But my second question frames a very different agenda: Have the humanities had any impact on the digital environment? Can we create graphical interfaces and digital platforms from humanistic methods?",
     "author": [
@@ -13398,7 +13396,6 @@
   },
   {
     "DOI": "10.1145/3194133.3194138",
-    "ISBN": "9781450357159",
     "abstract": "Many adaptive systems react to variations in their environment by changing their configuration. Often, they make the adaptation decisions based on some knowledge about how the reconfiguration actions impact the key performance indicators. However, the outcome of these actions is typically affected by uncertainty. Adaptation actions have non-deterministic impacts, potentially leading to multiple outcomes. When this uncertainty is not captured explicitly in the models that guide adaptation, decisions may turn out ineffective or even harmful to the system. Also critical is the need for these models to be interpretable to the human operators that are accountable for the system. However, accurate impact models for actions that result in non-deterministic outcomes are very difficult to obtain and existing techniques that support the automatic generation of these models, mainly based on machine learning, are limited in the way they learn non-determinism. In this paper, we propose a method to learn human-readable models that capture non-deterministic impacts explicitly. Additionally, we discuss how to exploit expert’s knowledge to bootstrap the adaptation process as well as how to use the learned impacts to revise models defined offline. We motivate our work on the adaptation of applications in the cloud, typically affected by hardware heterogeneity and resource contention. To validate our approach we use a prototype based on the RUBiS auction application.",
     "author": [
       {
@@ -13423,6 +13420,7 @@
       }
     ],
     "container-title": "Proceedings of the 13<sup>th</sup> international conference on software engineering for adaptive and self-managing systems (SEAMS ’18)",
+    "event-place": "Gothenburg, Sweden",
     "id": "Duarte2018",
     "issued": {
       "date-parts": [
@@ -13469,13 +13467,13 @@
         ]
       ]
     },
+    "language": "en-US",
     "page": "39-47",
     "title": "A logic programming environment for document semantics and inference",
     "type": "article-journal",
     "volume": "18"
   },
   {
-    "URL": "http://conferences.idealliance.org/extreme/html/2003/Dubin01/EML2003Dubin01.html",
     "author": [
       {
         "family": "Dubin",
@@ -13483,6 +13481,21 @@
       }
     ],
     "container-title": "Proceedings of extreme markup languages 2003",
+    "event-date": {
+      "date-parts": [
+        [
+          2003,
+          8,
+          4
+        ],
+        [
+          2003,
+          8,
+          8
+        ]
+      ]
+    },
+    "event-place": "Montréal, QC",
     "id": "Dubin2003b",
     "issued": {
       "date-parts": [
@@ -15325,7 +15338,8 @@
         "given": "Michael"
       }
     ],
-    "container-title": "2009 15th international conference on virtual systems and multimedia",
+    "container-title": "15<sup>th</sup> international conference on virtual systems and multimedia",
+    "event-place": "Vienna, Austria",
     "id": "Fischer2009",
     "issued": {
       "date-parts": [
@@ -15360,6 +15374,7 @@
       }
     ],
     "container-title": "2010 12<sup>th</sup> international conference on frontiers in handwriting recognition",
+    "event-place": "Kolkata, India",
     "id": "Fischer2010",
     "issued": {
       "date-parts": [
@@ -15372,7 +15387,7 @@
     "language": "en-US",
     "page": "253-258",
     "publisher": "IEEE",
-    "publisher-place": "Los Alamitos, CA, USA",
+    "publisher-place": "Washington, DC",
     "title": "Graph similarity features for HMM-based handwriting recognition in historical documents",
     "type": "paper-conference"
   },
