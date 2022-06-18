@@ -20051,8 +20051,8 @@
     },
     "keyword": "digital_humanities, in_the_media",
     "language": "de-DE",
-    "title": " und die Kulturgeschichte: Zahlenspiele für Fortgeschrittene",
-    "title-short": " und die Kulturgeschichte",
+    "title": "“Big Data” und die Kulturgeschichte: Zahlenspiele für Fortgeschrittene",
+    "title-short": "“Big Data” und die Kulturgeschichte",
     "type": "article-journal"
   },
   {
@@ -20104,8 +20104,8 @@
     },
     "keyword": "digital_humanities, in_the_media",
     "language": "de-DE",
-    "title": " und die Geschichtswissenschaft: Gemachte Tatsachen",
-    "title-short": " und die Geschichtswissenschaft",
+    "title": "“Big Data” und die Geschichtswissenschaft: Gemachte Tatsachen",
+    "title-short": "“Big Data” und die Geschichtswissenschaft",
     "type": "article-journal"
   },
   {
@@ -25539,6 +25539,7 @@
     "keyword": "digital_humanities, in_the_media",
     "language": "de-DE",
     "title": "Big Data: Zwischen den Zeilen",
+    "title-short": "Big Data",
     "type": "article-journal",
     "volume": "35"
   },
@@ -25729,7 +25730,7 @@
         "given": "Greg"
       }
     ],
-    "container-title": "Commun. ACM",
+    "container-title": "Communications of the ACM",
     "id": "Kearsley1982",
     "issue": "7",
     "issued": {
@@ -25802,7 +25803,6 @@
     "keyword": "interactive_parsing",
     "language": "en-US",
     "page": "201-258",
-    "publisher": "Lawrence Erlbaum Associates, Inc.",
     "title": "An incremental procedural grammar for sentence formulation",
     "type": "article-journal",
     "volume": "11"
@@ -25810,7 +25810,7 @@
   {
     "DOI": "10.1007/978-0-387-34747-9_31",
     "ISBN": "978-0-387-34654-0",
-    "abstract": "This paper describes the comparison of selected distance measures in their applicability for supporting retrieval of historical spelling variants (hsv). The interdisciplinary project Rule-based search in text databases with nonstandard orthography develops a fuzzy full-text search engine for historical text documents. This engine should provide easier text access for experts as well as interested amateurs. The FlexMetric framework enhances the distance measure algorithm found to be most efficient according to the results of the evaluation. This measure can be used for multiple applications, including searching, post-ranking, transformation and even reflection about oneâs own language.",
+    "abstract": "This paper describes the comparison of selected distance measures in their applicability for supporting retrieval of historical spelling variants (hsv). The interdisciplinary project Rule-based search in text databases with nonstandard orthography develops a fuzzy full-text search engine for historical text documents. This engine should provide easier text access for experts as well as interested amateurs. The FlexMetric framework enhances the distance measure algorithm found to be most efficient according to the results of the evaluation. This measure can be used for multiple applications, including searching, post-ranking, transformation and even reflection about one’s own language.",
     "author": [
       {
         "family": "Kempken",
@@ -79288,7 +79288,7 @@
       }
     ],
     "container-title": "Social Science Information",
-    "id": "2022",
+    "id": "Benz2022",
     "issue": "1",
     "issued": {
       "date-parts": [
@@ -79368,9 +79368,9 @@
         ]
       ]
     },
-    "language": "en-US",
+    "language": "de-DE",
     "page": "5-34",
-    "title": "Digital history",
+    "title": "Digital History",
     "type": "article-journal",
     "volume": "47"
   },
@@ -79559,7 +79559,7 @@
     "type": "chapter"
   },
   {
-    "DOI": "https://doi.org/10.1515/9783110723991",
+    "DOI": "10.1515/9783110723991",
     "editor": [
       {
         "family": "Fickers",
@@ -79609,5 +79609,70 @@
     "title-short": "Towards a new digital historicism?",
     "type": "article-journal",
     "volume": "1"
+  },
+  {
+    "ISBN": "0-444-85187-9",
+    "author": [
+      {
+        "family": "Kent",
+        "given": "William"
+      }
+    ],
+    "id": "Kent1978",
+    "issued": {
+      "date-parts": [
+        [
+          1978
+        ]
+      ]
+    },
+    "language": "en-US",
+    "title": "Data and reality: Basic assumptions in data processing reconsidered",
+    "title-short": "Data and reality",
+    "type": "book"
+  },
+  {
+    "ISBN": "978-1-3501-6661-5",
+    "author": [
+      {
+        "family": "Meunier",
+        "given": "Jean-Guy"
+      }
+    ],
+    "collection-title": "Bloomsbury advances in semiotics",
+    "id": "Meunier2022",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "Bloomsbury Academic",
+    "title": "Computational semiotics",
+    "type": "book"
+  },
+  {
+    "ISBN": "978-0-262-02856-1",
+    "author": [
+      {
+        "family": "Borgman",
+        "given": "Christine L."
+      }
+    ],
+    "id": "Borgman2015",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "MIT Press",
+    "title": "Big data, little data, no data: Scholarship in the networked world",
+    "title-short": "Big data, little data, no data",
+    "type": "book"
   }
 ]
