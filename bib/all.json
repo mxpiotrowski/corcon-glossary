@@ -56317,7 +56317,7 @@
     "type": "chapter"
   },
   {
-    "URL": "https://search.proquest.com/docview/226976526",
+    "URL": "https://www.jstor.org/stable/40861769",
     "abstract": "Public administration is a diverse and complex discipline which finds itself awashed in an abundance of paradigms which have led to multiple theories, models, and techniques, few of which ever originated within public administration. If public administration is truly to begin understanding decision-making, organizational behavior, the political and social environments or any of the other areas within which it operates, it needs to understand uncertainty. A general theory of uncertainty is needed which can serve as the basis for research into the influence of uncertainty within specialized areas.",
     "author": [
       {
@@ -56341,7 +56341,7 @@
     "title": "A response to public administration’s lack of a general theory of uncertainty: A theoretical vision of uncertainty",
     "title-short": "A response to public administration’s lack of a general theory of uncertainty",
     "type": "article-journal",
-    "volume": "3"
+    "volume": "23"
   },
   {
     "DOI": "10.1007/s002870050104",
@@ -79676,6 +79676,30 @@
       ]
     },
     "language": "en-US",
+    "publisher": "North Holland",
+    "title": "Data and reality: Basic assumptions in data processing reconsidered",
+    "title-short": "Data and reality",
+    "type": "book"
+  },
+  {
+    "ISBN": "1-58500-970-9",
+    "author": [
+      {
+        "family": "Kent",
+        "given": "William"
+      }
+    ],
+    "edition": "2",
+    "id": "Kent1998",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "1stBooks",
     "title": "Data and reality: Basic assumptions in data processing reconsidered",
     "title-short": "Data and reality",
     "type": "book"
