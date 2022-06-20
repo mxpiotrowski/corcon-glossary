@@ -8,7 +8,7 @@ Even though it is not fully clear on whether it is a [[20220418210120]] methodol
 
 In our understanding, corpus linguistics [[20220616094612]] consist of the application of formal modeling in a set of predefined items, guided by a set of rules or criteria for the selection, as well as the analysis of these items.  The concept of formal modeling helps us to understand the quantitative nature of the research conducted on corpora, a research that is not concerned with questions of ‘why’ and ‘how’, but basically can be described as a search for [[20220415246200]] patterns of lexical or grammatical features [@Bennett2010].
 
-Like other fields, such as [[20220415229000]] cultural analytics, [[20220415226200]] cliometrics and [[20220415227100]] computational linguistics [[20220415227100]] (@Dipper2008a), it is considered as a ‘neighboring’ discipline of [[20220415230900]] DH with shared [[20220418210120]] methodology.  However, the boundaries between the methodological framework of the one and the methodological framework of the other are still questionable.
+Like other fields, such as [[20220415229000]] cultural analytics, [[20220415226200]] cliometrics and [[20220415227100]] computational linguistics [[20220415227100]] [@Dipper2008a], it is considered as a ‘neighboring’ discipline of [[20220415230900]] DH with shared [[20220418210120]] methodology.  However, the boundaries between the methodological framework of the one and the methodological framework of the other are still questionable.
 
 - [@Luedeling2011]
 - [@Luedeling2008]
