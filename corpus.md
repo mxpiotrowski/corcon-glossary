@@ -1,10 +1,10 @@
 ---
-Time-stamp: "2022-06-09T00:42:21+0200 mpiotrow"
+Time-stamp: "2022-06-18T19:49:07+0200 mpiotrow"
 title: corpus
 id: 20220415228300
 ---
 
-The notion of *corpus* comes from [[20220415227100]] computational linguistics.  It is usually understood as a collection of [[20220415253200]] texts that fulfils certain criteria.
+The notion of *corpus* comes from [[20220415227100]] computational linguistics and [[20220616094612]] corpus linguistics.  It is usually understood as a collection of [[20220415253200]] texts that fulfils certain criteria.
 
 In linguistics, Douglas Biber has been influential in defining criteria for corpora such as *balancedness* and *representativeness* [see, e.g., @Biber1990; @Biber1993].  Often the presence of [[20220415223600]] annotation is also considered essential.  Corpora are today assumed to be machine-readable; some authors consider this a defining characteristic.
 

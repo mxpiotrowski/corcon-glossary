@@ -1,4 +1,4 @@
 ---
-title: visual_culture.md
+title: visual culture
 id: 20220616094642
 ---

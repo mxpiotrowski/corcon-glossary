@@ -941,6 +941,39 @@
     "type": "chapter"
   },
   {
+    "DOI": "10.1145/3382097",
+    "ISBN": "978-1-4503-7617-4",
+    "author": [
+      {
+        "family": "Allemang",
+        "given": "Dean"
+      },
+      {
+        "family": "Hendler",
+        "given": "James"
+      },
+      {
+        "family": "Gandon",
+        "given": "Fabien"
+      }
+    ],
+    "edition": "3",
+    "id": "Allemang2020",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "keyword": "semantic_web",
+    "language": "en-US",
+    "publisher": "ACM",
+    "title": "Semantic Web for the working ontologist: Effective modeling for Linked Data, RDFS, and OWL",
+    "title-short": "Semantic Web for the working ontologist",
+    "type": "book"
+  },
+  {
     "ISBN": "9780123859662",
     "URL": "https://learning.acm.org/books/book_detail.cfm?id=2016697;type=24",
     "abstract": "Semantic Web models and technologies provide information in machine-readable languages that enable computers to access the Web more intelligently and perform tasks automatically without the direction of users. These technologies are relatively recent and advancing rapidly, creating a set of unique challenges for those developing applications. Semantic Web for the Working Ontologist is the essential, comprehensive resource on semantic modeling, for practitioners in health care, artificial intelligence, finance, engineering, military intelligence, enterprise architecture, and more. Focused on developing useful and reusable models, this market-leading book explains how to build semantic content (ontologies) and how to build applications that access that content.",
@@ -12671,7 +12704,8 @@
     "volume": "8"
   },
   {
-    "DOI": "10.1515/9783110211429.1.68",
+    "DOI": "10.1515/9783110211429",
+    "ISBN": "978-3-110-18043-5",
     "author": [
       {
         "family": "Dipper",
@@ -12679,7 +12713,9 @@
       }
     ],
     "chapter-number": "5",
-    "collection-title": "Handbooks of linguistics and communication science",
+    "collection-number": "29",
+    "collection-title": "Handbücher zur sprach- und kommunikationswissenschaft",
+    "container-title": "Corpus linguistics: An international handbook",
     "editor": [
       {
         "family": "Lüdeling",
@@ -12694,18 +12730,49 @@
     "issued": {
       "date-parts": [
         [
-          2
+          2008
         ]
       ]
     },
     "keyword": "computational_linguistics, corpus_linguistics",
     "language": "en-US",
-    "page": "68-96+",
+    "page": "68-96",
     "publisher": "Mouton de Gruyter",
     "publisher-place": "Berlin/New York",
-    "title": "Theory-driven and corpus-driven computational linguistics, and the use of corpora",
-    "type": "article-journal",
-    "volume": "Part 1"
+    "title": "Theory-driven and corpus-driven computational linguistics, and the use of corpora: An international handbook",
+    "title-short": "Theory-driven and corpus-driven computational linguistics, and the use of corpora",
+    "type": "chapter",
+    "volume": "1"
+  },
+  {
+    "DOI": "10.1515/9783110211429",
+    "ISBN": "978-3-110-18043-5",
+    "collection-number": "29",
+    "collection-title": "Handbücher zur sprach- und kommunikationswissenschaft",
+    "editor": [
+      {
+        "family": "Lüdeling",
+        "given": "Anke"
+      },
+      {
+        "family": "Kytö",
+        "given": "Merja"
+      }
+    ],
+    "id": "Luedeling2008",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "Mouton de Gruyter",
+    "publisher-place": "Berlin/New York",
+    "title": "Corpus linguistics: An international handbook",
+    "title-short": "Corpus linguistics",
+    "type": "book"
   },
   {
     "URL": "http://universaar.uni-saarland.de/monographien/volltexte/2010/12/",
@@ -12736,6 +12803,7 @@
         "given": "Angelika"
       }
     ],
+    "event-place": "Saarbrücken, Germany",
     "id": "Dipper2010",
     "issued": {
       "date-parts": [
@@ -12748,7 +12816,6 @@
     "language": "en-US",
     "page": "117-121",
     "publisher": "Universaar",
-    "publisher-place": "Saarbrücken, Germany",
     "title": "POS-tagging of historical language data: First experiments",
     "title-short": "POS-tagging of historical language data",
     "type": "paper-conference"
@@ -12775,6 +12842,7 @@
       }
     ],
     "container-title": "Proceedings of the fourth linguistic annotation workshop",
+    "event-place": "Uppsala, Sweden",
     "id": "Dipper2010LAW",
     "issued": {
       "date-parts": [
@@ -12788,13 +12856,12 @@
     "language": "en-US",
     "page": "182-185",
     "publisher": "Association for Computational Linguistics",
-    "publisher-place": "Uppsala, Sweden",
     "title": "OTTO: A transcription and management tool for historical texts",
     "title-short": "OTTO",
     "type": "paper-conference"
   },
   {
-    "ISBN": "9783631553770",
+    "ISBN": "978-3-631-55377-0",
     "abstract": "Modellbildung ist eine herausragende geistige Tätigkeit des Menschen. In den Wissenschaften kommt Modellen eine fundamentale Stellung zu, was sie zum Gegenstand intensiver Forschung macht. Die Autoren leisten Beiträge zur Aufklärung von Arten, Funktionen und Zwecken von Modellen, zum Verständnis ihres Wirklichkeitsbezugs und Wechselspiels mit Theorien, zur Erklärung ihrer handlungsleitenden, orientierenden und erkenntnisfördernden Kraft, zur Analyse des konstruktionalen Prozesses der Modellierung und zur Entwicklung eines differenzierten Modellbegriffs. Untersucht werden Rolle und Status von Modellbildungen in der Geschichte der Wissenschaften, der Einsatz von Modellen in den Technikwissenschaften sowie ausgewählte philosophische Modelle. Theoretische Modelle der Komplexitätsforschung und Kosmologie und ihr Zusammenhang mit unserem Weltbild werden ebenso erörtert wie kulturelle Wurzeln und Entwicklungen von Modellen in Mathematik, Chemie und Lebenswissenschaften.",
     "editor": [
       {
@@ -12973,8 +13040,8 @@
     "volume": "3"
   },
   {
-    "URL": "http://portal.acm.org/citation.cfm?id=800253.807669",
-    "abstract": "The Programmer’s Workbench (PWB) is a specialized computing facility dedicated to satisfying the needs of developers of computer programs. The PWB might well be called a \"human-end\" computer; like “front-end” and “back-end” computers, it improves productivity by efficient specialization. It provides a convenient working environment and a uniform set of programming tools to a diverse group of programming projects. These projects produce software for various \"target\" computers, including IBM System/370 and UNIVAC 1100 systems of much greater size than the PWB machines. The projects range in size from several people up to several hundred. The first PWB machine was installed in October, 1973; usage, acceptance, and interest have grown rapidly since that time. The PWB currently supports about 110 time-sharing terminals, utilizing a network of four DEC PDP-11 computers, all running the UNIX Time-Sharing System. The PWB adds tools to UNIX to support large projects. This paper gives an overview of the PWB and its development; further details appear in the five following companion papers [BIA76A, DOL76B, KNU76A, MAS76A, MAS76B].",
+    "URL": "https://dl.acm.org/doi/10.5555/800253.807669",
+    "abstract": "The Programmer’s Workbench (PWB) is a specialized computing facility dedicated to satisfying the needs of developers of computer programs. The PWB might well be called a “human-end” computer; like “front-end” and “back-end” computers, it improves productivity by efficient specialization. It provides a convenient working environment and a uniform set of programming tools to a diverse group of programming projects. These projects produce software for various \"target\" computers, including IBM System/370 and UNIVAC 1100 systems of much greater size than the PWB machines. The projects range in size from several people up to several hundred. The first PWB machine was installed in October, 1973; usage, acceptance, and interest have grown rapidly since that time. The PWB currently supports about 110 time-sharing terminals, utilizing a network of four DEC PDP-11 computers, all running the UNIX Time-Sharing System. The PWB adds tools to UNIX to support large projects. This paper gives an overview of the PWB and its development; further details appear in the five following companion papers [BIA76A, DOL76B, KNU76A, MAS76A, MAS76B].",
     "author": [
       {
         "family": "Dolotta",
@@ -12985,8 +13052,8 @@
         "given": "John R."
       }
     ],
-    "collection-title": "ICSE ’76",
-    "container-title": "Proceedings of the 2<sup>nd</sup> international conference on software engineering",
+    "container-title": "ICSE ’76: Proceedings of the 2<sup>nd</sup> international conference on software engineering",
+    "event-place": "San Francisco, CA, USA",
     "id": "Dolotta1976",
     "issued": {
       "date-parts": [
@@ -12997,8 +13064,8 @@
     },
     "language": "en-US",
     "page": "164-168",
-    "publisher": "IEEE",
-    "publisher-place": "Los Alamitos, CA, USA",
+    "publisher": "IEEE Computer Society Press",
+    "publisher-place": "Washington, DC",
     "title": "An introduction to the Programmer’s Workbench",
     "type": "paper-conference"
   },
@@ -13047,7 +13114,7 @@
       ]
     },
     "keyword": "digital_edition",
-    "language": "en-US",
+    "language": "fr-FR",
     "page": "142-149",
     "title": "Abréviations latines et signes recommandés pour l’apparat critique des éditions de textes médiévaux",
     "type": "article-journal",
@@ -13123,7 +13190,6 @@
     "volume": "5"
   },
   {
-    "ISBN": "9782707328960",
     "URL": "https://cairn.info/revue-critique-2015-8-9-page-704.htm",
     "abstract": "Le tournant numérique n’affecte pas seulement les modes de diffusion des savoirs, mais leur nature même. Il pose des problèmes aux sciences humaines, particulièrement aux disciplines littéraires, plus habituées à s’intéresser à la singularité des œuvres qu’à l’analyse quantitative et la lecture à distance. Il propose aussi de nouveaux objets d’étude, des réseaux sociaux à la littérature numérique, et de nouvelles interrogations critiques, de l’utopie d’un « transhumanisme » en devenir à la dystopie d’une menaçante « gouvernance algorithmique ». Dans ce numéro dirigé par Alexandre Gefen, Critique donne la parole à ceux qui, travaillant dans ce nouveau champ transdisciplinaire, peuvent nous aider à en mieux comprendre les acquis et les écueils, les limites et les promesses.",
     "author": [
@@ -13171,7 +13237,7 @@
     "keyword": "interactive_fiction",
     "language": "en-US",
     "publisher": "University of California, Santa Barbara",
-    "publisher-place": "Santa Barbara, CA, USA",
+    "publisher-place": "Santa Barbara, CA",
     "title": "Command lines: Aesthetics and technique in interactive fiction and new media",
     "title-short": "Command lines",
     "type": "thesis"
@@ -13274,7 +13340,6 @@
     "type": "book"
   },
   {
-    "ISBN": "9780816677948",
     "URL": "http://dhdebates.gc.cuny.edu/debates/text/34",
     "abstract": "After several decades of digital work, the question remains whether humanists are actually doing anything different or just extending the activities that have always been their core concerns, enabled by advantages of networked digital technology (easier access to primary materials, speed of comparison, searching, etc.). Whatever the answer, the role of humanities scholars is crucial in the production and interpretation of cultural materials. It may turn out that data mining or large corpus processing and distant reading are substantially different from close reading and textual analysis and may bring new insights and techniques into the humanities (Moretti). But my second question frames a very different agenda: Have the humanities had any impact on the digital environment? Can we create graphical interfaces and digital platforms from humanistic methods?",
     "author": [
@@ -13331,7 +13396,6 @@
   },
   {
     "DOI": "10.1145/3194133.3194138",
-    "ISBN": "9781450357159",
     "abstract": "Many adaptive systems react to variations in their environment by changing their configuration. Often, they make the adaptation decisions based on some knowledge about how the reconfiguration actions impact the key performance indicators. However, the outcome of these actions is typically affected by uncertainty. Adaptation actions have non-deterministic impacts, potentially leading to multiple outcomes. When this uncertainty is not captured explicitly in the models that guide adaptation, decisions may turn out ineffective or even harmful to the system. Also critical is the need for these models to be interpretable to the human operators that are accountable for the system. However, accurate impact models for actions that result in non-deterministic outcomes are very difficult to obtain and existing techniques that support the automatic generation of these models, mainly based on machine learning, are limited in the way they learn non-determinism. In this paper, we propose a method to learn human-readable models that capture non-deterministic impacts explicitly. Additionally, we discuss how to exploit expert’s knowledge to bootstrap the adaptation process as well as how to use the learned impacts to revise models defined offline. We motivate our work on the adaptation of applications in the cloud, typically affected by hardware heterogeneity and resource contention. To validate our approach we use a prototype based on the RUBiS auction application.",
     "author": [
       {
@@ -13356,6 +13420,7 @@
       }
     ],
     "container-title": "Proceedings of the 13<sup>th</sup> international conference on software engineering for adaptive and self-managing systems (SEAMS ’18)",
+    "event-place": "Gothenburg, Sweden",
     "id": "Duarte2018",
     "issued": {
       "date-parts": [
@@ -13402,13 +13467,13 @@
         ]
       ]
     },
+    "language": "en-US",
     "page": "39-47",
     "title": "A logic programming environment for document semantics and inference",
     "type": "article-journal",
     "volume": "18"
   },
   {
-    "URL": "http://conferences.idealliance.org/extreme/html/2003/Dubin01/EML2003Dubin01.html",
     "author": [
       {
         "family": "Dubin",
@@ -13416,6 +13481,21 @@
       }
     ],
     "container-title": "Proceedings of extreme markup languages 2003",
+    "event-date": {
+      "date-parts": [
+        [
+          2003,
+          8,
+          4
+        ],
+        [
+          2003,
+          8,
+          8
+        ]
+      ]
+    },
+    "event-place": "Montréal, QC",
     "id": "Dubin2003b",
     "issued": {
       "date-parts": [
@@ -15258,7 +15338,8 @@
         "given": "Michael"
       }
     ],
-    "container-title": "2009 15th international conference on virtual systems and multimedia",
+    "container-title": "15<sup>th</sup> international conference on virtual systems and multimedia",
+    "event-place": "Vienna, Austria",
     "id": "Fischer2009",
     "issued": {
       "date-parts": [
@@ -15293,6 +15374,7 @@
       }
     ],
     "container-title": "2010 12<sup>th</sup> international conference on frontiers in handwriting recognition",
+    "event-place": "Kolkata, India",
     "id": "Fischer2010",
     "issued": {
       "date-parts": [
@@ -15305,7 +15387,7 @@
     "language": "en-US",
     "page": "253-258",
     "publisher": "IEEE",
-    "publisher-place": "Los Alamitos, CA, USA",
+    "publisher-place": "Washington, DC",
     "title": "Graph similarity features for HMM-based handwriting recognition in historical documents",
     "type": "paper-conference"
   },
@@ -20018,8 +20100,8 @@
     },
     "keyword": "digital_humanities, in_the_media",
     "language": "de-DE",
-    "title": " und die Kulturgeschichte: Zahlenspiele für Fortgeschrittene",
-    "title-short": " und die Kulturgeschichte",
+    "title": "“Big Data” und die Kulturgeschichte: Zahlenspiele für Fortgeschrittene",
+    "title-short": "“Big Data” und die Kulturgeschichte",
     "type": "article-journal"
   },
   {
@@ -20071,8 +20153,8 @@
     },
     "keyword": "digital_humanities, in_the_media",
     "language": "de-DE",
-    "title": " und die Geschichtswissenschaft: Gemachte Tatsachen",
-    "title-short": " und die Geschichtswissenschaft",
+    "title": "“Big Data” und die Geschichtswissenschaft: Gemachte Tatsachen",
+    "title-short": "“Big Data” und die Geschichtswissenschaft",
     "type": "article-journal"
   },
   {
@@ -25506,6 +25588,7 @@
     "keyword": "digital_humanities, in_the_media",
     "language": "de-DE",
     "title": "Big Data: Zwischen den Zeilen",
+    "title-short": "Big Data",
     "type": "article-journal",
     "volume": "35"
   },
@@ -25696,7 +25779,7 @@
         "given": "Greg"
       }
     ],
-    "container-title": "Commun. ACM",
+    "container-title": "Communications of the ACM",
     "id": "Kearsley1982",
     "issue": "7",
     "issued": {
@@ -25769,7 +25852,6 @@
     "keyword": "interactive_parsing",
     "language": "en-US",
     "page": "201-258",
-    "publisher": "Lawrence Erlbaum Associates, Inc.",
     "title": "An incremental procedural grammar for sentence formulation",
     "type": "article-journal",
     "volume": "11"
@@ -25777,7 +25859,7 @@
   {
     "DOI": "10.1007/978-0-387-34747-9_31",
     "ISBN": "978-0-387-34654-0",
-    "abstract": "This paper describes the comparison of selected distance measures in their applicability for supporting retrieval of historical spelling variants (hsv). The interdisciplinary project Rule-based search in text databases with nonstandard orthography develops a fuzzy full-text search engine for historical text documents. This engine should provide easier text access for experts as well as interested amateurs. The FlexMetric framework enhances the distance measure algorithm found to be most efficient according to the results of the evaluation. This measure can be used for multiple applications, including searching, post-ranking, transformation and even reflection about oneâs own language.",
+    "abstract": "This paper describes the comparison of selected distance measures in their applicability for supporting retrieval of historical spelling variants (hsv). The interdisciplinary project Rule-based search in text databases with nonstandard orthography develops a fuzzy full-text search engine for historical text documents. This engine should provide easier text access for experts as well as interested amateurs. The FlexMetric framework enhances the distance measure algorithm found to be most efficient according to the results of the evaluation. This measure can be used for multiple applications, including searching, post-ranking, transformation and even reflection about one’s own language.",
     "author": [
       {
         "family": "Kempken",
@@ -31159,7 +31241,7 @@
       }
     ],
     "collection-title": "Nobel symposium",
-    "container-title": "Going digital. Evolutionary and revolutionary aspects of digitization",
+    "container-title": "Going digital: Evolutionary and revolutionary aspects of digitization",
     "editor": [
       {
         "family": "Grandin",
@@ -51967,6 +52049,33 @@
     "type": "report"
   },
   {
+    "DOI": "10.1177/1474022211427367",
+    "ISSN": "1474-0222",
+    "annote": "Extracted Annotations (3/4/2019, 9:07:18 PM) \"In the article, four case studies are used to exemplify the digital humanities as a humanities project, and it is suggested that the field can be seen as a trading zone and meeting place rather than a strained ’big tent’\" (Svensson 2011:42) \"what, if anything, makes the digital humanities a legitimate place for thinking about and rethinking the humanities?\" (Svensson 2011:43) \"Firstly\" (Svensson 2011:44) \"It is noteworthy that technology here is given considerable agency. There is no clear indication of an integrated and iterative process between technology and scholars\" (Svensson 2011:44) \"second\" (Svensson 2011:45) \"digital humanities are linked to emerging modes of knowledge production, as well as collaborative and interdisciplinary practice\" (Svensson 2011:45) \"third\" (Svensson 2011:46) \"ongoing negotiation within the digital humanities community, broadly conceived, between different epistemic traditions and outsets.\" (Svensson 2011:46) \"junior scholars coming to the digital humanities through disciplinary anchored research and a predominant interest in the digital as an object of inquiry (such as Trettien), can sometimes be interpreted as coming to the field through an interest in technology as a tool: thus being ’read’ according to a particular epistemic tradition\" (Svensson 2011:46) \"fourth\" (Svensson 2011:46) \"In specifying ’making’ as an epistemic commitment and prerequisite for the digital humanities and excluding areas such as media studies, Ramsay is suggesting a particular privileged sense of making\" (Svensson 2011:47) \"The digital humanities are seen as a platform for advancing and leading the humanities as well as a place for bringing together text analysis and cultural analysis\" (Svensson 2011:48) \"One important factor is that, at least potentially, the digital humanities seem to operate across the humanities\" (Svensson 2011:49) \"There is a strong link between visionary discourse and technology, historically and contemporarily (Streeter, 2011; Turner, 2006), and the digital humanities clearly have a strong investment in technology, technological infrastructure, and the digital more generally\" (Svensson 2011:49) \"even if there is incommensurability between experimentalists and theorists (Galison, 2010: 27)\" (Svensson 2011:52) \"On a critical note, we should be aware that the concept of trading zones comes from work on science (not the humanities), that it is obviously based on trading as a structuring metaphor (which may be questioned in relation to the academy), and that it consequently has a functional focus.\" (Svensson 2011:52) \"A related notion is that of contact zones (Pratt, 1991)\" (Svensson 2011:52) \"accentuates the often asymmetrical relations of power in ’social spaces where cultures meet, clash, and grapple with each other’ (Pratt, 1991: 34)\" (Svensson 2011:52) \"’temporary autonomous zones’ as used to describe the strategy of creating temporary spaces that elude formal structures of control, and that are created on the boundary lines of established regions (Bey, 1991).\" (Svensson 2011:53) \"there is some degree of coercion in such situations, which would presumably also be the case when a funding agency launches a new program for an area such as the digital humanities. If a group decides to work together, the trading zone would become more collaborative and voluntary\" (Svensson 2011:53) \"It is here suggested that the digital humanities can be seen as a fractioned (not homogeneous), collaborative (not coerced) trading zone with a continuous development of interlanguage, and that the digital humanities as a ’meeting place’ afford individual expression, non-instrumental connections, unexpected coalitions, and synergetic power\" (Svensson 2011:53) \"Importantly, a trading zone implies respecting (but not necessarily adopting) other epistemic traditions and a shared interest in boundary objects. Furthermore, there may be considerable potential gains across the territory that do not currently seem to be fully exploited; for instance increased use of digital research tools and rigorous data management in media studies or a stronger theoretical anchoring of some more tool-based work\" (Svensson 2011:55) \"Secondly, the coming together of disciplines and competencies could be said to be necessary for tackling the scholarly, technical and structural questions associated with the digital humanities\" (Svensson 2011:55) \"rather than disregarding ’the digital’, interpreting it as purely technical or seeing it as an uncomfortable denomination (Mattern, 2011), it can arguably be used as a means of making the humanities a catalyst for interchange, development and envisioning the future of the academy.\" (Svensson 2011:56) \"the ’digital’ as a ’boundary object’.\" (Svensson 2011:57)",
+    "author": [
+      {
+        "family": "Svensson",
+        "given": "Patrik"
+      }
+    ],
+    "container-title": "Arts and Humanities in Higher Education",
+    "id": "Svensson2011",
+    "issue": "1–2",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "keyword": "trading zone",
+    "language": "en-US",
+    "page": "42-60",
+    "title": "The digital humanities as a humanities project",
+    "type": "article-journal",
+    "volume": "11"
+  },
+  {
     "author": [
       {
         "family": "Svensson",
@@ -56208,7 +56317,7 @@
     "type": "chapter"
   },
   {
-    "URL": "https://search.proquest.com/docview/226976526",
+    "URL": "https://www.jstor.org/stable/40861769",
     "abstract": "Public administration is a diverse and complex discipline which finds itself awashed in an abundance of paradigms which have led to multiple theories, models, and techniques, few of which ever originated within public administration. If public administration is truly to begin understanding decision-making, organizational behavior, the political and social environments or any of the other areas within which it operates, it needs to understand uncertainty. A general theory of uncertainty is needed which can serve as the basis for research into the influence of uncertainty within specialized areas.",
     "author": [
       {
@@ -56232,7 +56341,7 @@
     "title": "A response to public administration’s lack of a general theory of uncertainty: A theoretical vision of uncertainty",
     "title-short": "A response to public administration’s lack of a general theory of uncertainty",
     "type": "article-journal",
-    "volume": "3"
+    "volume": "23"
   },
   {
     "DOI": "10.1007/s002870050104",
@@ -78902,6 +79011,44 @@
     "type": "book"
   },
   {
+    "DOI": "10.1007/978-3-319-22683-5_3",
+    "ISBN": "978-3-319-22683-5",
+    "ISSN": "2215-1796",
+    "author": [
+      {
+        "family": "Bensaude-Vincent",
+        "given": "Bernadette"
+      }
+    ],
+    "collection-number": "29",
+    "collection-title": "Sociology of the sciences yearbook",
+    "container-title": "The local configuration of new research fields: On regional and national diversity",
+    "editor": [
+      {
+        "family": "Merz",
+        "given": "Martina"
+      },
+      {
+        "family": "Sormani",
+        "given": "Philippe"
+      }
+    ],
+    "id": "Bensaude-Vincent2016",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "45-60",
+    "publisher": "Springer",
+    "title": "Building multidisciplinary research fields: The cases of materials science, nanotechnology and synthetic biology: On regional and national diversity",
+    "title-short": "Building multidisciplinary research fields",
+    "type": "chapter"
+  },
+  {
     "DOI": "10.1093/llc/fqac016",
     "ISSN": "2055-768X",
     "author": [
@@ -79089,30 +79236,6 @@
     "volume": "28"
   },
   {
-    "editor": [
-      {
-        "family": "Sherif",
-        "given": "Muzafer"
-      },
-      {
-        "family": "Sherif",
-        "given": "Carolyn W."
-      }
-    ],
-    "id": "Sherif1969",
-    "issued": {
-      "date-parts": [
-        [
-          1969
-        ]
-      ]
-    },
-    "language": "en-US",
-    "publisher": "Transaction",
-    "title": "Interdisciplinary relationships in the social sciences",
-    "type": "book"
-  },
-  {
     "author": [
       {
         "family": "Campbell",
@@ -79144,6 +79267,30 @@
     "publisher": "Transaction",
     "title": "Ethnocentrism of disciplines and the fish-scale model of omniscience",
     "type": "chapter"
+  },
+  {
+    "editor": [
+      {
+        "family": "Sherif",
+        "given": "Muzafer"
+      },
+      {
+        "family": "Sherif",
+        "given": "Carolyn W."
+      }
+    ],
+    "id": "Sherif1969",
+    "issued": {
+      "date-parts": [
+        [
+          1969
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "Transaction",
+    "title": "Interdisciplinary relationships in the social sciences",
+    "type": "book"
   },
   {
     "DOI": "10.1162/qss_a_00062",
@@ -79190,7 +79337,7 @@
       }
     ],
     "container-title": "Social Science Information",
-    "id": "2022",
+    "id": "Benz2022",
     "issue": "1",
     "issued": {
       "date-parts": [
@@ -79204,5 +79351,401 @@
     "title": "Is interdisciplinarity distinctive? Scientific collaborations through research projects in natural sciences",
     "type": "article-journal",
     "volume": "61"
+  },
+  {
+    "author": [
+      {
+        "family": "Small",
+        "given": "Mario L."
+      }
+    ],
+    "container-title": "Theory and Society",
+    "id": "Small1999",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "659-707",
+    "title": "Departmental conditions and the emergence of new disciplines: Two cases in the legitimation of African-American studies",
+    "title-short": "Departmental conditions and the emergence of new disciplines",
+    "type": "article-journal",
+    "volume": "28"
+  },
+  {
+    "DOI": "10.1007/978-3-030-18659-3",
+    "ISBN": "978-3-030-18659-3",
+    "author": [
+      {
+        "family": "Lyall",
+        "given": "Catherine"
+      }
+    ],
+    "id": "Lyall2019",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "Springer",
+    "title": "Being an interdisciplinary academic",
+    "type": "book"
+  },
+  {
+    "DOI": "10.13109/gege.2021.47.1.5",
+    "ISSN": "2196-9000",
+    "author": [
+      {
+        "family": "Lässig",
+        "given": "Simone"
+      }
+    ],
+    "container-title": "Geschichte und Gesellschaft",
+    "id": "Laessig2021",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "language": "de-DE",
+    "page": "5-34",
+    "title": "Digital History",
+    "type": "article-journal",
+    "volume": "47"
+  },
+  {
+    "DOI": "10.1145/3477339",
+    "ISBN": "978-1-4503-8724-8",
+    "author": [
+      {
+        "family": "Tracy",
+        "given": "Kim W."
+      }
+    ],
+    "id": "Tracy2021",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "ACM",
+    "title": "Software: A technical history",
+    "title-short": "Software",
+    "type": "book"
+  },
+  {
+    "DOI": "10.1145/2663015",
+    "ISBN": "978-1-6270-5551-2",
+    "author": [
+      {
+        "family": "Cullinane",
+        "given": "John"
+      }
+    ],
+    "id": "Cullinane2014",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "ACM",
+    "title": "Smarter than their machines: Oral histories of pioneers in interactive computing",
+    "title-short": "Smarter than their machines",
+    "type": "book"
+  },
+  {
+    "DOI": "10.1145/3501714",
+    "ISBN": "978-1-4503-9586-1",
+    "editor": [
+      {
+        "family": "Geffner",
+        "given": "Hector"
+      },
+      {
+        "family": "Dechter",
+        "given": "Rina"
+      },
+      {
+        "family": "Halpern",
+        "given": "Joseph Y."
+      }
+    ],
+    "id": "Geffner2022",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "ACM",
+    "title": "Probabilistic and causal inference: The works of Judea Pearl",
+    "title-short": "Probabilistic and causal inference",
+    "type": "book"
+  },
+  {
+    "ISBN": "978-1-529-38616-5",
+    "author": [
+      {
+        "family": "Lepore",
+        "given": "Jill"
+      }
+    ],
+    "id": "Lepore2020",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "John Murray",
+    "title": "If then: How one data company invented the future",
+    "title-short": "If then",
+    "type": "book"
+  },
+  {
+    "ISBN": "978-0-262-54290-6",
+    "author": [
+      {
+        "family": "Haigh",
+        "given": "Thomas"
+      },
+      {
+        "family": "Ceruzzi",
+        "given": "Paul"
+      }
+    ],
+    "id": "Haigh2021",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "MIT Press",
+    "title": "A new history of modern computing",
+    "type": "book"
+  },
+  {
+    "DOI": "10.1177/1461444818804980",
+    "ISSN": "1461-7315",
+    "author": [
+      {
+        "family": "Natale",
+        "given": "Simone"
+      }
+    ],
+    "container-title": "New Media & Society",
+    "id": "Natale2018",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "712-728",
+    "title": "If software is narrative: Joseph Weizenbaum, artificial intelligence and the biographies of ELIZA",
+    "title-short": "If software is narrative",
+    "type": "article-journal",
+    "volume": "21"
+  },
+  {
+    "DOI": "10.1515/9783110723991-010",
+    "author": [
+      {
+        "family": "Koeleman",
+        "given": "Floor"
+      }
+    ],
+    "container-title": "Digital history and hermeneutics: Between theory and practice",
+    "editor": [
+      {
+        "family": "Fickers",
+        "given": "Andreas"
+      },
+      {
+        "family": "Tatarinov",
+        "given": "Juliane"
+      }
+    ],
+    "id": "Koeleman2022a",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "201-218",
+    "publisher": "De Gruyter Oldenbourg",
+    "title": "Re-viewing the <i>constcamer</i>: A digital approach to seventeenth-century pictures of collections",
+    "title-short": "Re-viewing the <i>constcamer</i>",
+    "type": "chapter"
+  },
+  {
+    "DOI": "10.1515/9783110723991",
+    "editor": [
+      {
+        "family": "Fickers",
+        "given": "Andreas"
+      },
+      {
+        "family": "Tatarinov",
+        "given": "Juliane"
+      }
+    ],
+    "id": "Fickers2022",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "De Gruyter Oldenbourg",
+    "title": "Digital history and hermeneutics: Between theory and practice",
+    "title-short": "Digital history and hermeneutics",
+    "type": "book"
+  },
+  {
+    "DOI": "10.18146/2213-0969.2012.jethc004",
+    "ISSN": "2213-0969",
+    "author": [
+      {
+        "family": "Fickers",
+        "given": "Andreas"
+      }
+    ],
+    "container-title": "VIEW Journal of European Television History and Culture",
+    "id": "Fickers2012",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "19",
+    "title": "Towards a new digital historicism? Doing history in the age of abundance",
+    "title-short": "Towards a new digital historicism?",
+    "type": "article-journal",
+    "volume": "1"
+  },
+  {
+    "ISBN": "0-444-85187-9",
+    "author": [
+      {
+        "family": "Kent",
+        "given": "William"
+      }
+    ],
+    "id": "Kent1978",
+    "issued": {
+      "date-parts": [
+        [
+          1978
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "North Holland",
+    "title": "Data and reality: Basic assumptions in data processing reconsidered",
+    "title-short": "Data and reality",
+    "type": "book"
+  },
+  {
+    "ISBN": "1-58500-970-9",
+    "author": [
+      {
+        "family": "Kent",
+        "given": "William"
+      }
+    ],
+    "edition": "2",
+    "id": "Kent1998",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "1stBooks",
+    "title": "Data and reality: Basic assumptions in data processing reconsidered",
+    "title-short": "Data and reality",
+    "type": "book"
+  },
+  {
+    "ISBN": "978-1-3501-6661-5",
+    "author": [
+      {
+        "family": "Meunier",
+        "given": "Jean-Guy"
+      }
+    ],
+    "collection-title": "Bloomsbury advances in semiotics",
+    "id": "Meunier2022",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "Bloomsbury Academic",
+    "title": "Computational semiotics",
+    "type": "book"
+  },
+  {
+    "ISBN": "978-0-262-02856-1",
+    "author": [
+      {
+        "family": "Borgman",
+        "given": "Christine L."
+      }
+    ],
+    "id": "Borgman2015",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "MIT Press",
+    "title": "Big data, little data, no data: Scholarship in the networked world",
+    "title-short": "Big data, little data, no data",
+    "type": "book"
   }
 ]

@@ -1,4 +1,4 @@
 ---
-title: semantics.md
+title: semantics
 id: 20220616094638
 ---
