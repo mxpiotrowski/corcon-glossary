@@ -79747,5 +79747,29 @@
     "title": "Big data, little data, no data: Scholarship in the networked world",
     "title-short": "Big data, little data, no data",
     "type": "book"
+  },
+  {
+    "URL": "https://www.jstor.org/stable/20843655",
+    "author": [
+      {
+        "family": "Moles",
+        "given": "Abraham A."
+      }
+    ],
+    "container-title": "Les Études philosophiques",
+    "id": "Moles1961",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          1961
+        ]
+      ]
+    },
+    "language": "fr-FR",
+    "page": "177-190",
+    "title": "La notion de quantité en cybernétique",
+    "type": "article-journal",
+    "volume": "16"
   }
 ]
