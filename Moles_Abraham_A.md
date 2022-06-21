@@ -1,0 +1,12 @@
+---
+title: Moles, Abraham A.
+id: 20220622005957
+type: person
+---
+
+Abraham Moles (* August 19, 1920, † May 22, 1992) was a pioneer in information science and communication studies in France.  He was a professor at the Hochschule für Gestaltung Ulm and the Université de Strasbourg.
+
+For us, it is in particular his book *Les sciences de l’imprécis* [@Moles1995] that is relevant.
+
+![](https://upload.wikimedia.org/wikipedia/commons/b/b2/Abraham_Moles_351-4-004.jpg)
+
