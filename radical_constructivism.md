@@ -1,4 +1,4 @@
 ---
-title: radical_constructivism.md
+title: radical constructivism
 id: 20220616094635
 ---

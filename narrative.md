@@ -1,5 +1,5 @@
 ---
-title: narrative.md
+title: narrative
 id: 20220616094627
 ---
 

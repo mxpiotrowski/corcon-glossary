@@ -1,5 +1,5 @@
 ---
-title: artificial_intelligence.md
+title: artificial intelligence
 id: 20220616094605
 ---
 

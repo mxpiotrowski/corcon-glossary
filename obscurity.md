@@ -1,4 +1,4 @@
 ---
-title: obscurity.md
+title: obscurity
 id: 20220616094630
 ---

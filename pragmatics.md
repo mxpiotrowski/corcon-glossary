@@ -1,5 +1,5 @@
 ---
-title: pragmatics.md
+title: pragmatics
 id: 20220616094634
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Computational_Humanities.md
+title: Computational Humanities
 id: 20220616094610
 type: discipline
 ---

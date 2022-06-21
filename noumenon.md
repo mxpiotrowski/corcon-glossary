@@ -1,5 +1,5 @@
 ---
-title: noumenon.md
+title: noumenon
 id: 20220616094629
 ---
 

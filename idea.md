@@ -1,5 +1,5 @@
 ---
-title: idea.md
+title: idea
 id: 20220616094622
 ---
 

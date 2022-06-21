@@ -1,5 +1,5 @@
 ---
-title: classification.md
+title: classification
 id: 20220616094608
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: inquiry.md
+title: inquiry
 id: 20220616094625
 ---
 

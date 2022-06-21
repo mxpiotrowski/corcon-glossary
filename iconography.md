@@ -1,4 +1,4 @@
 ---
-title: iconography.md
+title: iconography
 id: 20220616094621
 ---
