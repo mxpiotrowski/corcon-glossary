@@ -12,5 +12,8 @@ https://en.wiktionary.org/wiki/%CF%86%CE%AC%CE%BD%CF%84%CE%B1%CF%83%CE%BC%CE%B1#
 Simulacrum: https://en.wiktionary.org/wiki/simulacrum#Latin
 Picture: https://en.wiktionary.org/wiki/picture
 
+According to Wikipedia:
+"An image (from Latin: imago) is an artifact that depicts visual perception, such as a photograph or other two-dimensional picture, that resembles a subject—usually a physical object—and thus provides a depiction of it. In the context of signal processing, an image is a distributed amplitude of color(s).[1] A pictorial script is a writing system that employs images as symbols for various semantic entities, rather than the abstract signs used by alphabets."
+
 - [[20220616094642]] visual culture
 - [[20220616094643]] visualization
