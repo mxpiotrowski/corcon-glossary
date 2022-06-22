@@ -13,3 +13,4 @@ Like other fields, such as [[20220415229000]] cultural analytics, [[202204152262
 - [@Luedeling2011]
 - [@Luedeling2008]
 - [@Dipper2008a]
+- [@Luedeling2015] (also have a look at other articles in this handbook)

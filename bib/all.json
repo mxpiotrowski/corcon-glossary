@@ -79771,5 +79771,49 @@
     "title": "La notion de quantité en cybernétique",
     "type": "article-journal",
     "volume": "16"
+  },
+  {
+    "DOI": "10.1093/oxfordhb/9780199642670.013.013",
+    "author": [
+      {
+        "family": "Lüdeling",
+        "given": "Anke"
+      },
+      {
+        "family": "Ritz",
+        "given": "Julia"
+      },
+      {
+        "family": "Stede",
+        "given": "Manfred"
+      },
+      {
+        "family": "Zeldes",
+        "given": "Amir"
+      }
+    ],
+    "container-title": "The oxford handbook of information structure",
+    "editor": [
+      {
+        "family": "Féry",
+        "given": "Caroline"
+      },
+      {
+        "family": "Ishihara",
+        "given": "Shinichiro"
+      }
+    ],
+    "id": "Luedeling2015",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "language": "en-US",
+    "publisher": "Oxford University Press",
+    "title": "Corpus linguistics and information structure research",
+    "type": "chapter"
   }
 ]
