@@ -4,7 +4,7 @@ id: 20220415232300
 ---
 
 
-The digital or computational turn [[]] in the humanities [[]] is being understood as the gradual shift from traditional, manually-dominated research practices to digital ones, being carried out in the environments of the computer. It serves historically as the landmark which intuitively pinpoints the utilization of computational methods in humanities research.
+The digital or computational turn [[]] in the humanities [[]] is being understood as the gradual shift from traditional, manually-dominated research practices to digital ones, being carried out in the environments of the computer. It serves historically as the landmark which pinpoints the utilization of computational methods in humanities research.
 
 According to Berry, this change of practices in the humanities [[]] is described by the terms Digital Humanities 1.0 and 2.0 [@Berry2011]. He mentions:
 
