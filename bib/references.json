@@ -1,5 +1,38 @@
 [
   {
+    "URL": "https://www.wired.com/2008/06/pb-theory/",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          24
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "Chris"
+      }
+    ],
+    "container-title": "Wired Magazine",
+    "id": "Anderson2008",
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          6,
+          23
+        ]
+      ]
+    },
+    "language": "en-US",
+    "title": "The end of theory: The data deluge makes the scientific method obsolete",
+    "title-short": "The end of theory",
+    "type": "article-journal"
+  },
+  {
     "DOI": "10.1007/978-94-010-3667-2_1",
     "ISBN": "978-94-010-3669-6",
     "annote": "The contributions of this volume first appeared as special issue of Synthese (Volume 12, Issue 2-3, September 1960) https://link.springer.com/journal/11229/12/2/page/1",
@@ -1784,5 +1817,60 @@
     "publisher-place": "Hoboken, NJ",
     "title": "Screwmeneutics and hermenumericals",
     "type": "chapter"
+  },
+  {
+    "URL": "https://www.jstor.org/stable/23526834",
+    "author": [
+      {
+        "family": "Cukier",
+        "given": "Kenneth"
+      },
+      {
+        "family": "Mayer-Schönberger",
+        "given": "Viktor"
+      }
+    ],
+    "container-title": "Foreign Affairs",
+    "id": "Cukier2013",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "28-40",
+    "title": "The rise of big data: How it’s changing the way we think about the world",
+    "title-short": "The rise of big data",
+    "type": "article-journal",
+    "volume": "92"
+  },
+  {
+    "DOI": "10.1057/ejis.2013.10",
+    "ISSN": "1476-9344",
+    "author": [
+      {
+        "family": "Lycett",
+        "given": "Mark"
+      }
+    ],
+    "container-title": "European Journal of Information Systems",
+    "id": "Lycett2013",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "381-386",
+    "title": "“Datafication”: Making sense of (big) data in a complex world",
+    "title-short": "“Datafication”",
+    "type": "article-journal",
+    "volume": "22"
   }
 ]
