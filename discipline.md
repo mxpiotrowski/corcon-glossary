@@ -1,5 +1,5 @@
 ---
-Time-stamp: "2022-06-24T15:30:00+0200 mpiotrow"
+Time-stamp: "2022-06-24T16:35:01+0200 mpiotrow"
 title: discipline
 id: 20220415232500
 type: discipline
@@ -27,3 +27,17 @@ An important function of disciplines is *evaluation*.  Academic freedom—where 
 
 > The fact that a lot of people are trained in fundamentally the same way makes it possible for them to effectively make judgements about the quality of the work done by other people and for regimes of training to themselves be evaluated for their rigour.  
 —@Turner2000 [52]
+
+According to @Turner2000 [51], “disciplinarity is a matter of two things: identity and exchange,” but “[n]either calling oneself a member of a discipline nor exchanging students is enough”:
+
+> Fully fledged disciplines are systems of multigenerational, multilateral exchange—that is to say, markets.  
+—@Turner2000 [51]
+
+I agree that from this perspective, “[e]verything else about the notion of disciplinarity, including notions about canons and common intellectual cores” is “open to challenge,” and one can indeed wonder whether there is “anything more to the value of disciplinary than the sheer fact of market discipline” [@Turner2000, 53].  He comes to the conclusion:
+
+> disciplinary cartels are fundamentally about monopolies in the production and consumption of students destined for academic careers.  These cartels can make themselves irrelevant, and a powerful force drives them to become irrelevant: the demands of competitition in their internal, closed market.  Disciplines fossilize.  But at the same time, new disciplines arise.
+>
+> There are good reasons for starting a new cartel, or cartelizing an interdisciplinary field—turning it into a discipline—as long as there is a market for the students who are being produced, and as long as there is something to be gained by restricting access to positions.  Disciplinarization assures privileged access to this market.  In the end it is nothing more than the fact of privileged access to markets.  And this provides the answer: as long as there are benefits for cartelization, there will be disciplines.  And as long as cartelization incapacitates its  beneficiaries in taking up opportunities that are of less value inside these internal markets than outside, there will be a place for “interdisciplinarity.”  
+—@Turner2000 [64–65]
+
+While I largely agree, this view leaves out the competion for resources, which are often tied to the status of a discipline, either through institutional structures or through evaluation.
