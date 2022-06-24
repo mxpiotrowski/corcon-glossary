@@ -1897,5 +1897,39 @@
     "title-short": "“Datafication”",
     "type": "article-journal",
     "volume": "22"
+  },
+  {
+    "author": [
+      {
+        "family": "Turner",
+        "given": "Stephen"
+      }
+    ],
+    "chapter-number": "3",
+    "container-title": "Practising interdisciplinarity",
+    "editor": [
+      {
+        "family": "Weingart",
+        "given": "Peter"
+      },
+      {
+        "family": "Stehr",
+        "given": "Nico"
+      }
+    ],
+    "id": "Turner2000",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "language": "en-US",
+    "page": "46-65",
+    "publisher": "University of Toronto Press",
+    "publisher-place": "Toronto",
+    "title": "What are disciplines? And how is interdisciplinarity different?",
+    "type": "chapter"
   }
 ]
