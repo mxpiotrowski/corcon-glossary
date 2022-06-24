@@ -10,3 +10,5 @@ The action or process of placing objects, information, people, etc., into distin
 Historical categories and historians' categories [@Mosley2019]
 
 [[20220418210120]] methodology
+
+↗ [[20220616094608]] classification

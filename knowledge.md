@@ -8,3 +8,7 @@ The awareness or familiarity gained by [[20220415250500]] observation and experi
 "All human knowledge is [[20220415254700]] uncertain, inexact, and partial." [@Russell1948, 527]
 
 ↗ [[20220415254500]] truth
+
+↗ [[20220415249300]] reasoning
+
+↗ [[20220616094641]] understanding
