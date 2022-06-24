@@ -1,8 +1,15 @@
 ---
-Time-stamp: "2022-06-23T22:57:15+0200 mpiotrow"
+Time-stamp: "2022-06-24T14:40:20+0200 mpiotrow"
 title: model
 id: 20220415244100
 ---
+
+Humans have limited knowledge and limited perception.  Models are thus essential to explain how the world works.  When we try to understand what is happening, we make a model of the part of the world we are interested in and use that model in lieu of the real system to understand what is happening through simulation or causal analysis of the processes involved.  In our mental models, none of this is explicit.  An important aspect of science is to create explicit, intersubjective models:
+
+> The choice, then, is not whether to build models; it's whether to build explicit ones.  In explicit models, assumptions are laid out in detail, so we can study exactly what they entail.  On these assumptions, this sort of thing happens.  When you alter the assumptions that is what happens.  By writing explicit models, you let others replicate your results.  
+—@Epstein2008
+
+This applies to all discipline.  However, in contrast to the natural sciences, models in the humanities are traditionally *not formal* and only partially explicit.
 
 One of the first modern attempt at a definition of *model* is by [[20220617235759]] Leo Apostel:
 
