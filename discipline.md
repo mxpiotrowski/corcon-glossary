@@ -1,5 +1,9 @@
 ---
-Time-stamp: "2022-06-24T16:35:01+0200 mpiotrow"
+<<<<<<< HEAD
+Time-stamp: "2022-06-24T16:40:52+0200 mpiotrow"
+=======
+Time-stamp: "2022-06-24T16:27:12+0200 mpiotrow"
+>>>>>>> cb630f5f54365ea01c6aeabdc3017965da441271
 title: discipline
 id: 20220415232500
 type: discipline
