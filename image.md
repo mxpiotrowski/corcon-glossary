@@ -14,3 +14,6 @@ Picture: https://en.wiktionary.org/wiki/picture
 
 - [[20220616094642]] visual culture
 - [[20220616094643]] visualization
+- [[20220616094636]] reflection
+- [[20220616094621]] iconography
+- [[20220616094601]] allegory
