@@ -19,7 +19,7 @@ and,
 > Many techniques that are in use in corpus linguistics are much older than computers: many of them are rooted in the tradition of the late eighteenth and nineteenth century when linguistics was for the first time claimed to be a “real”, or empirical, science.
 -@Ludeling2008
 
-[[20220616094612]] Corpus linguistics exploits many different methods to study [[20220415228300]] corpora, such as parts-of-speech extraction, syntactic and semantic analysis, data annotation etc. The [[20220415223600]] annotation process is considered to be one of the most quintessential methods used today. As Ludeling states: 
+[[20220616094612]] Corpus linguistics exploits many different methods to study [[20220415228300]] corpora, such as parts-of-speech extraction, syntactic and semantic analysis, data annotation etc. The [[20220415223600]] annotation process is considered to be one of the most quintessential methods used today. Ludeling states about this method: 
 
 > Annotation is an explicit categorization of data according to a predetermined, ideally deterministically decidable scheme (see Lüdeling 2011 for more on annotation). Most straightforward is the use of annotations as an index for finding all cases of a certain category. But the real potential of annotations in offering new insight is when they are combined to find environments that correspond to relevant phenomena in forms not previously thought of.
 -@Ludeling2015 [6]
@@ -29,7 +29,7 @@ In [[20220616094612]] corpus linguistics, the objectives of the respective resea
 > Ideally, the research question determines the data to be used, so that all variables can be controlled. A corpus is almost always a sample of the linguistic variety to be analysed. Only in very few cases – when the entire population is finite, small and accessible – is it possible to work without sampling. If, for example, one wanted to analyse all of Nobel’s letters to his mistress it could, in principle, be possible to take all of them (if they were available). But usually the linguistic variety to be analysed is too large to be completely analysed and one has to take a sample.
 -@Ludeling2011 [226]
 
-The corpus type also plays an important role in the selection and the analysis:
+The corpus type also plays an important role in the selection and the analysis. Generally speaking:
 
 > Corpora range in type from general, reference corpora designed to investigate a given language as a whole, to specialised corpora designed to answer more specific research questions. They can be carefully planned and have a long ‘shelf-life’, or they can be ‘disposable’ (Bernardini/Baroni 2004), quickly constructed for a specific purpose and as rapidly discarded.
 -@Ludeling2008 [154]
