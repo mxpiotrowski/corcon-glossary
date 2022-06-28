@@ -50,3 +50,15 @@ Stachowiak makes it clear that originals can be anything:
 {lang=de}
 > Solche Originale können auf natürliche Weise entstanden, technisch hergestellt oder sonstwie gegeben sein. Sie können dem Bereich der [[20220616094640]] Symbole, der [[20220616094623]] Welt der Vorstellungen und der [[20220415227900]] Begriffe oder der physischen Wirklichkeit angehören. Als (materiell-)energetische Objekte können sie raum-zeitliche Vorgänge oder räumliche Konfigurationen darstellen. Sie können durch natürliche oder maschinelle Informationsverarbeiter [[20220415246400]] perzipiert oder, unabhängig von momentaner Perzeption, in zentral-operationalen Prozessen aufgebaut sein. Oberhaupt jede von einem natürlichen oder maschinellen [[20220616094609]] kognitiven Subjekt erfahrbare, allgemeiner: «erstellbare» [[20220616094614]] Entität kann in diesem umfassenden Sinn als Original eines oder mehrerer Modelle aufgefaßt werden.  
 —@Stachowiak1973 [131]
+
+According to [@Buethe2002, 482]: "a schematic statement of a theoretical argument, a hypothesized parsimonious abstraction or simplification of “reality” that depicts a deductively sound, systematic, regular relationship between specified aspects of reality and helps to explain that relationship."
+According to [@Moles1995]: "simulacre." He also notes: model = didactic (dynamic, not anatomique), and that {lang=fr} "Expliquer n’est plus analyser, c’est construire un modèle."
+
+According to [@Stachowiak1973, 56]: "Hiernach ist alle Erkenntnis Erkenntnis in Modellen oder durch Modelle, und jegliche menschliche Weltbegegnung überhaupt bedarf des Mediums 'Modell'"
+According to Suzanne [@Bachelard1979, 3]: {lang=fr} "un intermédiaire à qui nous déléguons la fonction de connaissance, plus précisément de réduction de l’encore-énigmatique, en présence d’un champ d’études dont l’accès, pour des raisons diverses, nous est difficile" 
+Both quoted in [@PiotrowskiXanthos2020]
+
+Notes on etymology:
+https://en.wiktionary.org/wiki/modulus#Latin
+
+[[20220415222900]] abundant attribute
