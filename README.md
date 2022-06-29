@@ -3,6 +3,12 @@ Glossary for the Corpora and Concepts project
 
 Set up for use with [Cosma](https://cosma.graphlab.fr/en/) ([manual](https://cosma.graphlab.fr/en/docs/user-manual/)) or [Zettlr](https://www.zettlr.com) ([manual](https://docs.zettlr.com/en/)).
 
+## Bibliography
+
+The bibliography used by the glossary entries is in `bib/references.bib`.  Cosma needs a bibliography in CSL-JSON format; it can be generated using the makefile by saying `make references.json`.
+
+## Tools
+
 A good introduction to Markdown and Pandoc is the lesson [Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).
 
 Any text editor can be used for editing the entries, but since the glossary extensively uses wiki links and bibliographic references, some support from the editor is useful—also to avoid errors.
