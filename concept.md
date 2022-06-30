@@ -34,3 +34,5 @@ https://en.wiktionary.org/wiki/conceptus#Latin
 [[20220616094622]] idea
 [[20220616094609]] cognition
 [[20220415228000]] concept drift
+
+[@Karryla2022]
