@@ -1,12 +1,12 @@
 ---
-Time-stamp: "2022-07-05T00:25:30+0200 mpiotrow"
+Time-stamp: "2022-07-05T00:48:36+0200 mpiotrow"
 title: découpage
 id: 20220616094613
 ---
 
 The term *découpage* is central for [[20220415236100]] Gilles-Gaston Granger’s philosophy of science, and @Granger1967 dedictates a full chapter to this notion (Chapter 4, *Le découpage des phénomènes*)—but does not give an explicit definition.
 
-In his introduction to the English translation of @Granger1967, Rosenberg notes:
+In his introduction to the English translation of @Granger1967, [Alexander Rosenberg](https://en.wikipedia.org/wiki/Alexander_Rosenberg) notes:
 
 > ‘*Découpage*’ is one of the few words that has been left untranslated in the present work, for it expresses an especially central notion for Granger’s philosophy of science, and there is no single English term that captures its precise meaning and flavor.  
 —@Granger1983 [xvi–xvii]
