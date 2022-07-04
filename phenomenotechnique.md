@@ -12,3 +12,4 @@ Entre le phénomène scientifique et le noumène scientifique, il ne s’agit do
 [[20220415250400]] scientific instrument
 [[20220415250500]] scientific observation
 [[20220616094629]] noumenon
+[[20220415246700]] phenomenon
