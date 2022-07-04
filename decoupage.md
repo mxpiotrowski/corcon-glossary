@@ -1,5 +1,5 @@
 ---
-Time-stamp: "2022-07-05T00:22:51+0200 mpiotrow"
+Time-stamp: "2022-07-05T00:25:30+0200 mpiotrow"
 title: découpage
 id: 20220616094613
 ---
