@@ -24,8 +24,11 @@ https://cicm4.webnode.es/call-for-abstracts/
 
 can be understood as a mental [[20220616094637]] representation *Wikipedia*
 
-"A concept has become scientific according to the proportion to which it has become technical, to which it is accompanied by a technique of realization” (Bachelard [1938] 1969, p. 61). [@Rheinberger2005, 320-321]
-"In The Formation of the Scientiac Spirit, Bachelard formulates quite expressly: “In order to accommodate new experimental proofs, one must . . . deform the primitive concepts. One must not only study the conditions of application of these concepts, but one must incorporate the conditions of application of a concept into the very meaning of the concept itself” (Bachelard [1938] 1969, p. 61). [@Rheinberger2005, 324]
+> “A concept has become scientific according to the proportion to which it has become technical, to which it is accompanied by a technique of realization” (Bachelard [1938] 1969, p. 61).”  
+—@Rheinberger2005 [320-321]
+
+> In *The Formation of the Scientific Spirit*, Bachelard formulates quite expressly: “In order to accommodate new experimental proofs, one must … deform the primitive concepts. One must not only study the conditions of application of these concepts, but one must incorporate the conditions of application of a concept into the very meaning of the concept itself” (Bachelard [1938] 1969, p. 61).  
+—@Rheinberger2005 [324]
 
 Notes on etymology:
 https://en.wiktionary.org/wiki/conceptus#Latin
@@ -35,4 +38,4 @@ https://en.wiktionary.org/wiki/conceptus#Latin
 [[20220616094609]] cognition
 [[20220415228000]] concept drift
 
-[@Karryla2022]
+- [@Karryla2022]
