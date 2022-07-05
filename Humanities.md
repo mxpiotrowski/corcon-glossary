@@ -1,5 +1,5 @@
 ---
-title: Humanities
+title: humanities
 id: 20220415238200
 type: discipline
 ---

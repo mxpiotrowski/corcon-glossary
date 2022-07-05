@@ -1,5 +1,5 @@
 ---
-title: Computational Social Sciences
+title: computational social sciences
 id: 20220415227500
 type: discipline
 ---

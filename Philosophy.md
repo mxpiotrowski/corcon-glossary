@@ -1,5 +1,5 @@
 ---
-title: Philosophy
+title: philosophy
 id: 20220418190114
 type: discipline
 ---

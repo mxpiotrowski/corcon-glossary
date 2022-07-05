@@ -1,5 +1,5 @@
 ---
-title: Machine Learning
+title: machine learning
 id: 20220415241800
 ---
 

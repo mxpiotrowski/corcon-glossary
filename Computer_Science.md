@@ -1,5 +1,5 @@
 ---
-title: Computer Science
+title: computer science
 id: 20220415227700
 type: discipline
 ---
