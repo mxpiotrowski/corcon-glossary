@@ -1,5 +1,5 @@
 ---
-Time-stamp: "2022-07-05T00:48:36+0200 mpiotrow"
+Time-stamp: "2022-07-05T09:31:41+0200 mpiotrow"
 title: découpage
 id: 20220616094613
 ---
@@ -18,7 +18,7 @@ I agree with Rosenberg that “by this term Granger means to suggest that out of
 > This *découpage* must be an active process, involving the coordination of theoretical and practical results in the delineation of objects which can satisfy the syntactical restrictions characteristic of scientific language.  
 —@Granger1983 [xvii]
 
-I find it puzzling that he nevertheless misses the original meaning of *découpage*, viz. “action, manière de découper.”  The examples given by various dictionaries revolve around meat and poultry: “Le découpage d’un poulet,” “Découper une pièce de viande,” etc.  This seems to be a much more obvious analogy, and certainly one that would be so obvious to a French speaker that it is understandable why Granger did not feel the need to explain it.
+I find it puzzling that he nevertheless misses the original meaning of *découpage*, viz. “action, manière de découper.”  What is more, the examples given by various dictionaries for *découpage* and *découper* revolve around meat and poultry: “*Le découpage d’un poulet*,” “*Découper une pièce de viande*,” etc.  This analogy seems much more obvious, and certainly so obvious to a French speaker that one understands why Granger did not feel the need to explain it.
 
 ![](http://www.boucherie-cornedor.fr/media/images/upload/boucherie/boeuf.png)
 
@@ -35,7 +35,7 @@ While I agree with the second part of this passage, I think it is strange to inv
 > Quant à l’intentionalité scientifique, à la visée, nous l’avons déjà définie comme construction de *modèles cohérents et efficaces du phénomène*.  
 —@Granger1967 [215]
 
-Thus, Granger’s notion of *découpage* is, I believe, closely related to Bachelard’s [[20220415246900]] *phénoménotechnique*: both notions relate to the constructedness of the scientific [[20220415246700]] phenomenon.
+Thus, Granger’s notion of *découpage* is, I believe, closely related to Bachelard’s [[20220415246900]] *phénoménotechnique*, and both notions relate to the constructedness of the scientific [[20220415246700]] phenomenon.
 
 
 [[20220616094603]] analysis
