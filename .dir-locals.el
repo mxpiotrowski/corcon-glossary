@@ -1,1 +1,1 @@
-((markdown-mode . ((bibtex-completion-bibliography . ("bib/references.bib")))))
+((markdown-mode . ((bibtex-completion-bibliography . "bib/references.bib"))))
