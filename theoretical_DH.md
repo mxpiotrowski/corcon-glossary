@@ -1,5 +1,5 @@
 ---
-Time-stamp: "2022-07-08T17:10:11+0200 mpiotrow"
+Time-stamp: "2022-07-08T18:04:08+0200 mpiotrow"
 title: theoretical DH
 id: 20220415253800
 ---
@@ -26,4 +26,4 @@ The qualification “theoretical” is sometimes misunderstood; to clarify:
 
 1. “Theoretical” is here not used in its everyday meaning, i.e., as the opposite of “practical.”  It rather refers to the fact, that theoretical DH is not applied to *concrete* research questions in the humanities.  Thus, its meaning corresponds rather to that of “theoretical” in, e.g., [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science) or [theoretical ecology](https://en.wikipedia.org/wiki/Theoretical_ecology).
 2. A related misunderstanding stems from the fact that the term [[20220415254000]] *theory* is understood differently in the humanities and in the natural sciences and engineering.  In the humanities, *theory* often refers to something that is closer to a school of thought or an ideology (see, e.g., [critical theory](https://en.wikipedia.org/wiki/Critical_theory)).
-3. Even though methodological and epistemological questions play in my view a central role in theoretical DH, it would also be a misunderstanding to reduce theoretical DH to *only* philosophical reflections on DH and its [[20220418210120]] methodology and [[20220415234300]] epistemology.
+3. Even though methodological and epistemological questions play in my view a central role in theoretical DH, it would also be a misunderstanding to reduce theoretical DH to *only* philosophical reflections on DH and its [[20220418210120]] methodology and [[20220415234300]] epistemology (↗ [[20220415231300]] DH methodology, [[20220415231200]] DH epistemology).

@@ -1,5 +1,5 @@
 ---
-Time-stamp: "2022-07-08T17:09:58+0200 mpiotrow"
+Time-stamp: "2022-07-08T18:00:42+0200 mpiotrow"
 title: applied DH
 id: 20220415224200
 ---
@@ -16,3 +16,5 @@ As they have the same research objects and the same research objectives, applied
 —@Piotrowski2020b
 
 (@Piotrowski2020b uses the term [[20220616094610]] *computational humanities*, but this distinction is irrelevant here.)
+
+**Note:** I have called digital history, etc., “subfields of their mother disciplines.”  This is perhaps not the right term, as I would consider a subfield rather a specialization on a specific research object or research objective of the larger discipline, for example educational psychology as a [Subfield of psychology](https://en.wikipedia.org/wiki/Subfields_of_psychology).  However, digital history is a specific methodological *approach*, orthogonal to the research objects and objectives of history, i.e., unlike, say medieval history or animal history.  [TODO] Update the description above in this sense.
