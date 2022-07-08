@@ -1,11 +1,11 @@
 BIB=bib/references.json
 CSL=bib/chicago-author-date
 
-%.pdf: %.md ${BIB}
-	pandoc -t pdf --citeproc \
+%.pdf: %.md ${BIB} pandoc/*.yaml
+	pandoc -s -t pdf \
 	       --bibliography=${BIB} \
-	       --pdf-engine=xelatex \
-	       -M reference-section-title="References" \
+	       --defaults=pandoc/defaults_latex.yaml \
+	       -M date="`date`" \
 	       -o $@ $<
 
 ${BIB}: bibliography ;
