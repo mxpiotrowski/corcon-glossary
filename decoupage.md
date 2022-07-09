@@ -1,5 +1,5 @@
 ---
-Time-stamp: "2022-07-05T09:31:41+0200 mpiotrow"
+Time-stamp: "2022-07-09T08:48:31+0200 mpiotrow"
 title: découpage
 id: 20220616094613
 ---
@@ -31,9 +31,9 @@ Rosenberg’s discussion of *découpage* is also bizarre in another respect; he 
 
 While I agree with the second part of this passage, I think it is strange to invoke [natural kinds](https://plato.stanford.edu/entries/natural-kinds/) when discussing Granger’s [[20220415234300]] epistemology—Rosenberg himself points out that “Granger does not employ the expression ‘natural kinds’.”  Granger is not only a student of [[20220415224900]] Bachelard, but the very notion of *découpage* is at odds with the idea of “natural kinds,” and Granger explicitly states:
 
-{lang=fr}
 > Quant à l’intentionalité scientifique, à la visée, nous l’avons déjà définie comme construction de *modèles cohérents et efficaces du phénomène*.  
 —@Granger1967 [215]
+{lang=fr}
 
 Thus, Granger’s notion of *découpage* is, I believe, closely related to Bachelard’s [[20220415246900]] *phénoménotechnique*, and both notions relate to the constructedness of the scientific [[20220415246700]] phenomenon.
 
