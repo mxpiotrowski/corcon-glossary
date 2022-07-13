@@ -15,4 +15,4 @@ The philosophical study of human knowledge. It is concerned with the examination
 —@Granger1992 [40]
 
 - [[20220415247100]] philosophy of science
-- [[20220415240700]] knowledge
+- [[20220415227900]] concept
