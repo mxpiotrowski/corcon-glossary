@@ -10,5 +10,7 @@ He also notes: Gedankenexperiment (interaction nulle)
 - [[20220616094631]] observation
 - [[20220415238600]] hypothesis
 
+Recent publications:
 
-
+- @Lang2022
+- @Gengnagel2022
