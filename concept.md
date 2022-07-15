@@ -27,6 +27,7 @@ can be understood as a mental [20220616094637] representation *Wikipedia*
 
 Notes on etymology:
 https://en.wiktionary.org/wiki/conceptus#Latin
+https://en.wiktionary.org/wiki/%CE%AD%CE%BD%CE%BD%CE%BF%CE%B9%CE%B1 (in + nous, or "in the mind" (nous as insight))
 
 [[20220616094629]] noumenon
 [[20220616094622]] idea
