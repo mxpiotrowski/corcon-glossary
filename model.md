@@ -51,14 +51,26 @@ Stachowiak makes it clear that originals can be anything:
 —@Stachowiak1973 [131]
 {lang=de}
 
+The model concept was never static:
+
+> as far as we know, the word “model” only began to be increasingly used since the Italian Renaissance, originating in architecture. At the time, it was interpreted similarly to today’s understanding of the words “illustration,” “example,” or “replica” (Müller 1980, pp. 205–06). According to Max Jammer, “model” only began to be used as a special scientific term (“terminus technicus”) starting in the mid-nineteenth century. But he notes that we can find precursors of this development as early as the emergence of modern science around 1600.
+—@Hof2018 [78]
+
+Hof outlines the long history of the creation and use of models as follows:
+- the empirical *mechanical model* (from about 1600 onwards)
+- the model's function of simplification gained importance (end of the nineteenth century)
+- the mathematical *formal model* (first third of the twentieth century)
+- functional *models as concrete entities*, constructed for epistemic purposes (mid-twentieth century)
+- models viewed as comparable to cognitive aids (starting with the cognitive turn around 1970)
+
+Notes on etymology:
+https://en.wiktionary.org/wiki/modulus#Latin
+
 According to [@Buethe2002, 482]: "a schematic statement of a theoretical argument, a hypothesized parsimonious abstraction or simplification of “reality” that depicts a deductively sound, systematic, regular relationship between specified aspects of reality and helps to explain that relationship."
 According to [@Moles1995]: "simulacre." He also notes: model = didactic (dynamic, not anatomique), and that {lang=fr} "Expliquer n’est plus analyser, c’est construire un modèle."
 
 According to [@Stachowiak1973, 56]: "Hiernach ist alle Erkenntnis Erkenntnis in Modellen oder durch Modelle, und jegliche menschliche Weltbegegnung überhaupt bedarf des Mediums 'Modell'"
 According to Suzanne [@Bachelard1979, 3]: {lang=fr} "un intermédiaire à qui nous déléguons la fonction de connaissance, plus précisément de réduction de l’encore-énigmatique, en présence d’un champ d’études dont l’accès, pour des raisons diverses, nous est difficile" 
 Both quoted in [@PiotrowskiXanthos2020]
-
-Notes on etymology:
-https://en.wiktionary.org/wiki/modulus#Latin
 
 [[20220415222900]] abundant attribute
