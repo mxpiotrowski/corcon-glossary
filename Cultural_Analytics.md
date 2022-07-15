@@ -1,5 +1,5 @@
 ---
-title: Cultural Analytics
+title: cultural analytics
 id: 20220415229000
 type: discipline
 ---

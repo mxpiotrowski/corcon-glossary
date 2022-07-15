@@ -1,5 +1,5 @@
 ---
-title: History
+title: history
 id: 20220415237900
 type: discipline
 ---

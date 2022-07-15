@@ -1,5 +1,5 @@
 ---
-title: Computational Linguistics
+title: computational linguistics
 id: 20220415227100
 type: discipline
 ---

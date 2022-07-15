@@ -1,0 +1,43 @@
+papersize: a4
+geometry: margin=2.5cm
+link-citations: true
+csquotes: true
+colorlinks: true
+mainfont: Bodoni 72
+sansfont: Avenir
+monofont: Fira Mono
+mainfontoptions:
+- Numbers=Proportional
+sansfontoptions:
+- Scale=MatchUppercase
+fontsize: 10pt
+
+# ⚠ Header includes MUST be specified here rather than in a file read via
+# include-in-header in a defaults file, because in the latter case,
+# the header code added by the embed-slides.lua filter will be overwritten.
+
+header-includes: |
+  ```{=latex}
+  \PassOptionsToPackage{autostyle}{csquotes}
+  \usepackage[title=small, secfmt={section,compact,sffamily}]{phfnote}
+  \babelfont{dingbats}[Scale=MatchUppercase, Language=Default]{Zapf Dingbats}
+  \usepackage{newunicodechar}
+  \newunicodechar{→}{{\ttfamily →}}
+  \newunicodechar{↔}{{\ttfamily ↔}}
+  \newunicodechar{↳}{{\ttfamily ↳}}
+  \newunicodechar{↗}{{\ttfamily ↗}}
+  \newunicodechar{‑}{\nobreakdash-}
+  \newunicodechar{☞}{{\large\dingbatsfamily ☞}}
+  \newunicodechar{✔}{{\dingbatsfamily ✔}}
+  \newunicodechar{✘}{{\dingbatsfamily ✘}}
+  \newunicodechar{▶}{{\ttfamily ▶}}
+  \newunicodechar{➥}{{\ttfamily ➥}}
+  \newunicodechar{⋮}{{\ttfamily ⋮}}
+  \newunicodechar{︎}{\relax} % VS-15
+  \newunicodechar{ }{\,} % U+2006 SIX-PER-EM SPACE
+  \newunicodechar{ᵉ}{\textsuperscript{e}}
+  \newunicodechar{ᵒ}{\textsuperscript{o}}
+  \newunicodechar{ʹ}{\textquotesingle} % U+02B9 MODIFIER LETTER PRIME
+  \widowpenalty50000
+  \clubpenalty50000
+  ```

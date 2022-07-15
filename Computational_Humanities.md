@@ -1,5 +1,5 @@
 ---
-title: Computational Humanities
+title: computational humanities
 id: 20220616094610
 type: discipline
 ---

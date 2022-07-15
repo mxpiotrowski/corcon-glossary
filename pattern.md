@@ -1,20 +1,20 @@
 ---
-Time-stamp: "2022-06-23T00:04:36+0200 mpiotrow"
+Time-stamp: "2022-07-09T08:49:43+0200 mpiotrow"
 title: pattern
 id: 20220415246200
 ---
 
 Many people associate formalization and computation with mathematization, and as @Granger1967 [110] has observed, it is still true that “for many who work in the humanities, mathematization is equivalent to the introduction of quantity, indeed of number.”  This is, however, a fallacy, and also Granger stressed that formalization in the humanities consists in the transition from the unstructured to the structural, rather than in [[20220415248700]] quantification [@Granger1967, 113].
 
-{lang=fr}
 > Il semble donc qu’une élaboration scientifique des notions qualitatives consiste dans le passage de l’astructuré au structural, bien plutôt que dans une quantification.  
 —@Granger1967 [113]
+{lang=fr}
 
 As @Granger1967 [19] points out, there is a common confusion between formal thought and the work of mathematicians.  While it is quite true in a sense that all effective scientific formalism tends towards a mathematical form, this still does not mean that the formalism is unavoidably reduced to the *usual* and *current* instruments of mathematics.  And he asks: is it not just this supposed reduction that the opponents of all formalization in the humanities are criticizing?  It will be one of the aspects of our task, Granger says, to show formal thought at work in the humanities, not only as a reduction of phenomena to calculations, but also as the invention of new structures, even, indeed, of an original mathematics.
 
-{lang=fr}
 > À cet égard, il convient de dissiper un préjugé qui nuit souvent à l’appréciation qu’on peut faire de la valeur du formalisme dans les sciences. C’est la confusion que l’on favorise d’ordinaire entre la pensée formelle et l’œuvre des mathématiciens. S’il est bien vrai en un sens que tout formalisme scientifique efficace tend vers un statut mathématique, ce n’est pas pour autant qu’il se réduise infailliblement aux instruments *usuels* et *actuels* des géomètres. N’est-ce pas cependant à cette réduction supposée que s’attaquent essentiellement les adversaires de toute formalisation dans les sciences de l’homme ? Ce sera l’un des aspects de notre tâche que de montrer la pensée formelle à l’œuvre dans les sciences humaines, non pas seulement comme réduction des phénomènes aux calculs, mais aussi comme invention de structures nouvelles, voire même d’une mathématique originale.  
 ---@Granger1967 [19]
+{lang=fr}
 
 I believe that this could really be considered the main challenge of [[20220415230900]] digital humanities.
 

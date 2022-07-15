@@ -1,0 +1,13 @@
+# We don’t specify “to:”, so these defaults can be used for producing
+# both PDF and LaTeX source.
+from: markdown
+standalone: true
+wrap: none
+metadata-files:
+  - ${.}/_common.yaml
+  - ${.}/latex.yaml
+filters:
+  - citeproc
+pdf-engine: xelatex
+number-sections: true
+default-image-extension: '.pdf'
