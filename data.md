@@ -9,6 +9,9 @@ id: 20220415229300
 
 - [@Kent1978]
 
+> The need to address [[20220418205352]] categories and levels of data is a pragmatic concern for managing information.  Yet data are often in the eye of the beholder.  In Buckland’s terms, data are [[20220415234500]] “alleged evidence”  [@Buckland1991].  What counts as good data varies widely, as one person’s noise is often another person’s signal.  
+—[@Borgman2009, ¶27]
+
 ## Data vs. Capta
 
 In [[20220415230900]] digital humanities, many scholars like to point to @Drucker2011, who argued that “the concept of data as a given has to be rethought through a humanistic lens and characterized as capta, taken and constructed.”  Drucker claims that the term *data* is a reflection of a realist approach, and “[r]ealist approaches depend above all upon an idea that phenomena are *observer-independent* and can be characterized as *data*” [@Drucker2011, §1].
