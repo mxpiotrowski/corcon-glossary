@@ -3,9 +3,9 @@ geometry: margin=2.5cm
 link-citations: true
 csquotes: true
 colorlinks: true
-mainfont: Bodoni 72
+mainfont: Times New Roman
 sansfont: Avenir
-monofont: Fira Mono
+monofont: Menlo
 mainfontoptions:
 - Numbers=Proportional
 sansfontoptions:
