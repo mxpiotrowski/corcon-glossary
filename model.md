@@ -1,5 +1,5 @@
 ---
-Time-stamp: "2022-07-09T08:49:19+0200 mpiotrow"
+Time-stamp: "2022-07-22T01:03:47+0200 mpiotrow"
 title: model
 id: 20220415244100
 ---
@@ -66,11 +66,11 @@ Hof outlines the long history of the creation and use of models as follows:
 Notes on etymology:
 https://en.wiktionary.org/wiki/modulus#Latin
 
-According to [@Buethe2002, 482]: "a schematic statement of a theoretical argument, a hypothesized parsimonious abstraction or simplification of “reality” that depicts a deductively sound, systematic, regular relationship between specified aspects of reality and helps to explain that relationship."
-According to [@Moles1995]: "simulacre." He also notes: model = didactic (dynamic, not anatomique), and that {lang=fr} "Expliquer n’est plus analyser, c’est construire un modèle."
+According to @Buethe2002 [482]: "a schematic statement of a theoretical argument, a hypothesized parsimonious abstraction or simplification of “reality” that depicts a deductively sound, systematic, regular relationship between specified aspects of reality and helps to explain that relationship."
+According to @Moles1995: "simulacre." He also notes: model = didactic (dynamic, not anatomique), and that "[Expliquer n’est plus analyser, c’est construire un modèle.]{lang=fr}"
 
-According to [@Stachowiak1973, 56]: "Hiernach ist alle Erkenntnis Erkenntnis in Modellen oder durch Modelle, und jegliche menschliche Weltbegegnung überhaupt bedarf des Mediums 'Modell'"
-According to Suzanne [@Bachelard1979, 3]: {lang=fr} "un intermédiaire à qui nous déléguons la fonction de connaissance, plus précisément de réduction de l’encore-énigmatique, en présence d’un champ d’études dont l’accès, pour des raisons diverses, nous est difficile" 
-Both quoted in [@PiotrowskiXanthos2020]
+According to @Stachowiak1973 [56]: "[Hiernach ist alle Erkenntnis Erkenntnis in Modellen oder durch Modelle, und jegliche menschliche Weltbegegnung überhaupt bedarf des Mediums 'Modell']{lang=de}"
+According to Suzanne [@Bachelard1979, 3]: "[un intermédiaire à qui nous déléguons la fonction de connaissance, plus précisément de réduction de l’encore-énigmatique, en présence d’un champ d’études dont l’accès, pour des raisons diverses, nous est difficile]{lang=fr}." 
+[Both quoted in @Piotrowski2018d]
 
 [[20220415222900]] abundant attribute
