@@ -2,7 +2,6 @@
 title: computational model
 id: 20220415227300
 ---
-
-❌ Scheme or framework which contains numerous measurable variables that characterize the system being studied. The study is conducted by the performance of computations using those variables.  [[20220415244100]]
-
-- [@Meunier2017]
+>Les modèles formels de type computationnel sont un sous-ensemble des modèles formels mathématiques. Comme ces derniers, ils utilisent des systèmes symboliques qui se caractérisent par un type particulier de manipulations de symboles et de formules. En effet, ces systèmes permettent d’effectuer un calcul sur les formules et de décider si elles appartiennent ou n’appartiennent pas au système dans lequel elles sont définies. Si telle est le cas, ces formules sont alors dites calculables et décidables
+—@Meunier2017 [8] 
+{lang=fr}
