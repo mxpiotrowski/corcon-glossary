@@ -1,5 +1,5 @@
 ---
-Time-stamp: "2022-07-22T01:03:47+0200 mpiotrow"
+Time-stamp: "2022-07-23T02:52:12+0200 mpiotrow"
 title: model
 id: 20220415244100
 ---
@@ -74,3 +74,7 @@ According to Suzanne [@Bachelard1979, 3]: "[un intermédiaire à qui nous délé
 [Both quoted in @Piotrowski2018d]
 
 [[20220415222900]] abundant attribute
+
+Note MP:
+
+[TODO] @Frigg2022 (I’ve just browsed Sect. 14 “What Are Models?” and at first sight, I don’t find the discussion convincing; it may nevertheless be useful as a counterpoint.  It may also be useful wrt. the relation between [[20220415254000]] theories and models, which is a question I haven’t really looked into yet.)
