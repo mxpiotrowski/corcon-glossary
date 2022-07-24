@@ -1,5 +1,5 @@
 ---
-Time-stamp: "2022-07-20T23:43:39+0200 mpiotrow"
+Time-stamp: "2022-07-24T23:42:14+0200 mpiotrow"
 title: data model
 id: 20220415229800
 ---
@@ -14,3 +14,10 @@ id: 20220415229800
 (Cf. RDF, description logic, etc.)
 
 This is compatible with my (MP) view that “data modeling” is more about “massaging” data so that it fits some *modeling framework* (a provisional term that I’m using in teaching, but haven’t defined yet).
+
+> One thing we ought to have clear in our minds at the outset of a modelling endeavor is whether we are intent on describing a portion of “reality” (some human enterprise), or a data processing activity.
+>
+> Most models describe data processing activities, not human enterprises.
+>
+> The pretend to describe entity types, but the vocabulary is from data processing: fields, data items, values.  Naming rules don’t reflect the conventions we use fore naming people and things; they reflect instead tecvhniques for locating records in files.  
+---@Kent1978 [96]
