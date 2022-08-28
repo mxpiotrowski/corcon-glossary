@@ -6,7 +6,9 @@ Set up for use with [Cosma](https://cosma.graphlab.fr/en/) ([manual](https://cos
 
 ## Bibliography
 
-The bibliography used by the glossary entries is in `bib/references.bib`.  Cosma needs a bibliography in CSL-JSON format; it can be generated using the makefile by saying `make references.json`.
+The bibliography used by the glossary entries is in `bib/references.bib`.  If you cite additional sources, please remember to add them to this file.
+
+Cosma needs a bibliography in CSL-JSON format; it can be generated using the makefile by saying `make references.json`.
 
 ## Tools
 
@@ -20,7 +22,7 @@ Personally, I use [Emacs](https://www.gnu.org/software/emacs/) (specifically the
 
 For citations, please use the [Pandoc citation syntax](https://pandoc.org/MANUAL.html#citation-syntax).
      
-Not only can it be processed by Pandoc, but also by Cosma and Zettlr.  Markdown editors like Zettlr provide autocompletion: when you type @ it will offer you the possible completions from the bibliography.  For this to work, the tool must know which bibliography database to use.  For Zettlr, go to Preferences → Citations and set it there.  Zettlr can directly use the database in BibTeX format, so you don’t have to regenerate the JSON version. Whatever tool you use, using the respective facility for automatically inserting citations saves work and avoids errors! Don’t do it manually!
+Not only can it be processed by Pandoc, but also by Cosma and Zettlr.  Markdown editors like Zettlr provide autocompletion: when you type @ it will offer you the possible completions from the bibliography.  For this to work, the tool must know which bibliography database to use.  For Zettlr, go to Preferences → Citations and set it there.  Zettlr can directly use the database in BibTeX format, so you don’t have to regenerate the JSON version. Whatever tool you use, using the respective facility for automatically inserting citations saves work and avoids errors!  Don’t do it manually!
 
 The rendering of citations depends on the CSL style used, so what it looks like can be changed—but this will only work when the citation syntax is correctly and consistently used!  The basic distinction to make is:
 
