@@ -1,9 +1,9 @@
 ---
 title: corpus type
-id: 
+id: 20220830232553
 ---
 
-A corpus, like any other collection of items, can be classified according to its type. Since the most systematic study of corpora comes from the area of corpus linguistics, we present some of the most basic corpus types as defined by some of the field's specialists (@Pearson1998, @Hunston2002, @Luedeling2008, @Dash2018). Of course, corpora can include all kinds of objects (i.e. images, artifacts, recordings etc.), however we mainly refer here to linguistic corpora, specifically those that are digitized. 
+A [[20220415228300]] corpus, like any other collection of items, can be classified according to its type. Since the most systematic study of corpora comes from the area of [[20220616094612]] corpus linguistics, we present some of the most basic corpus types as defined by some of the field's specialists (@Pearson1998, @Hunston2002, @Luedeling2008, @Dash2018). Of course, corpora can include all kinds of objects (i.e. images, artifacts, recordings etc.), however we mainly refer here to linguistic corpora, specifically those that are digitized. 
 
 Purpose and language seem to play a central role in classifying corpora. In terms of the first, two of the most basic categories are: 
 
@@ -38,7 +38,7 @@ In terms of the time range or period, during which the particular items are date
  
  Another essential division has to do with the corpus accessibility and sense of completeness. Those corpora that are openly accessible and downloadable through an online interface are classified as open-access, while those that their accessibility is limited or completely denied to the perspective user, are characterized as closed and/or inaccessible or partially accessible. Lisence issues also play an important role in accessing corpora in the Web. As far as the completeness (or incompleteness) of a corpus is concerned, a widely common example is the monitor corpus, which "is a representative corpus in the sense that it grows continuously with time to include infinite numbers and varieties of text samples from all possible sources of written and spoken language to represent the language in its truest possible sense" (@Dash2018). It should be noted here that a corpus can be classified to more than one types.
  
- From all the above-mentioned examples, one could easily grasp that the type of a corpus highly depends on his creator. His judgment and perspective is the ultimate factor, which enables a number of different parameters to be imposed for the construction of the corpus  (i.e. which items will be included, their overall number, how similar or homogenous are those items, how unique or structured are they and according to what standards etc.). This adds to the observation that corpora are models of certain phenomena, constructed by a number of subjects/users for a particular purpose or purposes (see _model_ entry and Stachowiak's three pivotal characteristics of models).
+ From all the above-mentioned examples, one could easily grasp that the type of a corpus highly depends on his creator. His judgment and perspective is the ultimate factor, which enables a number of different parameters to be imposed for the construction of the corpus  (i.e. which items will be included, their overall number, how similar or homogenous are those items, how unique or structured are they and according to what standards etc.). This adds to the observation that corpora are models of certain phenomena, constructed by a number of subjects/users for a particular purpose or purposes (see [[20220415244100]] model entry and Stachowiak's three pivotal characteristics of models).
  
 
 
