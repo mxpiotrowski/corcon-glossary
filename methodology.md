@@ -11,3 +11,5 @@ In id erat non orci commodo lobortis.
 ↗ [[20220415253600]] the model approach to the history of ideas
 ↗ [[20220415248300]] qualitative analysis
 ↗ [[20220415228600]] counterfactual analysis
+
+- [@Hiltmann2022]
