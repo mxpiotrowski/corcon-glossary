@@ -23,4 +23,4 @@ Re digital historay and “the professional guild of historians,” see also @La
 - [[20220415248700]] quantification
 - [[20220415227100]] computational linguistics 
 
-[see also @Fickers2022; @Romein2020; @Zaagsma2013]
+[see also @Fickers2022; @Romein2020; @Zaagsma2013; @Hiltmann2022; @Fickers2022b; @Schwandt2022; and probably other contributions in @Doering2022]
