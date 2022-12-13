@@ -9,3 +9,19 @@ Hans-Jörg Rheinberger (born 12 January 1946) is an [[20220415236400]] historian
 ↗ [[20220415234600]] experimental system
 
 [[20220415247100]] philosophy of science
+
+--------
+
+Notes from @Rheinberger2021:
+
+- https://de.wikipedia.org/wiki/Mary_Hesse
+- https://de.wikipedia.org/wiki/Nancy_Cartwright_(Philosophin)
+- Margaret Morrison https://en.wikipedia.org/wiki/Margaret_Morrison_(philosopher)
+- Mary S. Morgan https://en.wikipedia.org/wiki/Mary_S._Morgan
+- Evelyn Fox Keller https://en.wikipedia.org/wiki/Evelyn_Fox_Keller
+- https://en.wikipedia.org/wiki/The_Shape_of_Time
+- Cassirer, Studien zur Logik der Kulturwissenschaften (↗︎ Rheinberger 144)
+- Isabelle Stengers
+- Hélène Metzger
+- https://fr.wikipedia.org/wiki/La_Pens%C3%A9e_sauvage (Rheinberger, Taha)
+- Bloor, David (1976) Knowledge and Social Imagery, U of Chicago Press: “Bloor's principle of symmetry” (Taha)
