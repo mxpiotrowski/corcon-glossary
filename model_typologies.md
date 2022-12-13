@@ -3,7 +3,7 @@ title: model_typologies
 id: 20221103233311
 ---
 
-Various forms of classification of [[20220415244100]] models have been produced, leading to various model categories or typologies. 
+Various classifications of [[20220415244100]] models have been proposed, leading to various typologies of models.
 
 ## Varenne
 
@@ -90,7 +90,7 @@ The use can be:
 
 [@Stoff1966, 34]
 
-[↗ @Stoff1969]
+[German translation ↗ @Stoff1969, 48]
 
 ## …
 
