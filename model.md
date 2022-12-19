@@ -1,5 +1,5 @@
 ---
-Time-stamp: "2022-07-23T02:52:12+0200 mpiotrow"
+Time-stamp: "2022-12-19T23:27:01+0100 mpiotrow"
 title: model
 id: 20220415244100
 ---
@@ -67,7 +67,7 @@ Notes on etymology:
 https://en.wiktionary.org/wiki/modulus#Latin
 
 According to @Buethe2002 [482]: "a schematic statement of a theoretical argument, a hypothesized parsimonious abstraction or simplification of “reality” that depicts a deductively sound, systematic, regular relationship between specified aspects of reality and helps to explain that relationship."
-According to @Moles1995: "simulacre." He also notes: model = didactic (dynamic, not anatomique), and that "[Expliquer n’est plus analyser, c’est construire un modèle.]{lang=fr}"
+According to @Moles1995‌: "simulacre." He also notes: model = didactic (dynamic, not anatomique), and that "[Expliquer n’est plus analyser, c’est construire un modèle.]{lang=fr}"
 
 According to @Stachowiak1973 [56]: "[Hiernach ist alle Erkenntnis Erkenntnis in Modellen oder durch Modelle, und jegliche menschliche Weltbegegnung überhaupt bedarf des Mediums 'Modell']{lang=de}"
 According to Suzanne [@Bachelard1979, 3]: "[un intermédiaire à qui nous déléguons la fonction de connaissance, plus précisément de réduction de l’encore-énigmatique, en présence d’un champ d’études dont l’accès, pour des raisons diverses, nous est difficile]{lang=fr}." 

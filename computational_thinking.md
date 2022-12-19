@@ -1,10 +1,10 @@
 ---
-Time-stamp: "2022-07-05T17:02:51+0200 mpiotrow"
+Time-stamp: "2022-12-19T23:24:58+0100 mpiotrow"
 title: computational thinking
 id: 20220415227600
 ---
 
-The term *computational thinking* already occurs in @Papert1980, but it was popularized by @Wing2006.  Especially in the context of US education, computational thinking has become a buzzword that means different things to different people, which has lead some [[20220415227700]] computer scientists to identify it with programming skills or to reject it completely [e.g., @Guzdial2019], whereas others consider it useful [e.g., @Nardelli2019; @Denning2021].
+The term *computational thinking* already occurs in @Papert1980, but it was popularized by @Wing2006‌.  Especially in the context of US education, computational thinking has become a buzzword that means different things to different people, which has lead some [[20220415227700]] computer scientists to identify it with programming skills or to reject it completely [e.g., @Guzdial2019], whereas others consider it useful [e.g., @Nardelli2019; @Denning2021].
 
 In fact, @Wing2006 is quite clear:
 

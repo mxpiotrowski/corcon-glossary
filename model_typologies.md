@@ -26,7 +26,7 @@ It is the most detailed of thoses ways of categorising models for Varenne, he di
 9. Ease a comprehension
 10. Ease the draft of a theory: theorical model
 11. Ease an interpretation of theory: model of theory
-12. Ease an illsutration of a theory: model for the theory
+12. Ease an illustration of a theory: model for the theory
 13. Ease the intern coherence test of the theory
 14. Ease the applicability of a theory
 15. Ease the computability of a theory

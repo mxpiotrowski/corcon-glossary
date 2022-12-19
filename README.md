@@ -1,8 +1,15 @@
+---
+title: README
+id: 20221219233000
+---
+
 # corcon-glossary
 
 Glossary for the Corpora and Concepts project
 
 Set up for use with [Cosma](https://cosma.graphlab.fr/en/) ([manual](https://cosma.graphlab.fr/en/docs/user-manual/)) or [Zettlr](https://www.zettlr.com) ([manual](https://docs.zettlr.com/en/)).
+
+If you have the CLI version of Cosma installed ([User Manual (CLI)](https://cosma.graphlab.fr/en/docs/cli/user-manual/)), you can use the `cosmoscope.html` target of the makefile to generate a stand-alone cosmoscope.
 
 ## Bibliography
 
