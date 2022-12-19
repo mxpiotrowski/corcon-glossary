@@ -1,6 +1,9 @@
 BIB=bib/references.json
 CSL=bib/chicago-author-date
 
+cosmoscope.html: config.yml ${BIB}
+	cosma modelize --citeproc
+
 %.pdf: %.md ${BIB} pandoc/*.yaml
 	pandoc -s -t pdf \
 	       --bibliography=${BIB} \
