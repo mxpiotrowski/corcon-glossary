@@ -16,7 +16,7 @@ Data is a processable [[20220616094637]] representation of a [[20220415244100]] 
 - [@Kent1978]
 
 > The need to address [[20220418205352]] categories and levels of data is a pragmatic concern for managing information.  Yet data are often in the eye of the beholder.  In Buckland’s terms, data are [[20220415234500]] “alleged evidence”  [@Buckland1991].  What counts as good data varies widely, as one person’s noise is often another person’s signal.  
-—[@Borgman2009, ¶27]
+—@Borgman2009 [¶27]
 
 ## Data vs. Capta
 
@@ -46,21 +46,21 @@ Much more important than the etymology of a word is its *current* meaning; in pa
 
 The inadequacy of Drucker’s simplistic identification of “the empirical sciences” with realism becomes clear when we consider Rheinberger’s discussion of data in the context of scientific experiments [@Rheinberger2021, chap. 1].  For Rheinberger, experiments generate *traces*:
 
-{lang=de}
 > Alles Experimentieren mündet in das Generieren von Spuren.  
-—[@Rheinberger2021, 22]
+—@Rheinberger2021 [22]
+{lang=de}
 
 As a concrete example of an experimental method, which even explicitly refers to traces, he discusses the method of *radioactive tracing*.  He points out that experimental traces are ephemeral and need to be transformed into persistent data, which can be annotated and processed.  Rheinberger also stresses that data are “nothing original, nothing ‘given,’ as the name suggests, but the result of some processing”:
 
-{lang=de}
 > Sequenzgele wie auch andere experimentelle Spuren sind vergängliche Dinge. Zudem sieht man auf dem Gel erst einmal nichts, und so kann man es auch nicht bearbeiten. Um die Banden sichtbar zu machen, bearf es einer zusätzlichen Manipulation. Das gängige Verfahren dazu […] ist die Autoradiographie. Wenn die vorangehende Gelelektrophorese sozusangen noch nah am Material agierte und die Moleküle, um die es geht, aufnahm und entlang einer Raumachse verteilte, so macht sich die Autoradiographie allein die Strahlung der Moleküle zunutze und überträgt das – für sich genommen unsichtbare – Strahlungsmuster auf eine strahlungsempfindliche Filmplatte. Es wird damit zugleich sichtbar und dauerhaft konserviert. Außerdem kann die Fotografie bearbeitet werden: Man kann sie annotieren. Das sind alles Eigenschaften, die wir erwarten, wenn wir gemeinhin von Daten sprechen. Wir haben es also mit einer Transformation von flüchtigen Spuren in haltbare Daten zu tun. Daten sind demnach nichts Ursprüngliches, «Gegegbenes», wie der Name suggeriert, sondern das Ergebnis einer Verarbeitung. Spuren werden in einem geeigneten Medium fixiert und können in dieser dauerhaften Form weitergehend bearbeitet werden.  
 —@Rheinberger2021 [29]
+{lang=de}
 
 He summarizes:
 
-{lang=de}
 > Mit der Verwandlung von Spuren in Daten, die alle letztlich als Zahlen-, Buchstaben- oder Pixelfolgen codiert werden, wird ein entscheidender Übergang vollzogen. Man kann ihn auch als einen Übergang von der Graphematik des Experimentierraums zur Repräsentation im Datenraum betrachten. Die vielleicht wichtigste Konsequenz dieses Übergangs besteht darin, dass die spurenhaften Ergebnisse eines Experiments in eine Form gebracht werden, in der sie gespeichert und auch wieder abgerufen und damit verarbeitet, mit anderen Daten verglichen und dann auch zu Mustern verdichtet werden können. Es spricht einiges für die Annahme, dass die so geschaffene Dauerhaftigkeit das wichtigste Merkmal der Transposition von Spuren in Daten darstellt. Diese Fixierung ist die Voraussetzung für ihre neue Beweglichkeit im Datenraum, eine Eigenschaft, die den Spuren im Spurenraum fehlt.  
 —@Rheinberger2021 [32]
+{lang=de}
 
 Obviously, this cannot be directly applied to the humanities (and history in particular), as there is no experiment—and the extant historical traces are already persistent, which is precisely why we have them.  However, like experimental traces, they usually cannot be processed directly.  The transformation of historical traces into data (whatever this may involve) is less about making them persistent (even though this is an aspect that is often evoked in the context of the preservation of cultural heritage), but—like for experimental traces—the “mobility in the data space.”
 

@@ -58,7 +58,7 @@ add the language attribute on the following line, e.g.:
 {lang=fr}
 ```
 
-⚠ There is a slight problem, because Pandoc doesn’t support the combination of this type of attributes with citations, and Cosma currently doesn’t support fenced divs like
+⚠ There is a slight problem, because Pandoc doesn’t support the combination of this type of attributes with citations, and Cosma currently doesn’t support neither fenced divs like
 
 ```
 ::: {lang=fr}
@@ -66,7 +66,7 @@ add the language attribute on the following line, e.g.:
 :::
 ```
 
-but at least this ensures that the information is recorded consistently and can thus be acted upon later on (e.g., transformed into a different format).
+nor HTML `div` attributes.  But at least this notation ensures that the information is recorded consistently and can thus be acted upon later on (e.g., transformed into a different format using a Pandoc Lua filter).
 
 Not strictly citations, but related: a cross reference to another entry (wiki link) should come *before* the term or the words that describe it.  So:
 
