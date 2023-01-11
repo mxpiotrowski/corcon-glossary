@@ -9,6 +9,25 @@ Data is a processable [[20220616094637]] representation of a [[20220415244100]] 
 
 --------
 
+@Torgerson2022 [43] (which is itself probably relevant for the topic) quotes @Kitchin2014b:
+
+> Data are commonly understood to be the raw material produced by abstracting the world into categories, measures and other representational forms – numbers, characters, symbols, images, sounds, electromagnetic waves, bits – that constitute the building blocks from which information and knowledge are created.  
+—@Kitchin2014b [1]
+
+This sounds not quite unlike our draft definition.  Interestingly, in the 2^nd^ edition, Kitchin has shortened this introductory sentence to:
+
+> Data are commonly understood as measures of the world and the building blocks from which information, knowledge and value are produced.  
+—@Kitchin2021 [3]
+
+Instead he uses the Oxford English Dictionary’s definition as a starting point:
+
+> This definition reveals data to be representative pieces of information about phenomena and the input for (and output from) computational processes. Data reflect some aspect of the world (e.g. a person’s age, height, weight, colour, blood pressure, opinion, habits, location, etc.) or the results of an experiment (a controlled condition for determining something about phenomena) captured through some form of observation or measurement (e.g. a scientific instrument, sensor, camera, survey, etc.).  They can also be derived in nature (e.g. data that are produced from other data, such as percentage change over time calculated by comparing data from two dates), generated indirectly as the exhaust of another process (e.g. a database of social media posts), and produced through inference, prediction and simulation.  Data can take a number of forms – numbers, characters, symbols, images, sounds, electromagnetic waves, bits – and be recorded and stored in analogue or digital form.  
+—[@Kitchin2021, 4]
+
+This might be said to amount to more or less the same, but I’m not sure it is actually an improvement, as it now mentions a number of additional concepts that are not straightforward either (e.g., experiment and observation; see the discussion of @Rheinberger2021 below).
+
+--------
+
 [[20220415234900]] Facts and [[20220415252400]] statistics collected together for reference or analysis. They can be either quantitative or qualitative, depending on their values and the question they aim to answer. More often, they are associated with the information which is produced by a machine or [[20220415230500]] computer.
 
 “data are [[20220616094637]] representations of [[20220616094631]] observations, objects, or other [[20220616094614]] entities used as [[20220415234500]] evidence of [[20220415246700]] phenomena for the purposes of research or scholarship.” [@Borgman2015, xvii-xviii]
