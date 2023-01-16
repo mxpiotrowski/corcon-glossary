@@ -1,5 +1,5 @@
 ---
-Time-stamp: "2022-07-20T22:23:25+0200 mpiotrow"
+Time-stamp: "2023-01-16T18:51:39+0100 mpiotrow"
 title: uncertainty
 id: 20220415254700
 ---
@@ -27,3 +27,21 @@ For going beyond concrete relationship *instances*, Kent suggests that we “thi
 If we consider uncertainty a “lack of information,” information as relationships (in the sense of Kent), and relationships as patterns, then many types of uncertainty could probably described as incompletely specified relationships: open slots cannot be filled by just anything, but the filler must *match*.
 
 And indeed, also regular expressions for strings describe uncertainty, such as *a* followed by five characters (we are uncertain about which ones exactly), followed by *b*.
+
+----
+
+Interesting note in the apparatus of @Bachelard2020 [228]:
+
+> En physique classique, l’état du système est supposé déterminé, en particulier sa position et sa vitesse, bien qu’on ne puisse les mesurer avec une absolue précision. L’usage des probabilités est donc supposé pallier notre ignorance : il quantifie notre incertitude sur un état parfaitement déterminé. Il en va ainsi même dans les théories statistiques : on renonce à suivre les trajectoires individuelles des corpuscules sans abandonner l’hypothèse qu’ils ont une position et suivent une trajectoire déterminée. Il en va autrement en mécanique quantique puisque le phénomène est défini par une amplitude de probabilité qui quantifie l’indétermination relative de la position et de l’impulsion. Les probabilités n’expriment donc pas l’imprécision de la connaissance sur un état déterminé, mais la précision maximale sur un état d’indétermination (cf. Christian de Ronde et Vincent Bontems, « La notion d’entité en tant qu’obstacle épistémologique. Bachelard, la mécanique quantique et la logique », *Bulletin de l’Association des amis de Gaston Bachelard*, no 13, 2011, p. 12-38). L’élaboration du « probabilisme » dans NES marque une inflexion par rapport à ECA où Bachelard en restait à une conception subjectiviste des probabilités.
+
+What I mean is :
+
+« L’usage des probabilités est donc supposé pallier notre ignorance : il quantifie notre incertitude sur un état parfaitement déterminé. »
+
+vs.
+
+« Les probabilités n’expriment donc pas l’imprécision de la connaissance sur un état déterminé, mais la précision maximale sur un état d’indétermination. »
+
+(The reference is to @deRonde2011.)
+
+Could this distinction be useful for history as well?

@@ -1,5 +1,5 @@
 ---
-Time-stamp: "2022-12-19T23:27:01+0100 mpiotrow"
+Time-stamp: "2023-01-16T18:26:19+0100 mpiotrow"
 title: model
 id: 20220415244100
 ---
@@ -78,3 +78,31 @@ According to Suzanne [@Bachelard1979, 3]: "[un intermédiaire à qui nous délé
 Note MP:
 
 [TODO] @Frigg2022 (I’ve just browsed Sect. 14 “What Are Models?” and at first sight, I don’t find the discussion convincing; it may nevertheless be useful as a counterpoint.  It may also be useful wrt. the relation between [[20220415254000]] theories and models, which is a question I haven’t really looked into yet.)
+
+Note MP:
+
+[TODO] @Russell2010 [13] summarize @Craik1943 [50]:
+
+> Craik specified the three key setps of a knowledge-based agent: (1) the stimulus must be translated into an internal representation, (2) the representation is émanipulated by cognitive processes to derive new internal representations, and (3) these are in turn retranslated back into action.
+
+They then quote him:
+
+> If the organism carries a “small-scale” model of external reality and of its own possible actions within its head, it is able to try out various alternatives, conclude which is the best of them, react to future situations before they arise, utilise the knowledge of past events in dealing with the present and future, and in every way to react in a much fuller, safer, and more competent manner to the emergencies which face it.  
+—@Craik1943 [61]
+
+This corresponds quite well to the modeling triad.  The book seems to be generally quite interesting wrt. to the notion of model.  For the moment, here’s the rest of the passage:
+
+> Most of the great advances of modern technology have been instruments which extended the scope of our sense-organs, our brains or our limbs.  Such are telescopes and microscopes, wireless, calculating machines, typewriters, motor cars, ships and aeroplanes.  Is it not possible, therefore, that our brains themselves utilise comparable mechanisms to achieve the same ends and that these mechanisms can parallel phenomena in the external world as a calculating machine can parallel the development of strains in a bridge?  
+—@Craik1943 [61]
+
+On page 51ff, he attempts to define model:
+
+> Surely, however, this process of prediction is not unique to minds, though no doubt it is hard to imitate the flexibility and versatility of mental prediction.  A calculating machine, an anti-aircraft “predictor,” and Kelvin’s tidal predictor all show the same ability.  In all these latter cases, the physical process which it is desired to predict is *imitated* by some mechanical device or model which is cheaper, or quicker, or more convenient in operation.  Here we have a very close parallel to our three stages of reasoning—the “translation” of the external processes into their representatives (positions of gears, etc.) in the model; the arrival at other positions of gears, etc., by mechanical processes in the instrument; and finally, the retranslation of these into physical processes of the original type.
+>
+> By a model we thus mean any physical or chemical system which has a similar relation-structure to that of the process it imitates.  By “relation-structure” I do not mean some obscure non-physical entity which works in the same way as the process it parallels, in the aspects under consideration at any moment.  Thus, the model need not resemble the real object pictorially; Kelvin’s tide-predictor, which consists of a number of pulleys on levers, does not resemble a tide in appearance, but it works in the same way in certain essential respects—it combines oscillations of various frequencies so as to produce an oscillation which closely resembles in amplitude at each moment the variation in tide level at any place.  Again, since the physical object is “translated” into a working model which gives a prediction which is retranslated into terms of the original object, we cannot say that the model invariably either precedes or succeeds the external object it models.  The only logical distinction is on the ground of cheapness, speed, and convenience.  
+—@Craik1943 [51–52]
+
+> Any kind of working model of a process is, in a sense, an analogy.  Being different it is bound somewhere to break down by showiing properties not found in the process it imitates or by not possessing properties possessed by the process it imitates.  Perhaps the extraordinary pervasiveness of number, and the multiplicity of operations which can be performed on number without leading to inconsistency, is not a proof of the “real exsistence” of numbers as such but a proof of the extreme flexibility of the neural model or calculating machine.  This flexibility renders a far greater number of operations possible for it than for any other single process or model.  
+—@Craik1943 [53–54]
+
+
