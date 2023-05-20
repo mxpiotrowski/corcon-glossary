@@ -1,36 +1,36 @@
 select_origin: directory
 files_origin: .
-nodes_origin: ''
-links_origin: ''
-nodes_online: ''
-links_online: ''
-images_origin: ''
-export_target: ''
+nodes_origin: ""
+links_origin: ""
+nodes_online: ""
+links_online: ""
+images_origin: ""
+export_target: ""
 history: true
 focus_max: 2
 record_types:
   undefined:
-    fill: '#858585'
-    stroke: '#858585'
+    fill: "#858585"
+    stroke: "#858585"
   person:
-    fill: '#ff8c00'
-    stroke: '#858585'
+    fill: "#ff8c00"
+    stroke: "#858585"
   discipline:
-    fill: '#00fa9a'
-    stroke: '#858585'
+    fill: "#00fa9a"
+    stroke: "#858585"
 link_types:
   undefined:
     stroke: simple
-    color: '#e1e1e1'
+    color: "#e1e1e1"
   isa:
     stroke: double
-    color: '#d2691e'
+    color: "#d2691e"
   alt:
     stroke: dotted
-    color: '#8fbc8f'
+    color: "#8fbc8f"
 record_filters: []
-graph_background_color: '#ffffff'
-graph_highlight_color: '#ff6a6a'
+graph_background_color: "#ffffff"
+graph_highlight_color: "#ff6a6a"
 graph_highlight_on_hover: true
 graph_text_size: 10
 graph_arrows: true
@@ -43,18 +43,18 @@ attraction_distance_max: 250
 attraction_vertical: 0
 attraction_horizontal: 0
 views: {}
-chronological_record_meta: last_edit
+chronological_record_meta: created
 record_metas:
   - Time-stamp
 title: Corpora and Concepts Glossary
-author: ''
-description: ''
+author: ""
+description: ""
 keywords: []
-link_symbol: ''
+link_symbol: ""
 csl: bib/chicago-author-date.csl
 bibliography: bib/references.json
 csl_locale: bib/locales-en-US.xml
-css_custom: ''
+css_custom: ""
 devtools: false
 lang: en
-name: ''
+name: ""
