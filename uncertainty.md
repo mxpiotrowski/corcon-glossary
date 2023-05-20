@@ -1,5 +1,5 @@
 ---
-Time-stamp: "2023-01-16T18:51:39+0100 mpiotrow"
+Time-stamp: "2023-05-20T22:13:37+0200 mpiotrow"
 title: uncertainty
 id: 20220415254700
 ---
@@ -42,6 +42,6 @@ vs.
 
 « Les probabilités n’expriment donc pas l’imprécision de la connaissance sur un état déterminé, mais la précision maximale sur un état d’indétermination. »
 
-(The reference is to @deRonde2011.)
+(The reference is to @deRonde2011﻿.)
 
 Could this distinction be useful for history as well?

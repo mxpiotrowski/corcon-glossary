@@ -9,7 +9,7 @@ Data is a processable [[20220616094637]] representation of a [[20220415244100]] 
 
 --------
 
-@Torgerson2022 [43] (which is itself probably relevant for the topic) quotes @Kitchin2014b:
+@Torgerson2022 [43] (which is itself probably relevant for the topic) quotes @Kitchin2014b﻿:
 
 > Data are commonly understood to be the raw material produced by abstracting the world into categories, measures and other representational forms – numbers, characters, symbols, images, sounds, electromagnetic waves, bits – that constitute the building blocks from which information and knowledge are created.  
 —@Kitchin2014b [1]
