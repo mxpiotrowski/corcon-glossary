@@ -38,6 +38,7 @@ header-includes: |
   \newunicodechar{ᵉ}{\textsuperscript{e}}
   \newunicodechar{ᵒ}{\textsuperscript{o}}
   \newunicodechar{ʹ}{\textquotesingle} % U+02B9 MODIFIER LETTER PRIME
+  \newunicodechar{﻿}{} % U+FEFF ZERO WIDTH NO-BREAK SPACE
   \widowpenalty50000
   \clubpenalty50000
   ```
