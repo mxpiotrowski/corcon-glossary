@@ -13,7 +13,7 @@ Notes MP:
 
 There seems to be a general consensus that there is a relation between theories and [[20220415244100]] models; however, there seems to be no widespread agreement about what this relation is, or even what the difference between a model and a theory is.
 
-In the following quote Weizenbaum implicitly (IIRC) draws on the notions of *model* and *theory* from *mathematical* model theory.  This is not necessarily bad—especially given Weizenbaum’s example of a pendulum—and a good starting point, but one has to remember that mathematical model theory simplifies things *a lot*, to the point that one could argue that it is really just a terminological similarity (e.g., mathematical theory is not concerned with “real” originals).
+In the following quote [[20230626220633]] Weizenbaum implicitly (IIRC) draws on the notions of *model* and *theory* from *mathematical* model theory.  This is not necessarily bad—especially given Weizenbaum’s example of a pendulum—and a good starting point, but one has to remember that mathematical model theory simplifies things *a lot*, to the point that one could argue that it is really just a terminological similarity (e.g., mathematical theory is not concerned with “real” originals).
 
 > The connection between a model and a theory is that a model *satisfies* a theory; that is, a model obeys those laws of behavior that a corresponding theory explicitly states or which may be derived from it. […]
 >
@@ -21,3 +21,6 @@ In the following quote Weizenbaum implicitly (IIRC) draws on the notions of *mod
 —@Weizenbaum1984 [143–145]
 
 [TODO] @Frigg2022
+
+[TODO] [Models in Science (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/models-science/) (authors: Roman Frigg and Stephan Hartmann)
+

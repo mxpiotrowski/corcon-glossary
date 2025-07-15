@@ -1,5 +1,5 @@
 ---
-Time-stamp: "2023-01-16T18:26:19+0100 mpiotrow"
+Time-stamp: "2025-07-15T20:42:09+0200 mpiotrow"
 title: model
 id: 20220415244100
 ---
@@ -78,6 +78,8 @@ According to Suzanne [@Bachelard1979, 3]: "[un intermédiaire à qui nous délé
 Note MP:
 
 [TODO] @Frigg2022 (I’ve just browsed Sect. 14 “What Are Models?” and at first sight, I don’t find the discussion convincing; it may nevertheless be useful as a counterpoint.  It may also be useful wrt. the relation between [[20220415254000]] theories and models, which is a question I haven’t really looked into yet.)
+
+↗ [Author and Citation Information for "Models in Science"](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=models-science) (authors: Roman Frigg and Stephan Hartmann)
 
 Note MP:
 
