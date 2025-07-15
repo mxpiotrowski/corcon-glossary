@@ -22,5 +22,5 @@ In the following quote [[20230626220633]] Weizenbaum implicitly (IIRC) draws on 
 
 [TODO] @Frigg2022
 
-[TODO] [Models in Science (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/models-science/) (authors: Roman Frigg and Stephan Hartmann)
+[TODO] [Models in Science (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/archives/sum2025/entries/models-science/) (authors: Roman Frigg and Stephan Hartmann)
 
