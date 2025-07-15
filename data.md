@@ -43,9 +43,9 @@ In [[20220415230900]] digital humanities, many scholars like to refer to @Drucke
 
 “Digital humanists” clearly love it when Drucker pits “humanism” against “the empirical sciences” and clamors for “a radical critique to return the humanistic tenets of constructed-ness and interpretation to the fore” [@Drucker2011, §1].  However, as [@Lavin2021, §5] observes, in actual practice, there are no signs of “a large-scale movement to purge documents of the word *data*, nor have the word *capta* or its cognates become especially prevalent in digital humanities scholarship.”
 
-While Drucker’s constructivist position may first sight seem to match our own position, we think there are a number of issues with it.
+While Drucker’s constructivist position may at first sight seem to match our own position, we think there are a number of issues with it.
 
-First of all, Drucker is not the first to come up with the term *capta* to emphasize that data are not “given by nature”; @Jensen1950’s  remark from 1950 reads surprisingly similar:
+First of all, Drucker is not the first to come up with the term *capta* to emphasize that data are not “given by nature”; @Jensen1950’s remark from 1950 reads surprisingly similar:
 
 > It is an unfortunate accident of history that the term *datum* (Latin, past participle of *do*, “to give”) rather than *captum* (Latin, past participle of *capere*, “to take”) should have come to symbolize the unit-phenomenon in science.  For science deals, not with “that which has been given” by nature to the scientist but with “that which has been taken” or selected from nature by the scientist in accordance with his purpose, and to a degree even constructed out of nature by the scientist’s preliminary assumptions as to which of “the things which have been given” are also to be “taken” or observed.  
 —@Jensen1950 [ix]
