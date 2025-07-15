@@ -1,5 +1,5 @@
 ---
-Time-stamp: "2022-06-24T22:31:49+0200 mpiotrow"
+Time-stamp: "2023-10-10T23:27:33+0200 mpiotrow"
 title: discipline
 id: 20220415232500
 type: discipline
@@ -41,3 +41,8 @@ I agree that from this perspective, “[e]verything else about the notion of dis
 —@Turner2000 [64–65]
 
 While I largely agree, this view leaves out the competion for resources, which are often tied to the status of a discipline, either through institutional structures or through evaluation.
+
+----
+
+> Successfully pulling off that fusion of topic area and method is what makes “disciplinarity” a real thing. It’s what prevents the Chemists from showing up in the French department (and vice versa) to let everyone there know they’re doing it wrong. In this sense, academic disciplines are a kind of ongoing, semi-public, semi-exclusive conversation. The exclusivity comes not just through the subject matter, but from the relative effectiveness of socialization into standards of evaluation and relevance.  
+—[Conversational Disciplines - kieranhealy.org](https://kieranhealy.org/blog/archives/2018/05/31/conversational-disciplines/)
